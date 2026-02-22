@@ -1,0 +1,737 @@
+Location,Age,Sex,Measure,Metric,Pathogen,Antibiotic class,Counterfactual,Year,Value,Upper,Lower
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1990,0.3270272422199164,0.4671761318383429,0.18687835260149
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1991,0.3263921240767898,0.4545593557143924,0.1982248924391872
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1992,0.3238945396612014,0.45261393336537004,0.19517514595703278
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1993,0.3406606706825146,0.4883032873723129,0.1930180539927164
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1994,0.36935845500778,0.5297407615386862,0.2089761484768738
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1995,0.4092347827707003,0.6013613919599891,0.2171081735814116
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1996,0.4157243343663714,0.5986194367147629,0.23282923201798
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1997,0.4445775405949024,0.6195607472887524,0.2695943339010523
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1998,0.4792496955763972,0.6678783939981194,0.290620997154675
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1999,0.5099220626222569,0.7852225631664141,0.2346215620780997
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2000,0.5396486607862956,0.7822444730374415,0.2970528485351497
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2001,0.5401710665475253,0.78151524002708,0.29882689306797067
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2002,0.5445332554700816,0.7900417344250152,0.2990247765151479
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2003,0.5357003029193761,0.76823226120292,0.3031683446358322
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2004,0.5364519067793341,0.790355041715386,0.28254877184328225
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2005,0.5473401407468111,0.8104867012981933,0.2841935801954289
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2006,0.5467338089988755,0.8034387675116252,0.29002885048612564
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2007,0.5591736791415411,0.8055465417045165,0.31280081657856584
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2008,0.5426803386130558,0.7625123183997461,0.3228483588263654
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2009,0.48594505376895414,0.7130179619146185,0.25887214562328975
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2010,0.5083759726962105,0.738014602992179,0.27873734240024195
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2011,0.55357157036992,0.783140883252192,0.32400225748764794
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2012,0.5783060772359903,0.8390612531196815,0.317550901352299
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2013,0.6026416107575037,0.906053633714156,0.29922958780085135
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2014,0.6300748968137879,0.911913048071429,0.34823674555614686
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2015,0.5782421832797344,0.814417319219563,0.3420670473399059
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2016,0.5332412388703223,0.7578392811205727,0.3086431966200718
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2017,0.47368517173574964,0.6514750190750429,0.2958953243964564
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2018,0.3999660331500925,0.544752650522918,0.255179415777267
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2019,0.3600106283899494,0.506841612066484,0.21317964471341483
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2020,0.33536753266029024,0.4707669143499053,0.19996815097067516
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2021,0.2872327380448157,0.4204626135022481,0.15400286258738327
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1990,0.0628321678825539,0.1054170989288118,0.0202472368362959
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1991,0.0633795450507244,0.1007729860675703,0.0259861040338784
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1992,0.06686696424171794,0.1109580246462761,0.02277590383715978
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1993,0.0689459251416731,0.1166301551300828,0.0212616951532634
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1994,0.0732932350440487,0.1201301550030019,0.0264563150850954
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1995,0.0810877172206091,0.1405111185944412,0.0216643158467769
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1996,0.0860596679895478,0.1422135736423619,0.0299057623367336
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1997,0.0953150741737356,0.1516038836941445,0.0390262646533267
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1998,0.0997394885192448,0.1639899849443006,0.035488992094189
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1999,0.10681737374051367,0.1815847382720406,0.032050009208986735
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2000,0.11477938815682351,0.18273478177652278,0.04682399453712424
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2001,0.11399272538812838,0.19422083148586206,0.033764619290394704
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2002,0.11972408653520954,0.1964559018701697,0.04299227120024936
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2003,0.11945386335825012,0.20267480966383877,0.036232917052661476
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2004,0.11350140591311449,0.1997092051527069,0.02729360667352207
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2005,0.1123753529660865,0.19928370129331352,0.02546700463885948
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2006,0.12147661614074634,0.20992439002475066,0.03302884225674202
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2007,0.12232460993973177,0.20741659205294288,0.037232627826520634
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2008,0.1152475601120051,0.1920239817873892,0.038471138436621005
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2009,0.10435970074707526,0.1760369641602152,0.03268243733393532
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2010,0.10596772857913922,0.17387996411759604,0.0380554930406824
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2011,0.1204546892126583,0.20149078487275382,0.039418593552562775
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2012,0.1278107889372088,0.2087543910919789,0.046867186782438675
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2013,0.14100042076458907,0.22631142702634338,0.05568941450283475
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2014,0.1594705733872484,0.2462375587447524,0.07270358802974441
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2015,0.15751148262694545,0.23263584295370268,0.08238712230018821
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2016,0.15068034654028228,0.22143105030635027,0.0799296427742143
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2017,0.13898974988743076,0.1966640883950987,0.08131541137976284
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2018,0.1145163176651148,0.1612342851663604,0.0677983501638692
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2019,0.10769921976353589,0.1555568891555376,0.05984155037153418
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2020,0.10393417268875035,0.15141960149667466,0.05644874388082605
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2021,0.09142885967015,0.13734945719617211,0.0455082621441279
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1990,0.0601216598526122,0.1323684893790084,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1991,0.0592986528450956,0.1210426326858313,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1992,0.06700710662079544,0.14506073554990212,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1993,0.0702738611826838,0.1449909066050113,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1994,0.0703262234211217,0.1429408214557973,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1995,0.0763899584294381,0.1608384671045752,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1996,0.0798417606655172,0.1580176721737869,0.0016658491572475
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1997,0.089729507516679,0.1762784934831118,0.0031805215502461
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1998,0.0927670128025809,0.1847557007021789,0.0007783249029829
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1999,0.09478754171169482,0.19639893884765375,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2000,0.10209772256915217,0.19879844875888653,0.005396996379417804
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2001,0.10317057676778375,0.20636903947868795,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2002,0.10518715475491594,0.20764573642089107,0.002728573088940825
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2003,0.10327109559073641,0.20454683885705957,0.001995352324413252
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2004,0.09986479326655841,0.20703701863473506,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2005,0.09880596094244745,0.1982539216661832,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2006,0.10982523366671876,0.22026317705809145,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2007,0.10035516733750316,0.1960312220325165,0.0046791126424898105
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2008,0.10002209610847926,0.19510665790162915,0.004937534315329367
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2009,0.0916055957746324,0.18176057385417194,0.0014506176950928595
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2010,0.08926796213321292,0.181265064628717,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2011,0.08284380400689598,0.1690856440100707,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2012,0.09139240894903047,0.18981648914991806,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2013,0.10833668488802736,0.22321590899171434,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2014,0.10341120048687684,0.20750788735899384,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2015,0.11168158892099597,0.23699397324264904,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2016,0.11128131070924949,0.24043768137591703,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2017,0.10593058306017489,0.2143795013904543,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2018,0.0892008408762393,0.18194662994658073,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2019,0.07469726579630319,0.14982865162104886,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2020,0.07866360141453799,0.16097347915868873,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2021,0.0697136607638741,0.14472276870380674,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1990,0.0654060324163496,0.0891196053666381,0.041692459466061
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1991,0.0655025669806441,0.0876808988847266,0.0433242350765616
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1992,0.06823244067198662,0.09049770690162656,0.04596717444234669
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1993,0.0901819586088519,0.1233388366375805,0.0570250805801234
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1994,0.0759777962569364,0.1015003615599484,0.0504552309539243
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1995,0.0686976919510452,0.0955315569162852,0.0418638269858053
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1996,0.0852590615139205,0.1168496504049427,0.0536684726228983
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1997,0.1093884167659394,0.1472916146137752,0.0714852189181035
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1998,0.1179790998747642,0.1593124916362351,0.0766457081132934
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1999,0.08786824741197738,0.12882385818220002,0.04691263664175473
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2000,0.08473730643774582,0.11748331770309345,0.05199129517239821
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2001,0.12262696633882787,0.171103917583041,0.07415001509461476
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2002,0.1328230147484846,0.1858718424206004,0.0797741870763688
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2003,0.10164314206760588,0.13999217315628815,0.06329411097892361
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2004,0.18054338758199406,0.2609107309542076,0.10017604420978056
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2005,0.18186248375850228,0.2594233832994903,0.10430158421751429
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2006,0.17052554904368894,0.24288288556615226,0.09816821252122562
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2007,0.0806305442887141,0.11138994336937177,0.049871145208056446
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2008,0.09462311638152696,0.12943998687570704,0.059806245887346864
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2009,0.14705653913205344,0.20786402607592028,0.0862490521881866
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2010,0.14108051607453417,0.199687878014186,0.08247315413488235
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2011,0.19427684590253216,0.2717592973253099,0.11679439447975444
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2012,0.24624900400187685,0.34969373881956545,0.14280426918418826
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2013,0.24774413387159983,0.3587253593625018,0.1367629083806978
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2014,0.26555537259500606,0.3725303629428876,0.1585803822471245
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2015,0.1959510021038184,0.2745915069962993,0.1173104972113375
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2016,0.25727559472901196,0.35820557830521593,0.15634561115280798
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2017,0.24355865861973022,0.3305588198201616,0.15655849741929884
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2018,0.19470162669899993,0.2636272134948939,0.12577603990310599
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2019,0.18431427077451656,0.25634344468231773,0.11228509686671542
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2020,0.1744911009498086,0.24286414825691197,0.10611805364270524
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2021,0.15365419192075283,0.2217690845107032,0.08553929933080247
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1990,0.1682576649157267,0.2672103105130883,0.069305019318365
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1991,0.1749248682452599,0.2695555731522436,0.0802941633382762
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1992,0.19325566133261432,0.2900079519305716,0.09650337073465702
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1993,0.2035226799854577,0.3208107492846526,0.0862346106862627
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1994,0.2238416889646205,0.3451960943709551,0.1024872835582859
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1995,0.2322411603143824,0.3725913503861483,0.0918909702426165
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1996,0.2496800340244761,0.3940796313310387,0.1052804367179135
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1997,0.2580545370187992,0.3967912136145057,0.1193178604230927
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1998,0.279921059661794,0.4368769518741522,0.1229651674494357
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1999,0.2935660940164727,0.5047583242165858,0.08237386381635955
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2000,0.30815177257922977,0.49467177536777585,0.12163176979068369
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2001,0.3195067188372749,0.5146144598673437,0.12439897780720605
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2002,0.3299397114497148,0.5310037974964643,0.1288756254029653
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2003,0.3283649249092116,0.5159303796801054,0.1407994701383178
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2004,0.3195326670683274,0.52870477572405,0.11036055841260484
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2005,0.32146330743864804,0.5351585642159529,0.10776805066134315
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2006,0.32337561817023613,0.5331152280620057,0.11363600827846648
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2007,0.3349249992392256,0.5312497547030215,0.13860024377542962
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2008,0.31538666956956407,0.49062640734557184,0.14014693179355633
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2009,0.28597003422584943,0.46952359043847836,0.10241647801322054
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2010,0.28578836327517093,0.46180449269498136,0.1097722338553605
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2011,0.2975585000521106,0.48452466429945473,0.11059233580476643
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2012,0.2954757511318856,0.491151191373316,0.0998003108904553
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2013,0.31101391323233063,0.5370314276726034,0.08499639879205786
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2014,0.3252662318846706,0.5359868451952868,0.11454561857405429
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2015,0.36598757782570224,0.5828728369083607,0.14910231874304386
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2016,0.3634602918273352,0.5865341955935275,0.14038638806114287
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2017,0.34767792446746515,0.5352128968832683,0.16014295205166196
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2018,0.29211010794937736,0.44674824830703824,0.13747196759171648
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2019,0.27426544760081945,0.436276026276121,0.11225486892551789
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2020,0.2775760439358569,0.43879407995565556,0.11635800791605819
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2021,0.23457962710107383,0.39344868617652073,0.0757105680256269
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1990,0.00005411988051217983,0.000163059722336,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1991,0.000054081373677763455,0.000162606132719,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1992,0.00005759614963997602,0.00017303239421432123,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1993,0.00006590559439746667,0.0001984080408267,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1994,0.00006997103957755868,0.0002097879086537,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1995,0.0000739522976320635,0.0002203620609423,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1996,0.00007587051228263145,0.0002246299240755,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1997,0.00007980873413827828,0.000235403958335,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1998,0.0000832528360142059,0.0002441392980809,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1999,0.00008660684315112802,0.00025430490037143475,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2000,0.00008806578435658861,0.0002583550339514188,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2001,0.00008731809583036913,0.00025538359827340085,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2002,0.00008546203268907136,0.0002514097372599519,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2003,0.00007880493134377585,0.00023125179584004255,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2004,0.00006929202442873283,0.0002044802581606097,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2005,0.00006283072891469558,0.0001849270565478475,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2006,0.00005946429784252716,0.00017569424251899157,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2007,0.00005735521008647879,0.00016939655053946435,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2008,0.000055631348696545396,0.0001633271139020782,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2009,0.00005134350926256297,0.00015204464263479035,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2010,0.000050876234120906695,0.00014995914476874324,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2011,0.000046773997040199535,0.00013882385632713753,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2012,0.00004149306003989123,0.00012333502335590797,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2013,0.00004166189914170314,0.00012379785966850664,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2014,0.00004936826222145851,0.00014905936380472996,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2015,0.000054725677993188625,0.00016671898876125893,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2016,0.000051825291714001695,0.0001574591120861866,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2017,0.00004578366475211103,0.0001384993909806434,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2018,0.00003817917990356012,0.0001154512986031833,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2019,0.00003473490816247638,0.00010537540297934315,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2020,0.00003995240701375688,0.00012046649042362248,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2021,0.00003318627054564915,0.00010004628264647235,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1990,1.0079087505966746e-7,2.3370168065118118e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1991,1.2216883399654672e-7,2.842322259959469e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1992,1.5585737414217916e-7,3.635327648144754e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1993,2.0395736785259013e-7,4.765814499279459e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1994,3.136264308394076e-7,7.294837924863993e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1995,3.512309576010674e-7,8.041261599364709e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1996,4.077249212703853e-7,9.365742722146968e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1997,4.488452918367635e-7,0.0000010335967050623244,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1998,5.204511438848461e-7,0.000001206151723116106,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1999,5.498785193906312e-7,0.0000012763352638527168,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2000,5.650755331488706e-7,0.0000013304206878361776,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2001,6.727336946944003e-7,0.0000015869020593564454,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2002,6.639145077587123e-7,0.0000015598583109103013,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2003,7.816540179631798e-7,0.0000018421457308530483,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2004,7.609004160017784e-7,0.0000017952500494152411,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2005,6.635272018711744e-7,0.0000015909302659747762,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2006,5.156049491684131e-7,0.0000012305469276759469,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2007,3.9066716064298743e-7,9.327009337023242e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2008,2.9751903673742093e-7,7.063822795282169e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2009,2.553274491875553e-7,6.012510413459244e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2010,2.1625200433454668e-7,4.790924336885631e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2011,2.665727405265598e-7,5.914741635356905e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2012,2.130699156322995e-7,4.7237851020337287e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2013,2.1565681782411238e-7,4.794859157336638e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2014,3.5580646635961165e-7,7.993744123429711e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2015,4.2352356096355087e-7,9.5377451900524e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2016,3.88541774447622e-7,8.791991108364397e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2017,3.835572519809042e-7,8.681405739516001e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2018,2.5653235730312144e-7,5.776266224224004e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2019,2.49854502824548e-7,5.60799941055175e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2020,1.76531845613475e-7,3.974429128875406e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2021,1.4775881572577312e-7,3.3164986731303964e-7,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1990,0.00001026258097326743,0.00002880081989238148,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1991,0.000010033796584208478,0.000027300755775679307,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1992,0.00001025424476444503,0.00002750140762929234,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1993,0.000010444261178280116,0.00002740043675373973,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1994,0.000011361440694886093,0.00002841379059370796,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1995,0.000013342724613204646,0.00003254156407291461,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1996,0.000014506698538580549,0.00003512130559027638,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1997,0.00001590539141573917,0.00003885813686519664,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1998,0.00001767445818238881,0.00004346293608103376,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1999,0.000018627076948467675,0.000046597474500784504,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2000,0.000020405284843480002,0.00005117817686107093,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2001,0.00002358226704926846,0.0000609196913147987,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2002,0.00002648922927209215,0.00006835732778715289,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2003,0.000030156179809849526,0.00007882925484755735,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2004,0.00003054502577253917,0.00008219455573665681,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2005,0.00003164660072088096,0.00008617225425361526,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2006,0.00003393642953906191,0.00009245328796925255,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2007,0.00003042145902878821,0.00008145877268896462,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2008,0.000029218497304062273,0.00007917088285311778,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2009,0.00002886019307683631,0.00007815187623535922,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2010,0.000027839981178457203,0.00007555727368538777,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2011,0.00003013999279438073,0.00008188951998169025,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2012,0.00003467454836990672,0.00009754774896844382,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2013,0.00003236018494227342,0.00009431974583575538,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2014,0.000023768150339865,0.0000700207306332699,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2015,0.00002338357020229955,0.00007015932897730676,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2016,0.000023778232536751565,0.00007126486385512555,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2017,0.000022046534151915436,0.00006692030782500647,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2018,0.000019082893086663323,0.000058451448851659786,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2019,0.00001821218864253521,0.000054517157291486564,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2020,0.000018315066576345965,0.00005627797087746377,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2021,0.00001796547924129028,0.00005363709617938373,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1990,0.0004052624259563,0.0016665049142031,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1991,0.0009367584310315,0.0033336745794752,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1992,0.0023022986235272905,0.007469456626262815,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1993,0.0042809366235482,0.0133630083734482,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1994,0.0053157125898579,0.016240267842939,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1995,0.0087028244281207,0.0269864490515771,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1996,0.012521741353147,0.03929572609305,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1997,0.0172273582569904,0.0559989542763147,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1998,0.0239172222534623,0.0728633801453549,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1999,0.03116081007644921,0.09002412792232757,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2000,0.04112713564904334,0.11738693028669762,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2001,0.046821658850180234,0.12324085631269577,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2002,0.060082522488535836,0.14936392883093405,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2003,0.0707923277365116,0.16986705816030945,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2004,0.0792065943120498,0.18912742881507447,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2005,0.08426835812078712,0.204689622681682,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2006,0.08612225357582046,0.20650498577178064,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2007,0.0757859985788861,0.17957200584169086,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2008,0.06899765785670428,0.16176417518502872,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2009,0.05549944409653901,0.12762808956115929,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2010,0.051218216939082545,0.1183609420264039,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2011,0.04525106442643774,0.10636145164816374,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2012,0.041838889833116844,0.09788385127459316,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2013,0.029316842355920254,0.06906325392548837,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2014,0.024105778065175044,0.05773200704174701,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2015,0.018042039687926184,0.04363947699883984,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2016,0.01659270853560058,0.03953055473078375,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2017,0.014196363755527758,0.03410569497935316,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2018,0.01397476601128455,0.034305004331334696,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2019,0.012335272743410605,0.03086241549877053,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2020,0.014831873436970806,0.03767134971722573,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2021,0.013237420670559632,0.034170141572798504,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1990,0.0004458490132342,0.0011071009415963,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1991,0.0004571745923279,0.0010234416448492,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1992,0.00047302092838679506,0.00114034700262043,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1993,0.0005289229715225,0.0011922979102153,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1994,0.0005612897175238,0.0012679238638594,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1995,0.0006426436040975,0.0014849996583455,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1996,0.0007060297430721,0.0014979830659567,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1997,0.0007935040362964,0.0016767442063214,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1998,0.0009172851836381,0.0019217623675024,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1999,0.001066910339794053,0.00230779477896661,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2000,0.0012589817218710338,0.0025461279650102024,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2001,0.0012784740894268526,0.002691616105263895,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2002,0.001436595503062684,0.0029630724949799383,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2003,0.0014965809354956833,0.0030560967655599964,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2004,0.001498524070485914,0.0031986807431542167,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2005,0.0015606749042710766,0.0031937333952297853,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2006,0.0015756673722218846,0.003172814917266809,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2007,0.001472908816158436,0.0029626623997013966,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2008,0.0014632848944581625,0.002925502663531478,0.0000010671253848468145
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2009,0.0012639812955900316,0.0024988867472826412,0.00002907584389742193
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2010,0.0013088415726836855,0.0026797095018258853,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2011,0.0014414596266398288,0.0028951491763764712,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2012,0.0016090029630016242,0.0033107292946052804,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2013,0.0018668184068929713,0.0038435830169649627,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2014,0.002014787157963974,0.004066842298147611,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2015,0.0021929820721191687,0.004714438439233065,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2016,0.002354112760006038,0.005171215492118854,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2017,0.002208173154861307,0.004362458250939826,0.000053888058782787865
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2018,0.0018896659568998179,0.003859692884293512,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2019,0.001798003036967007,0.003672884581132818,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2020,0.0019408673289080876,0.004035651685732585,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2021,0.001771182151815957,0.0037094498315823365,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1990,0.1027789130788472,0.1615197915555724,0.044038034602122
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1991,0.0954029539464552,0.1472904538467112,0.0435154540461991
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1992,0.10997510882262188,0.1695615583002089,0.05038865934503486
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1993,0.1221417278635188,0.1844619281453465,0.0598215275816911
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1994,0.1259618282940862,0.1884745451333895,0.0634491114547829
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1995,0.1240000842298488,0.1962850459218497,0.0517151225378479
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1996,0.1289990058640485,0.1977640190133891,0.060233992714708
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1997,0.1561671820430313,0.2285216103255584,0.0838127537605042
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1998,0.1644903710362112,0.2365903308693455,0.0923904112030769
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1999,0.18056698094883186,0.2773709538440531,0.08376300805361063
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2000,0.18635489153887205,0.2659678291924332,0.10674195388531091
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2001,0.16000211965986522,0.24392795795870567,0.07607628136102476
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2002,0.16769429326757565,0.25435644976242017,0.08103213677273112
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2003,0.19976624065211118,0.28952414285514927,0.11000833844907308
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2004,0.18781982378541098,0.28594642618902455,0.08969322138179739
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2005,0.22704030604428618,0.3392244209765326,0.11485619111203975
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2006,0.25682978873111006,0.38530112409037615,0.12835845337184398
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2007,0.26294275523966987,0.38730420807500976,0.13858130240432998
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2008,0.26915282676447744,0.3923639937369343,0.14594165979202056
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2009,0.25493802398833476,0.37237573805207014,0.13750030992459938
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2010,0.2708797275320014,0.41008504442683325,0.13167441063716956
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2011,0.29352065676509087,0.44159409654521325,0.14544721698496849
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2012,0.28304127255905737,0.42334507189394055,0.14273747322417418
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2013,0.30455116880196137,0.45712511829151237,0.15197721931241034
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2014,0.39821474591832573,0.5922489367580321,0.20418055507861935
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2015,0.36624908938626843,0.53363218742293,0.1988659913496069
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2016,0.3702419177784555,0.5374810334680983,0.20300280208881274
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2017,0.36446052171087395,0.5111275471702353,0.2177934962515126
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2018,0.3157812130035758,0.4592366085455799,0.17232581746157175
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2019,0.31088124060826267,0.4494024939018442,0.1723599873146811
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2020,0.28337675633606224,0.41557897075321804,0.15117454191890647
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2021,0.24937079875926577,0.3872954508846239,0.11144614663390762
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1990,0.220815370253528,0.3290670176848587,0.1125637228221973
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1991,0.2118862161569084,0.3187928073262626,0.1049796249875543
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1992,0.2220277045389916,0.3202888639409545,0.12376654513702866
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1993,0.2210878611976485,0.3200687576255336,0.1221069647697635
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1994,0.2387129074110472,0.3526115795475016,0.1248142352745929
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1995,0.2551521483210774,0.3818166572202505,0.1284876394219044
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1996,0.2574174422991361,0.3888599102197959,0.1259749743784763
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1997,0.255838417762626,0.3794039654982382,0.1322728700270137
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1998,0.2664243363994925,0.3873368620612993,0.1455118107376857
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1999,0.2910010998123938,0.44891243223171273,0.13308976739307485
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2000,0.2981981086535314,0.44630868912194555,0.1500875281851173
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2001,0.2690347573358611,0.4044226258844097,0.13364688878731248
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2002,0.2696495818579207,0.4251249974075029,0.11417416630833849
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2003,0.270601273951881,0.4062106310848742,0.1349919168188878
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2004,0.2062881252104615,0.3239799633857535,0.08859628703516945
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2005,0.20238971325937719,0.3139978351359678,0.0907815913827866
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2006,0.18893031988045483,0.29662900183773955,0.08123163792317012
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2007,0.18486394760008287,0.2930377754224876,0.07669011977767815
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2008,0.16825291382799648,0.262051322461418,0.07445450519457499
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2009,0.1425765319885487,0.21873687478122766,0.06641618919586971
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2010,0.15049912917815053,0.242223815401656,0.05877444295464508
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2011,0.15284362748371047,0.2386352296872695,0.06705202528015144
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2012,0.14225810975983913,0.22256954823046074,0.06194667128921752
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2013,0.14692405563250788,0.23247778111994824,0.061370330145067514
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2014,0.16812885577316583,0.26610447091298844,0.0701532406333432
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2015,0.1687420124283295,0.25925156047376463,0.0782324643828944
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2016,0.14826188179846558,0.22888289702868064,0.06764086656825054
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2017,0.13699666570884397,0.20600628852332956,0.06798704289435839
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2018,0.12025083016862187,0.1872697367263279,0.05323192361091582
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2019,0.11393098193512391,0.17971581497665728,0.04814614889359055
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2020,0.10824698494310332,0.16915846180277347,0.047335508083433175
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2021,0.09275106159246307,0.15501555386220803,0.030486569322718114
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1990,0.0114472357162475,0.0159779245372044,0.0069165468952906
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1991,0.0115477464627824,0.0163070584080632,0.0067884345175017
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1992,0.012348813425200979,0.016612820268506565,0.008084806581895393
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1993,0.0131195899175867,0.0179573451035972,0.0082818347315762
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1994,0.0135531647015,0.018655647915865,0.008450681487135
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1995,0.0141982823486478,0.0195632567855342,0.0088333079117615
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1996,0.0149509878297891,0.0206153027284107,0.0092866729311675
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1997,0.0158285476463837,0.02145675816649,0.0102003371262773
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1998,0.0168551479570077,0.0229548411390572,0.0107554547749582
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1999,0.017781378770194395,0.02496315977106184,0.010599597769326948
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2000,0.018787018326755018,0.02599536983909159,0.011578666814418447
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2001,0.018001252788383874,0.02524073669029351,0.01076176888647424
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2002,0.01813536873225854,0.026292146500758333,0.00997859096375875
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2003,0.016903028337987232,0.023157670426165244,0.010648386249809221
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2004,0.014837758675127443,0.020972277970807435,0.00870323937944745
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2005,0.013638120705960415,0.01918756828387922,0.008088673128041608
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2006,0.012427451023099898,0.01803706270074245,0.006817839345457344
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2007,0.010842133129702223,0.015682604791680106,0.0060016614677243394
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2008,0.00963845416736538,0.013528943292040315,0.005747965042690444
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2009,0.008604004794760929,0.01213865879427772,0.005069350795244137
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2010,0.008490965640731703,0.01236171075936741,0.004620220522095996
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2011,0.009251635861111454,0.013329414753837233,0.005173856968385674
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2012,0.009650375420474052,0.013665973510869152,0.0056347773300789526
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2013,0.009918895828355803,0.01395431258106559,0.005883479075646016
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2014,0.010668270770478272,0.015310585467377725,0.006025956073578819
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2015,0.010362343709792294,0.014285788270167191,0.006438899149417396
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2016,0.011157820593643309,0.015582127570298004,0.006733513616988614
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2017,0.01092292502393582,0.014578198839093913,0.007267651208777727
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2018,0.009467213037023487,0.01327250621770403,0.005661919856342944
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2019,0.008989005240491755,0.012661592334663905,0.005316418146319604
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2020,0.008650733408138347,0.011951353425384758,0.005350113390891935
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2021,0.007585905494611245,0.011413708909422183,0.0037581020798003063
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1990,0.0295498812916947,0.0471751421856008,0.0119246203977886
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1991,0.0297406202254804,0.0451596944283562,0.0143215460226045
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1992,0.0311105452822004,0.04833239910295284,0.013888691461447961
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1993,0.0326157827784141,0.0526361995367827,0.0125953660200454
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1994,0.0351078824959241,0.0537227891150388,0.0164929758768094
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1995,0.0384097327640277,0.0595416974032549,0.0172777681248006
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1996,0.0400170270526356,0.0609734313806892,0.0190606227245819
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1997,0.0419379578121437,0.0630977624324383,0.020778153191849
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1998,0.0446574415395095,0.0669723691681613,0.0223425139108578
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1999,0.046658703957353595,0.07205901743541591,0.02125839047929128
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2000,0.04951682896273822,0.07318005564602521,0.025853602279451233
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2001,0.04901711785881385,0.07518518659576166,0.02284904912186604
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2002,0.04996528373576087,0.07685332243515935,0.023077245036362385
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2003,0.06189858231239639,0.0934708200572305,0.03032634456756228
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2004,0.057733432558392014,0.08804234443136931,0.027424520685414715
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2005,0.0564723732455334,0.08818637125737772,0.024758375233689088
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2006,0.05795331603850477,0.08952965650376024,0.0263769755732493
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2007,0.05636107902640334,0.08440372759547898,0.028318430457327695
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2008,0.046342275224120114,0.07026241549147393,0.022422134956766298
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2009,0.0418901584181262,0.06473417058462272,0.01904614625162968
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2010,0.04081486098313743,0.06200386544032059,0.019625856525954263
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2011,0.044028330326334714,0.06849064568366792,0.019566014969001518
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2012,0.04733593264467695,0.07206807005012048,0.02260379523923342
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2013,0.04965666307495624,0.07598270499802548,0.023330621151887006
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2014,0.05143124142253383,0.07846511645232558,0.024397366392742075
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2015,0.05766567670360584,0.08971737486364917,0.025613978543562503
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2016,0.058526972387806256,0.08891447568060865,0.028139469095003863
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2017,0.05441520714054168,0.07824949588202977,0.030580918399053594
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2018,0.04598597021497987,0.06680335061084389,0.025168589819115853
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2019,0.04319799629870559,0.06486639098769827,0.021529601609712918
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2020,0.04104789302126879,0.06202465709235844,0.02007112895017914
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2021,0.03684674617840191,0.058154900178742065,0.015538592178061757
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1990,0.0001009569043015,0.0002108553635153,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1991,0.000100946802273,0.0002183403405881,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1992,0.0001057958168497326,0.0002249900553193061,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1993,0.0001000726769608,0.000208978491645,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1994,0.0001128354128057,0.0002334740658091,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1995,0.0001463296831996,0.0003422431115962,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1996,0.000167683055383,0.0003293536242297,0.000006012486536235653
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1997,0.0002102060649788,0.0003967165766881,0.000023695553269637525
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1998,0.0002041971522333,0.0003870158692334,0.00002137843523322173
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1999,0.00022795620971677855,0.0004784587615504169,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2000,0.0002652051175549493,0.0004865857352862988,0.000043824499823599805
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2001,0.000274226070195367,0.0005636727903866343,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2002,0.00026911129595466024,0.0005704760914532685,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2003,0.0002927279382022285,0.0006295679380347624,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2004,0.00028078185891754095,0.0007807313601412799,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2005,0.0005720200842187009,0.001410533006661292,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2006,0.0005733328051198426,0.0016614575337548293,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2007,0.0005358241985641606,0.001999096810723332,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2008,0.000471670152125859,0.0017948064297148112,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2009,0.0005187904075452216,0.0019039998100453235,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2010,0.0007970163246345005,0.002551272523769764,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2011,0.0006771221582286393,0.0025167591341035103,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2012,0.0007756274672871503,0.002952960942943516,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2013,0.0005734712898019858,0.0023173260381555596,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2014,0.0006068805072018608,0.0025116558850417827,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2015,0.0005933327763241006,0.0031314934703967293,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2016,0.0006003377413869696,0.003273201312264405,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2017,0.0005573798675122007,0.002654984270579074,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2018,0.0004198279401660187,0.0022173210838764856,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2019,0.00041392337171377105,0.0021049288160652595,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2020,0.0003957155609514068,0.0020580190768526426,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2021,0.00032764571966954097,0.0018347439806146895,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1990,0.0147306811201921,0.0209032203472499,0.0085581418931342
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1991,0.0148473604942526,0.0205791903318816,0.0091155306566237
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1992,0.016023503203301454,0.022287354975626637,0.009759651430976268
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1993,0.0169695102302728,0.023975890912673,0.0099631295478725
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1994,0.0181177705414207,0.025326462242023,0.0109090788408183
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1995,0.0194570221991565,0.0277670198666779,0.0111470245316351
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1996,0.0204601090545202,0.0286518893012852,0.0122683288077552
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1997,0.0213256078090698,0.0301188922942993,0.0125323233238403
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1998,0.0224424316623772,0.0317621103342169,0.0131227529905374
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1999,0.023679749184614653,0.034654540394521774,0.01270495797470753
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2000,0.02522908335278062,0.03578337281994691,0.01467479388561433
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2001,0.02507339479747336,0.03721055694194554,0.01293623265300118
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2002,0.024928287775620974,0.03596288910354821,0.01389368644769374
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2003,0.015945872894261623,0.023350081329817193,0.008541664458706053
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2004,0.011908563319955049,0.018007035801566314,0.005810090838343783
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2005,0.012370033339824912,0.018712320617525688,0.006027746062124136
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2006,0.012570096769557339,0.018861753301541495,0.006278440237573181
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2007,0.012461949263619052,0.018721557175438757,0.006202341351799348
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2008,0.012242556357036773,0.01793080795258119,0.0065543047614923565
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2009,0.012029107503596885,0.018041346297699,0.006016868709494771
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2010,0.01219876464272426,0.01805525911485427,0.006342270170594251
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2011,0.013179468548166496,0.019330397659454435,0.007028539436878558
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2012,0.010596743479925352,0.015236374209197299,0.005957112750653405
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2013,0.011233673888698942,0.01639688403619731,0.006070463741200574
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2014,0.012194472044079864,0.017405163681206565,0.006983780406953166
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2015,0.012118901478504128,0.016988510989919922,0.007249291967088336
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2016,0.012316814216102027,0.017737403260798052,0.006896225171406004
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2017,0.011859598853820402,0.01651985183800495,0.007199345869635856
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2018,0.010054751176956122,0.014079145804335967,0.006030356549576278
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2019,0.00956359344242333,0.013720855731851212,0.0054063311529954465
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2020,0.009904026840201864,0.014586371795301228,0.0052216818851025006
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2021,0.008146111996045207,0.012085415428142073,0.004206808563948341
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1990,0,0,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1991,0,2.553010400190412e-8,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1992,0,8.251254841121904e-8,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1993,0.0001346223292951,0.0003004115615922,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1994,0.0001999711645797,0.000545803458419,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1995,0.000461547560032,0.0013272385467934,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1996,0.0009031721962003,0.0025700779108771,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1997,0.001510085010589,0.0044061062541031,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1998,0.0024040835109847,0.0066348735147475,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1999,0.003421464865431401,0.009173488716429277,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2000,0.004929942511764018,0.01320780260561844,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2001,0.005983987602844045,0.014868000668614939,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2002,0.008214770500803506,0.01925770805858066,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2003,0.010402577513937762,0.02318713229086784,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2004,0.012559614240903712,0.027429717910703796,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2005,0.01441631346535754,0.031280532523590185,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2006,0.0156943751177765,0.03306728581491293,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2007,0.014513063408027854,0.030142863941568232,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2008,0.013935003413852828,0.028626497251698732,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2009,0.011784918783362228,0.023779153524024096,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2010,0.01139888720985581,0.023041869189736774,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2011,0.01055610902762472,0.022006199430964705,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2012,0.010232942910728323,0.021502243470681588,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2013,0.0074747350325668795,0.01607491155895978,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2014,0.006377202570792658,0.01412742753215798,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2015,0.004903133728627405,0.011153439761266114,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2016,0.004647590557972847,0.01040468252668984,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2017,0.004110661470300377,0.009321832882802215,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2018,0.004182541743620575,0.009706648807044003,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2019,0.0037966658821885196,0.009118603415635175,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2020,0.004692453988561857,0.011320390085521114,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2021,0.004300643868187008,0.010587664258271977,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1990,0.0032853253262094,0.004893477762742,0.0016771728896769
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1991,0.0033535163118331,0.0051991403512424,0.0015078922724239
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1992,0.0035025613341567305,0.005100880247934196,0.0019042424203792648
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1993,0.0036991725890388,0.0055760312142396,0.0018223139638379
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1994,0.0039350816761454,0.0056811613068563,0.0021890020454346
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1995,0.0042911734447785,0.0068838798336743,0.0016984670558827
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1996,0.0043992238198436,0.0067358260889566,0.0020626215507306
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1997,0.0045482705765813,0.0067497743592105,0.002346766793952
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1998,0.0048488988736656,0.0076912488133118,0.0020065489340194
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1999,0.005010548335645958,0.007702038979452071,0.0023190576918398448
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2000,0.005292100512218147,0.007976558140261204,0.0026076428841750915
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2001,0.005258696827568625,0.007803220576978638,0.0027141730781586122
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2002,0.0055481038079061365,0.008766943120445488,0.0023292644953667855
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2003,0.005648289005124694,0.008574201672134466,0.002722376338114922
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2004,0.005566060763883996,0.0088014571290778,0.0023306643986901925
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2005,0.005634748313408346,0.00893684661537996,0.0023326500114367326
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2006,0.005801237616589362,0.008820045990626876,0.0027824292425518483
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2007,0.006021468177101624,0.009232919737743593,0.002810016616459654
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2008,0.0060859513063089375,0.009484763075079419,0.0026871395375384567
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2009,0.0056835242937117204,0.009115595982106891,0.0022514526053165496
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2010,0.005731113236641772,0.008878016985434637,0.002584209487848906
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2011,0.0064856749206474475,0.01019618038387143,0.0027751694574234646
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2012,0.00689199427643125,0.01133260391917288,0.002451384633689619
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2013,0.007274329254046503,0.011444217713414872,0.003104440794678135
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2014,0.007448741085785093,0.011869235120990024,0.003028247050580161
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2015,0.007440942439520734,0.0113336651201727,0.0035482197588687686
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2016,0.007440302596394301,0.011432266582512982,0.0034483386102756213
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2017,0.007126997620394896,0.010798015732519156,0.0034559795082706375
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2018,0.006088623825764527,0.00942253580578574,0.0027547118457433135
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2019,0.006112277972349492,0.009399576275481523,0.00282497966921746
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2020,0.005789056538039795,0.008878011945709295,0.0027001011303702943
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2021,0.005179854620448926,0.007997768662238747,0.0023619405786591044
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1990,0.0216331174526575,0.0341874761777741,0.0090787587275409
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1991,0.0229930499853006,0.0354915318911535,0.0104945680794478
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1992,0.02620022843332392,0.040831379519459,0.011569077347188842
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1993,0.0293250489044767,0.0452853830022231,0.0133647148067303
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1994,0.0325347493498315,0.0485789115778639,0.0164905871217992
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1995,0.0362723026008975,0.0579978032470311,0.0145468019547638
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1996,0.0389808467025255,0.0599370759134913,0.0180246174915597
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1997,0.0419517439767914,0.063922631544689,0.0199808564088937
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1998,0.0437783706253404,0.0678538814559148,0.0197028597947659
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1999,0.04930766677522962,0.07748317440977315,0.02113215914068608
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2000,0.05432091865458665,0.08386560310113064,0.02477623420804266
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2001,0.05821096993165436,0.09113929146350651,0.02528264839980221
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2002,0.0694401935978528,0.10789804456128939,0.030982342634416224
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2003,0.07278185312504705,0.11490585642503698,0.030657849825057128
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2004,0.07381125096743572,0.1186411035060009,0.028981398428870535
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2005,0.08071886395362504,0.12495715812534516,0.03648056978190491
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2006,0.09306127660014801,0.14232293199401033,0.0437996212062857
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2007,0.10473162006345352,0.1615085324385157,0.04795470768839132
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2008,0.11140530221021339,0.1751198712951944,0.04769073312523238
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2009,0.1079065352703934,0.1683008637108662,0.047512206829920606
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2010,0.1125096588265035,0.17448390337209155,0.05053541428091545
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2011,0.11974017464805826,0.18804269068808338,0.05143765860803316
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2012,0.12181208407215859,0.19088393046375934,0.052740237680557814
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2013,0.1374676446525255,0.21289889897319553,0.0620363903318555
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2014,0.1417262036916661,0.2226626457937973,0.06078976158953493
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2015,0.13903195775029278,0.21535111159878184,0.06271280390180373
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2016,0.1316756840347444,0.20235744111742315,0.06099392695206561
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2017,0.12081831327681808,0.18392406527631544,0.057712561277320704
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2018,0.0968080204578462,0.14792661896536186,0.045689421950330544
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2019,0.09044556821773232,0.13906153500545781,0.04182960143000684
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2020,0.08607622363331235,0.13399386342626832,0.0381585838403564
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2021,0.0680904367086707,0.10598811399283611,0.030192759424505285
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1990,0.1835856917758016,0.3325408943637147,0.0346304891878885
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1991,0.1852105776557494,0.3107387973116894,0.0596823579998094
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1992,0.20737942805575962,0.36988449063881346,0.04487436547270576
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1993,0.2201512245553672,0.3867069340268984,0.053595515083836
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1994,0.2375489691399328,0.3990458311284155,0.0760521071514501
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1995,0.2632322781806748,0.475167466932928,0.0512970894284216
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1996,0.2801580849940452,0.487744903657643,0.0725712663304475
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1997,0.2788175026632041,0.4770594498406018,0.0805755554858064
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1998,0.2972131627270486,0.5224344842253565,0.0719918412287406
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1999,0.3131244234705988,0.5691629876647311,0.057085859276466644
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2000,0.33829675635056944,0.5887907740822923,0.08780273861884658
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2001,0.3504808986022713,0.6337441005822145,0.06721769662232802
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2002,0.36965398324410026,0.6463756582721011,0.09293230821609944
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2003,0.3845657623827824,0.6807032570069144,0.08842826775865043
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2004,0.36712088723129654,0.6804126057053463,0.05382916875724675
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2005,0.3776105459084952,0.6626387774865947,0.0925823143303956
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2006,0.38396570605870417,0.6656290749271714,0.1023023371902369
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2007,0.38990745178715885,0.6857329369932423,0.09408196658107532
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2008,0.39588015274256755,0.6802509115186309,0.11150939396650417
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2009,0.3658028292594964,0.632443464353129,0.0991621941658638
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2010,0.36133271275683443,0.6349142356635732,0.08775118985009567
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2011,0.417488618690718,0.7382807919510315,0.09669644543040451
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2012,0.4426252149769576,0.7814563665222142,0.10379406343170106
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2013,0.4747599776633596,0.8228443160745456,0.12667563925217362
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2014,0.5113830331887768,0.8915563780762199,0.13120968830133367
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2015,0.4994206823704102,0.895400555662261,0.10344080907855946
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2016,0.48036628656767955,0.8842869566816796,0.07644561645367948
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2017,0.4639634105898328,0.8030373507263648,0.12488947045330073
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2018,0.3691397284398642,0.6582442010881349,0.08003525579159354
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2019,0.37006605045603913,0.6521127711005531,0.08801932981152516
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2020,0.3665597939525546,0.6669791834688126,0.06614040443629671
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2021,0.32332065396389936,0.5952926355256438,0.05134867240215485
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1990,0.0004052624259563,0.0016665049142031,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1991,0.0009367584310315,0.0033336725302633,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1992,0.0023022986235272905,0.0074694493182338225,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1993,0.0041463142942531,0.0130973170215559,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1994,0.0051157414252781,0.0157498482789544,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1995,0.0082412768680887,0.0258191990356978,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1996,0.0116185691569466,0.037013102675585,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1997,0.0157172732464014,0.0520055326275241,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1998,0.0215131387424776,0.0668096422773141,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1999,0.027739345211017806,0.08175299042896253,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2000,0.03619719313727932,0.1053806969781255,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2001,0.04083767124733619,0.10986134255885854,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2002,0.05186775198773233,0.13205162240613644,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2003,0.06038975022257384,0.14895848924331362,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2004,0.06664698007114608,0.16434560616667304,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2005,0.06985204465542959,0.17599886406915305,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2006,0.07042787845804395,0.17601290700155953,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2007,0.06127293517085825,0.15170475533478034,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2008,0.05506265444285146,0.13520232140996366,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2009,0.04371452531317678,0.10553861247857328,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2010,0.039819329729226735,0.09688437097919912,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2011,0.034694955398813024,0.08583567365091728,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2012,0.03160594692238852,0.07782381484474522,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2013,0.021842107323353375,0.05405748315416127,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2014,0.017728575494382386,0.04451401426227239,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2015,0.013138905959298775,0.03317427630761351,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2016,0.011945117977627732,0.029773393718029124,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2017,0.010085702285227384,0.025358446225765833,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2018,0.009792224267663973,0.025173045442117625,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2019,0.008538606861222086,0.022287840652955866,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2020,0.010139419448408949,0.02696754254645608,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2021,0.008936776802372624,0.024140305202786733,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1990,0.00333972226969,0.0070874891397166,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1991,0.0033591647811517,0.0066854527164405,0.00003287684586298625
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1992,0.003548094681471285,0.00751533422641937,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1993,0.0037581249132528,0.0077374243638613,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1994,0.0039938111050379,0.0079622251505193,0.000025397059556440428
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1995,0.0042656350033986,0.0088830896312488,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1996,0.0044547742509254,0.0086550238210377,0.0002545246808132
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1997,0.0046627312919011,0.0090897778064716,0.0002356847773306
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1998,0.0049556922761253,0.0096874230267362,0.0002239615255144
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1999,0.005299694246495417,0.01075060343194224,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2000,0.004652769556966673,0.009045762483889927,0.00025977663004341737
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2001,0.0039821524236218625,0.008013868031974736,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2002,0.004182818382312115,0.008202374867120166,0.0001632618975040646
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2003,0.004089961019669079,0.008020271618001763,0.00015965042133639622
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2004,0.0036195571414470748,0.007458654142036088,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2005,0.003411173603341676,0.0067341098842502315,0.00008823732243312069
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2006,0.0033901669886626873,0.006645190377603772,0.00013514359972160344
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2007,0.003407067661877357,0.006621231036630816,0.0001929042871238974
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2008,0.00331143961455577,0.006454453280540317,0.00016842594857122313
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2009,0.003007087921918908,0.00594095423021165,0.00007322161362616599
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2010,0.002995769520431635,0.006030424374948747,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2011,0.0033345266642431414,0.006678329459170748,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2012,0.0034111569186366306,0.007067552351942072,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2013,0.0036461205698903685,0.007501539050058941,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2014,0.0038586888356680954,0.007747372714451851,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2015,0.0038058188776013808,0.007918861622482247,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2016,0.0037477523649348797,0.007983758612472037,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2017,0.003575057953210471,0.007061493326169189,0.00008862258025175334
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2018,0.003030772852848076,0.006122346227265008,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2019,0.002935110153222848,0.005878465894324664,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2020,0.0028637274424848477,0.0058596936497185715,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2021,0.0025110567577928317,0.00514974109986769,0
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1990,0.0065023489531361,0.0094880260366098,0.0035166718696624
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1991,0.0068033412850154,0.0094806812092513,0.0041260013607794
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1992,0.007518228598865538,0.010755782146617564,0.004280675051113513
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1993,0.0077738648100761,0.0113879145452702,0.004159815074882
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1994,0.0085690476035782,0.0119110906507366,0.0052270045564199
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1995,0.0096710236752463,0.0145568577829333,0.0047851895675592
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1996,0.0102219436940396,0.0146555015370431,0.0057883858510361
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1997,0.0109721026139773,0.0154138569569021,0.0065303482710524
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1998,0.0116568490706893,0.017038904898184,0.0062747932431946
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1999,0.012342026923071448,0.018643910624874017,0.006040143221268879
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2000,0.013022187692218405,0.018466721150997074,0.007577654233439738
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2001,0.013635154795106276,0.02051443896969775,0.006755870620514803
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2002,0.014701903102885537,0.021488893586080537,0.007914912619690538
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2003,0.01514160885433009,0.02179821968787224,0.008484998020787943
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2004,0.014588149960982781,0.022429439141929575,0.006746860780035989
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2005,0.0150412041923841,0.022787588660722464,0.007294819724045737
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2006,0.01576307896915516,0.024257239354281944,0.007268918584028372
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2007,0.0171087653424681,0.02494139244452717,0.009276138240409033
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2008,0.017572122651286805,0.02536994366566964,0.00977430163690397
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2009,0.01722077471450565,0.02549316716479505,0.00894838226421625
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2010,0.018957903070866974,0.028434337270943896,0.009481468870790053
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2011,0.023712502626466618,0.03715028341554654,0.010274721837386694
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2012,0.02666664179406459,0.0406307039412137,0.012702579646915478
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2013,0.02892315898180152,0.044692597117432384,0.013153720846170652
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2014,0.03243692040616133,0.04828842165489558,0.016585419157427075
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2015,0.03313357035187254,0.04981212063221534,0.01645502007152974
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2016,0.03458797368591127,0.05318153582939651,0.015994411542426038
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2017,0.032492438875171385,0.04637760673905161,0.018607271011291157
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2018,0.028475988194701138,0.04220723723302497,0.014744739156377303
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2019,0.02727888211232962,0.039944019050405496,0.014613745174253737
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2020,0.027212110207651276,0.040592928288748296,0.013831292126554253
+Azerbaijan,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2021,0.022707078619749785,0.03611470834478835,0.009299448894711215

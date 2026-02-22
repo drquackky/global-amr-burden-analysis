@@ -1,0 +1,737 @@
+Location,Age,Sex,Measure,Metric,Pathogen,Antibiotic class,Counterfactual,Year,Value,Upper,Lower
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1990,1.0292890413574216,1.387311727008627,0.6712663557062161
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1991,1.0292695690665092,1.376840621395122,0.6816985167378965
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1992,1.0535621392203518,1.3974049485979687,0.7097193298427349
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1993,1.1604934376466955,1.6187874410819592,0.7021994342114318
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1994,0.795486918136501,1.0572379199739892,0.5337359162990127
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1995,0.815855632878425,1.0534124167839087,0.5782988489729413
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1996,0.8373779918347751,1.0910500085058468,0.5837059751637035
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1997,0.8418271102724522,1.0870582029245346,0.5965960176203697
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1998,0.9355196915459612,1.197752793901345,0.6732865891905773
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1999,0.8475693658974677,1.0681299228958556,0.6270088088990796
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2000,0.8530583780188021,1.0692465878092146,0.6368701682283897
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2001,0.8866965691347793,1.0918133861072898,0.681579752162269
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2002,0.75526854114108,0.9232208636438141,0.5873162186383459
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2003,0.48138547439148416,0.5994377860788048,0.3633331627041635
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2004,0.4584372629934249,0.5588065225601258,0.35806800342672407
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2005,0.47494550810390973,0.5696748329864564,0.3802161832213631
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2006,0.5008072370497999,0.6045197174363867,0.39709475666321314
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2007,0.5302032526127021,0.6294732428839447,0.43093326234145946
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2008,0.7189973285005652,0.8867230578833922,0.5512715991177382
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2009,0.5661574748011868,0.6770058561744242,0.45530909342794945
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2010,0.5519066952603233,0.6508531181549082,0.4529602723657384
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2011,0.48640531679121246,0.5848429653666185,0.3879676682158064
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2012,0.49699412652778,0.5847590789313528,0.4092291741242073
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2013,0.4537841313916361,0.529334685072893,0.3782335777103792
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2014,0.45216553442388135,0.5242830036124565,0.3800480652353062
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2015,0.430559568063529,0.5081381840107387,0.3529809521163193
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2016,0.3347285870055752,0.39181704119170363,0.2776401328194467
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2017,0.2896477449238275,0.33733786006285316,0.24195762978480184
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2018,0.31833286213949125,0.3771339861091326,0.25953173816984987
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2019,0.3105050952085122,0.36400210103107916,0.25700808938594527
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2020,0.36180209179376793,0.4267294692078136,0.29687471437972224
+Georgia,10 to 14,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2021,0.2395958578911499,0.2834777204964762,0.19571399528582362
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1990,0.05531596854577529,0.10399114007557411,0.006640797015976467
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1991,0.056712831831163844,0.1051163689528993,0.008309294709428393
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1992,0.06302972959085662,0.11189788291022443,0.014161576271488813
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1993,0.07202434411953976,0.13234956259409916,0.011699125644980345
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1994,0.05326804792871884,0.09271477507418457,0.013821320783253106
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1995,0.055284693037809994,0.09175268131510154,0.018816704760518443
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1996,0.05681732326420848,0.0964307215690629,0.017203924959354057
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1997,0.06027183375771171,0.09948008013442189,0.02106358738100153
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1998,0.061915283823640116,0.10126730021828495,0.02256326742899529
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1999,0.055900445580705484,0.08851800342488855,0.023282887736522415
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2000,0.05337059264786014,0.0857436543651824,0.020997530930537883
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2001,0.05385560498874317,0.08475895483095522,0.02295225514653112
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2002,0.047493447689278184,0.07334363450138034,0.02164326087717603
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2003,0.0347238505025338,0.052956433531035574,0.01649126747403203
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2004,0.029941841864260695,0.04542800721513659,0.014455676513384802
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2005,0.028224207763601985,0.04285320226127429,0.013595213265929685
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2006,0.02799148305588971,0.04228549927405642,0.013697466837722999
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2007,0.02826854360067552,0.042162865439726825,0.014374221761624216
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2008,0.03501575316285243,0.05215770059897011,0.017873805726734745
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2009,0.027243635730461763,0.040279984939799465,0.014207286521124057
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2010,0.02987235105736027,0.044166517576845934,0.01557818453787461
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2011,0.025619206403707316,0.037777125161805994,0.013461287645608638
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2012,0.02772704450659803,0.04008561885293831,0.01536847016025775
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2013,0.02640845444687138,0.03746764331182912,0.015349265581913641
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2014,0.0280777273423397,0.03922393614265106,0.01693151854202834
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2015,0.0259268316827869,0.036636479433083444,0.015217183932490356
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2016,0.019008018004649224,0.026445774414407576,0.011570261594890871
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2017,0.018742639559202863,0.026393188344921978,0.011092090773483746
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2018,0.020965783556029294,0.03016266461074439,0.011768902501314196
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2019,0.0202750396758491,0.028810909298793604,0.0117391700529046
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2020,0.023812827183860373,0.034025098948674934,0.013600555419045812
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2021,0.016095090228406446,0.02333679845940639,0.008853381997406502
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1990,0.11690919430506462,0.25390376973098866,0.03438704790129334
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1991,0.11327359398594869,0.24086294849830542,0.034742159169106744
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1992,0.10129988019369163,0.20860284438583404,0.032343951650641745
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1993,0.11050313794592254,0.23378262829316662,0.03639798613565793
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1994,0.07659713921660419,0.15374998059729583,0.026435911067251218
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1995,0.0788024951861423,0.15364066027361137,0.003964330098673224
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1996,0.08336664217348305,0.16359304166444594,0.0031402426825201807
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1997,0.07957517416492688,0.1529939577956479,0.006156390534205858
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1998,0.08965190630321226,0.17006620682188273,0.009237605784541802
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1999,0.07833224912520337,0.14397996471534227,0.012684533535064463
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2000,0.07462034400859516,0.13648686667759397,0.012753821339596336
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2001,0.08129783035192656,0.14431875068499112,0.018276910018862003
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2002,0.06566796299540398,0.11367157916626017,0.01766434682454778
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2003,0.04496706746361936,0.07624529846238991,0.013688836464848808
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2004,0.03987669235969023,0.06636873879616224,0.013384645923218207
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2005,0.03498641173802519,0.05790799214700123,0.012064831329049154
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2006,0.03598540143472942,0.0587216745698603,0.013249128299598536
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2007,0.03720370555852495,0.05927708947154099,0.015130321645508916
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2008,0.03718202269618605,0.05798406407367006,0.016379981318702042
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2009,0.03049988193977355,0.0470965896864169,0.013903174193130204
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2010,0.04737756121945714,0.07178268559037723,0.022972436848537045
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2011,0.03150390370636229,0.04768224961290651,0.015325557799818059
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2012,0.03538292562427775,0.05195366629716157,0.01881218495139393
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2013,0.034913301270614074,0.04999405657469719,0.01983254596653096
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2014,0.036362046581608645,0.0509872650476178,0.021736828115599488
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2015,0.032556661446396996,0.04550236337181464,0.019610959520979354
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2016,0.028975011449947772,0.0396852738203984,0.018264749079497142
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2017,0.02558289075719874,0.03490789529031189,0.016257886224085596
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2018,0.03338542586727318,0.046713670169509766,0.020057181565036594
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2019,0.02948289890899288,0.04152771480186328,0.017438083016122482
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2020,0.04104321491621149,0.05814331008972312,0.023943119742699862
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2021,0.024776865592100114,0.03607136255471396,0.013482368629486272
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1990,0.13170276062109965,0.16180112013702386,0.10160440110517543
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1991,0.1318528276949204,0.16148613150565932,0.10221952388418147
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1992,0.12874077350959676,0.15661015825611052,0.10087138876308299
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1993,0.13157463182904178,0.16770474292189946,0.09544452073618409
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1994,0.09772753999904746,0.1196771506358121,0.07577792936228282
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1995,0.09967633425438582,0.11983612566898194,0.0795165428397897
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1996,0.09887614796531902,0.1208443700873896,0.07690792584324843
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1997,0.10915192070419427,0.13335263761711771,0.08495120379127082
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1998,0.17009655026598186,0.20817071443554172,0.132022386096422
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1999,0.15625856102133506,0.18970431764979406,0.12281280439287606
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2000,0.11134894085643571,0.1361427880691172,0.0865550936437542
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2001,0.14945906705054207,0.18096947722951162,0.11794865687157252
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2002,0.10751026646155523,0.13058625033533786,0.08443428258777261
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2003,0.11203319330900555,0.13625467122563262,0.08781171539237848
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2004,0.07957880575128343,0.09726514561623774,0.061892465886329115
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2005,0.10952494114837835,0.13353908477670426,0.08551079752005245
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2006,0.07282990476006997,0.08932359944667365,0.05633621007346629
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2007,0.05369233740455574,0.06572388141935621,0.04166079338975527
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2008,0.07287537999466648,0.09055249349383823,0.055198266495494724
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2009,0.05883692233073953,0.07248663720902593,0.04518720745245313
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2010,0.05577763272993799,0.06835303329552121,0.04320223216435477
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2011,0.07882847191205562,0.09748379051738301,0.06017315330672824
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2012,0.0742586928270576,0.09035191385616524,0.058165471797949966
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2013,0.08152332037678708,0.0988755958333994,0.06417104492017477
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2014,0.1380495821824108,0.16449458535889308,0.11160457900592854
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2015,0.23233312895187822,0.27578898425198867,0.18887727365176776
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2016,0.21250631930162542,0.24961311005744954,0.1753995285458013
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2017,0.1910434401278593,0.2249968456007816,0.15709003465493698
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2018,0.20263127650861518,0.24093419346100736,0.164328359556223
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2019,0.19473080263533657,0.23002743766302566,0.15943416760764748
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2020,0.2182278750866787,0.2571256777131661,0.17933007246019134
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2021,0.13665065264898632,0.16332060326112846,0.1099807020368442
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1990,0.9627793612388319,1.2247018940897205,0.7008568283879433
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1991,0.9516611417260852,1.206118311995119,0.6972039714570513
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1992,1.0041503868646509,1.2586535825720602,0.7496471911572415
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1993,1.0727998260722789,1.4357096841985002,0.7098899679460575
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1994,0.7318908744776835,0.9336138517920433,0.5301678971633238
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1995,0.763165419635844,0.9412006369477397,0.5851302023239482
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1996,0.772277180912535,0.9737636712910829,0.5707906905339872
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1997,0.7920105187785503,0.996312117553729,0.5877089200033717
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1998,0.830059299976982,1.0437776470082074,0.6163409529457567
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1999,0.7450962258189341,0.9273239679957228,0.5628684836421454
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2000,0.7115875522870245,0.8952131323350292,0.5279619722390199
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2001,0.7147051431388662,0.8905976737393049,0.5388126125384276
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2002,0.5901724558177966,0.7361810342682782,0.4441638773673151
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2003,0.3877052546618145,0.48793438243534754,0.28747612688828145
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2004,0.35827141890233116,0.449202140403457,0.2673406974012053
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2005,0.3548553053475412,0.443994859613033,0.26571575108204937
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2006,0.36338353596733064,0.4565079908607088,0.27025908107395247
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2007,0.4235756194669026,0.5239110047653684,0.3232402341684367
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2008,0.559756557128263,0.7110255928282411,0.4084875214282849
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2009,0.4357582061766445,0.5438084026441873,0.32770800970910174
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2010,0.4001985954664722,0.49546812170731186,0.3049290692256325
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2011,0.3613995615734757,0.4552620076650788,0.2675371154818726
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2012,0.34511986278203094,0.4283992689882633,0.2618404565757986
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2013,0.3019406180546554,0.37436560225789334,0.22951563385141743
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2014,0.3038932361976612,0.3722626449674489,0.23552382742787348
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2015,0.30363194721165626,0.376045184002842,0.23121871042047054
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2016,0.2347090045019928,0.288113111560891,0.18130489744309464
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2017,0.19249509081875904,0.23982661457997667,0.1451635670575414
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2018,0.2047437397556738,0.2594606432743457,0.1500268362370019
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2019,0.20358265967956635,0.25519393816592056,0.15197138119321213
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2020,0.251444710001721,0.3126619153852477,0.19022750461819424
+Georgia,10 to 14,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2021,0.16183953571418402,0.2047418323400334,0.11893723908833466
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1990,0.0018351542834855667,0.005555362252131622,0.000013306098752981113
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1991,0.0018486943471397888,0.005594395051626171,0.000013504114983858104
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1992,0.001932548771498238,0.005831838684829117,0.000012912760416736124
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1993,0.0020720343040979273,0.006231609708220545,0.000012923390543353484
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1994,0.002258860867520173,0.00681215089716837,0.000013065238983213442
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1995,0.001958059398068115,0.005876661669329149,0.000012991494850403497
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1996,0.0016366996945176816,0.00494219635387115,0.00001311394959012687
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1997,0.0014561989401106997,0.004402240451087138,0.000012578331272633454
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1998,0.0012808868645610748,0.003856296809898985,0.000012729685780125447
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1999,0.001055907988499528,0.0031853370597848805,0.000010868713454015494
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2000,0.000884000204962642,0.002663882010675865,0.000009976347015782433
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2001,0.0008334028314849835,0.0025082631382793525,0.00000996657622320192
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2002,0.0006690885006017325,0.0020330427291181527,0.000009786454183640896
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2003,0.00036540256673192086,0.001113124847214439,0.000008319950266839304
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2004,0.00027743855253841636,0.0008301858525653276,0.000007843713554978536
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2005,0.0002552001680026505,0.0007759933546221058,0.000006986693351189069
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2006,0.0002655062715382828,0.0007951741510458707,0.0000075552851812592715
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2007,0.0002707741263587679,0.0007883310636341708,0.000011537620113100663
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2008,0.0002600097945781605,0.0007747566805954395,0.000010943554530964999
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2009,0.0002128423158928817,0.0006357544594559868,0.00000850035477018209
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2010,0.0001495580165954499,0.000463570692705591,0.000005554131380603249
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2011,0.00010541868391824987,0.00032165147234053664,0.000003916383414525486
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2012,0.00009730992019584534,0.0003004913955798715,0.0000037735768862399453
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2013,0.00009466392084232008,0.0002804006474000526,0.000004453006103004956
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2014,0.0000927988416012059,0.0002829883151190771,0.000005005749002126664
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2015,0.00009508656840252752,0.0002973615064842818,0.000005391605056750865
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2016,0.00007673428630744437,0.0002301677172739891,0.000004774810075628882
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2017,0.00006122006453914444,0.0001841915520987992,0.000005554896759961267
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2018,0.00006627501083358358,0.0001730076021947339,0.00000936627338144672
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2019,0.00007171153421021445,0.00018150442209662217,0.000012920167114937221
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2020,0.00009307683331205602,0.0002460089228615727,0.000014741852360641164
+Georgia,10 to 14,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2021,0.00005784919456960514,0.0001450973513769326,0.000010333692005367237
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1990,0.0001800191609144579,0.0002755698023150549,0.00008446851951386088
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1991,0.00018637961465002803,0.00028064684584170214,0.00009211238345835391
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1992,0.00018426282320597396,0.0002768191558760333,0.0000917064905359146
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1993,0.0001900757093888333,0.000283489577756674,0.00009666184102099261
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1994,0.00019068462167958316,0.00027898586809347784,0.00010238337526568846
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1995,0.00021722582719161364,0.00031432168908681506,0.00012012996529641224
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1996,0.0002682138968873585,0.0003901829726649244,0.0001462448211097926
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1997,0.00021828718667037374,0.00030808050775914204,0.00012849386558160545
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1998,0.00022748027021938998,0.0003150608350107174,0.00013989970542806256
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1999,0.00011953448971721598,0.0001648776071942816,0.00007419137224015036
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2000,0.0000736127086829399,0.00010147273032069948,0.000045752687045180315
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2001,0.000035367082595632165,0.00004791400595831162,0.000022820159232952716
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2002,0.00004643571352875411,0.00006261627979786111,0.00003025514725964711
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2003,0.00017485215258485626,0.0002376875211764178,0.00011201678399329473
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2004,0.00020745646231453994,0.00028479012181688437,0.0001301228028121955
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2005,0.000053457499503058924,0.0000733016231316781,0.000033613375874439746
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2006,0.00003240294810325966,0.00004406929901280338,0.000020736597193715933
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2007,0.00012107372042796319,0.00016309417269328564,0.00007905326816264072
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2008,0.00005795834693059669,0.00007807164959597943,0.000037845044265213945
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2009,0.00002213111204158336,0.000030221748547644246,0.000014040475535522475
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2010,0.00001825470721324033,0.000025145162219977936,0.000011364252206502724
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2011,0.00001702513513492729,0.000023543919913415037,0.000010506350356439545
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2012,0.000014780051951973865,0.000020363953789115523,0.000009196150114832208
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2013,0.00001585643067145187,0.00002196209083768559,0.000009750770505218147
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2014,0.000015900699177661582,0.00002220422545798001,0.000009597172897343154
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2015,0.000013589397901034627,0.000019145095856536864,0.00000803369994553239
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2016,0.000015171448934146222,0.000021518528752675846,0.000008824369115616596
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2017,0.00000891483906201214,0.000012653522506407132,0.000005176155617617151
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2018,0.00001022407333095125,0.000014436021700805383,0.000006012124961097117
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2019,0.000009370097102685017,0.000013204827035741653,0.00000553536716962838
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2020,0.000011962516003406995,0.00001691252029386519,0.000007012511712948802
+Georgia,10 to 14,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2021,0.000008564044842476533,0.000012290068735903382,0.000004838020949049686
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1990,0.010042024757466109,0.022484276813949978,0.003689120317637642
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1991,0.010152646572899122,0.022236627458098124,0.0037942333188250997
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1992,0.011101951500348236,0.024169467119413878,0.00418375230972698
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1993,0.012261065728553447,0.026787476840913683,0.004632089022154513
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1994,0.01327319590875966,0.029045740531508053,0.004980913851826777
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1995,0.012043386624429905,0.025933249773199295,0.004555876058068682
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1996,0.009987688094848847,0.0217281974455105,0.0037405472568559275
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1997,0.009175196189559413,0.019670873459000385,0.0034250850247919728
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1998,0.007892303135248755,0.016966873929497764,0.0029178425400123572
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1999,0.006479277252849796,0.013938127329875837,0.0023924604696494056
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2000,0.00542789181095363,0.011507756674469443,0.0020058162835616534
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2001,0.005391217193478253,0.011457577486034334,0.0020023065662717757
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2002,0.004342592683859272,0.008986068599765883,0.0016358084603046426
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2003,0.0025479460048884297,0.005159549097314805,0.000970411774506415
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2004,0.0017688631975129728,0.003550877297848431,0.0006677084363458743
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2005,0.0015983169047970832,0.003230657827036707,0.0005987933856790557
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2006,0.00163117637353472,0.0032797521518812107,0.0006073406168087132
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2007,0.0015907094463871452,0.00320795361099437,0.0005894896383401376
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2008,0.0015173829035556522,0.0030495560636816217,0.0005800544773326693
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2009,0.001216991675455759,0.002557186662445832,0.00044168596427708904
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2010,0.0010187031111620658,0.0021011080402042444,0.00037466866864799297
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2011,0.0007682014924186103,0.0015663513936486231,0.0002891881621111349
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2012,0.0006774628705492607,0.0013941728082082607,0.000251064799889107
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2013,0.000590995346484004,0.0012249739601717003,0.00022184142268254147
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2014,0.0005209747489480464,0.0010863051077498942,0.0001946378238269029
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2015,0.00048036579698928453,0.0011096830618999042,0.0001707131963631638
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2016,0.0003914116566093033,0.000839638476014282,0.00014375819062794826
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2017,0.0002909239422711539,0.0006146713776131706,0.00010553019071086029
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2018,0.00028256580001065763,0.0006467959722572256,0.0000954371242470565
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2019,0.00027973722430418873,0.0006177105913163171,0.0000971991703167681
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2020,0.0003759642449907596,0.0008225122382238888,0.00013108674085212694
+Georgia,10 to 14,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2021,0.00021794352406336156,0.00048135856928580495,0.00007346192230484963
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1990,0.0045309521216273,0.0139467483701574,0.000729132078891
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1991,0.0099634447141305,0.0303641753951968,0.0016674458864902
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1992,0.02063696539151379,0.0609306054033401,0.003717756403326575
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1993,0.040640462924091,0.1129677001577569,0.0080494811038095
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1994,0.0719389545605223,0.1870302729623492,0.0159773191706694
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1995,0.1034130111135008,0.2507009686550918,0.0254525513010761
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1996,0.1062431326447986,0.2441558807247582,0.0289227400942858
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1997,0.1700819802655238,0.3739233766358665,0.050856623010643
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1998,0.1964551757941363,0.4108665819292659,0.0640137131543291
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1999,0.22392877980448064,0.45419234503955275,0.07769740818990394
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2000,0.19659922400124574,0.38512173379887327,0.008076714203618246
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2001,0.2410458851865125,0.4556030449992111,0.02648872537381386
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2002,0.24690674411192332,0.4502199416883102,0.04359354653553643
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2003,0.16251052188326803,0.28755918794457946,0.0374618558219566
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2004,0.1614736988793829,0.2795732349145502,0.04337416284421555
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2005,0.15279956601481443,0.256043081076868,0.04955605095276086
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2006,0.1731514141855001,0.2808046793427418,0.06549814902825839
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2007,0.18212239458618557,0.28816119771160015,0.076083591460771
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2008,0.20165819208894548,0.3137074996530656,0.08960888452482534
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2009,0.17452562365856344,0.26932323030715133,0.07972801700997556
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2010,0.1578266103205716,0.2444136828304544,0.0712395378106888
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2011,0.12101974733314985,0.1911443450760596,0.05089514959024012
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2012,0.12569224732337847,0.19025291144071702,0.061131583206039924
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2013,0.11557778291600207,0.1761250609258575,0.05503050490614664
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2014,0.11137471411955809,0.16863424856864037,0.0541151796704758
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2015,0.11177483538446392,0.16808496062825895,0.05546471014066889
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2016,0.08377358693184672,0.12278025494893596,0.044766918914757474
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2017,0.09982521155051871,0.1512306494953913,0.048419773605646116
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2018,0.08515126220741712,0.13201082392385985,0.038291700490974384
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2019,0.08593292132520795,0.13707926200481652,0.034786580645599405
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2020,0.08444290211571584,0.14050812194474754,0.02837768228668413
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2021,0.0738538622727619,0.12340411729953357,0.02430360724599024
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1990,0.06131473653806735,0.09593244911793258,0.026697023958202115
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1991,0.06134988757743551,0.09457180623059533,0.028127968924275687
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1992,0.062916388611997,0.09532186378319535,0.03051091344079864
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1993,0.06581975847779253,0.10279276100039639,0.028846755955188673
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1994,0.048833512151285154,0.07498099223363429,0.022686032068936022
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1995,0.049397756288183034,0.0728285065478324,0.02596700602853367
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1996,0.051151394636813355,0.07718479510019643,0.02511799417343028
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1997,0.05213563696403025,0.07820325818107729,0.026068015746983215
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1998,0.05313051904295325,0.07973353829575826,0.026527499790148252
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1999,0.04741961298254059,0.0699701244977963,0.024869101467284882
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2000,0.045654593188881806,0.06836824339224387,0.022940942985519738
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2001,0.04616798988178102,0.06901532084904242,0.023320658914519624
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2002,0.03886488571983083,0.057940009370820056,0.0197897620688416
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2003,0.026565391629210875,0.0395752652292248,0.013555518029196951
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2004,0.022134741202999714,0.033130767113384696,0.011138715292614733
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2005,0.020912700777475327,0.03138591888322896,0.010439482671721694
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2006,0.0205275092868712,0.03060695190793325,0.010448066665809148
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2007,0.020987356413036,0.03157600465745771,0.010398708168614289
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2008,0.02623614276040938,0.039632488833390114,0.012839796687428642
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2009,0.02106601774466626,0.03163533091823644,0.010496704571096077
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2010,0.018914510154876243,0.0288193435685798,0.009009676741172685
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2011,0.016973707979655323,0.02594297427868508,0.008004441680625567
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2012,0.01647514571198997,0.025038716678246378,0.007911574745733565
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2013,0.014933378464056903,0.02272099207555406,0.007145764852559747
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2014,0.014026745968213713,0.021349377410540438,0.006704114525886989
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2015,0.013260467521433707,0.02043097528753005,0.006089959755337364
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2016,0.011057680643358053,0.016771244957337453,0.005344116329378653
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2017,0.009674197863891738,0.015010235929230571,0.004338159798552905
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2018,0.010252202384360073,0.016092788957814092,0.004411615810906056
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2019,0.010214214277140508,0.015782430026982965,0.004645998527298049
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2020,0.012317986402376616,0.018756798655284405,0.005879174149468828
+Georgia,10 to 14,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2021,0.008381741162769973,0.01289771767780943,0.003865764647730515
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1990,0.29714979080308945,0.4951969107303607,0.0991026708758182
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1991,0.2986540442046128,0.4934094964908514,0.10389859191837411
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1992,0.31070938586759334,0.50235418533356,0.11906458640162668
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1993,0.32357512085571205,0.5402923400787562,0.10685790163266798
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1994,0.23084340052974095,0.37091385506479685,0.09077294599468505
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1995,0.24281457589775274,0.3788164840838687,0.10681266771163678
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1996,0.27112011710936224,0.424935847774947,0.1173043864437775
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1997,0.25556242818193387,0.3961891123082141,0.11493574405565368
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1998,0.2630447237288009,0.40542837876347965,0.12066106869412213
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1999,0.2283982845258305,0.345343623250937,0.11145294580072403
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2000,0.22355690481625018,0.3378271118562237,0.10928669777627667
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2001,0.22942785543203184,0.34018021537589643,0.11867549548816726
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2002,0.20584287051452071,0.3006567965023187,0.11102894452672274
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2003,0.12398506596872377,0.18021656949678241,0.06775356244066513
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2004,0.10484036927882551,0.15103984959196134,0.05864088896568966
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2005,0.10193571379559335,0.1455567041338018,0.058314723457384886
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2006,0.11111673598948787,0.15661384177971027,0.06561963019926548
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2007,0.13890671946322464,0.19152373695133157,0.08628970197511769
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2008,0.1936648069474371,0.26326197599092166,0.12406763790395255
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2009,0.17129416506269868,0.22838409225792283,0.11420423786747451
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2010,0.17089559113888994,0.2250923429580552,0.1166988393197247
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2011,0.17685215394859805,0.23074352959191535,0.12296077830528074
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2012,0.20357102065009605,0.2576356281655195,0.1495064131346726
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2013,0.21501812740622267,0.2670210687503895,0.16301518606205584
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2014,0.24511780891309992,0.2980335447236646,0.19220207310253523
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2015,0.2685108340273683,0.3263998384568316,0.21062182959790499
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2016,0.23947476212091875,0.28584960962701883,0.19309991461481868
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2017,0.2145388877314441,0.25816252869213874,0.17091524677074946
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2018,0.21427135811982717,0.2640781229758002,0.16446459326385413
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2019,0.19150626527397016,0.2367199695844909,0.14629256096344942
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2020,0.20521399747707614,0.2584749241703113,0.15195307078384096
+Georgia,10 to 14,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2021,0.12974672332441992,0.16681768357354074,0.0926757630752991
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1990,0.6033373237922143,0.7727004341951997,0.43397421338922887
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1991,0.6404515162254946,0.8141778799145732,0.4667251525364159
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1992,0.6618576924054058,0.8332616945187199,0.49045369029209174
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1993,0.7016606360727601,0.9199819734313184,0.4833392987142018
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1994,0.480391206837671,0.61030073890005,0.350481674775292
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1995,0.47230877416994704,0.5874721060544065,0.3571454422854876
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1996,0.5286279732297023,0.6658160341115034,0.3914399123479014
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1997,0.4634336504218423,0.5866578982588984,0.34020940258478627
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1998,0.4769326917527258,0.605304688459872,0.3485606950455796
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1999,0.3963605205259993,0.4989301172847487,0.2937909237672499
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2000,0.40588779042450185,0.514566841899091,0.29720873894991273
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2001,0.4190209450205058,0.525222434770298,0.3128194552707136
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2002,0.44408972971466615,0.5521410393474795,0.33603842008185286
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2003,0.19737531850559392,0.2501183504957842,0.1446322865154037
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2004,0.12438100670151915,0.1591659935523247,0.0895960198507136
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2005,0.14713671555948393,0.1866673773991732,0.10760605371979468
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2006,0.20248955895444073,0.2552992395958791,0.14967987831300236
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2007,0.2571371433557454,0.3219458476381873,0.1923284390733035
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2008,0.34882216911067415,0.4403478861243991,0.2572964520969492
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2009,0.30685356932634256,0.3821380053803596,0.23156913327232556
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2010,0.29655577253864684,0.3668953778013166,0.2262161672759771
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2011,0.31634378638801597,0.39198008447788524,0.24070748829814667
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2012,0.38136165889201223,0.4596127748248875,0.303110542959137
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2013,0.391739077353527,0.4677060567617891,0.31577209794526484
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2014,0.46602170121671005,0.5452866598322942,0.3867567426011259
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2015,0.5146978734564871,0.602757821257432,0.42663792565554215
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2016,0.4572128173229179,0.5277405240310283,0.3866851106148074
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2017,0.40089024153042163,0.4631741905916079,0.33860629246923535
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2018,0.40505339116164163,0.47525015967017786,0.3348566226531054
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2019,0.32891973190169865,0.3890354092353999,0.2688040545679974
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2020,0.39532956983656825,0.4673799471881351,0.3232791924850014
+Georgia,10 to 14,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2021,0.26583009592062457,0.3178707891285673,0.21378940271268185
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1990,0.012934054374756154,0.015211504335000327,0.01065660441451198
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1991,0.013004270729129274,0.01514672036284603,0.010861821095412519
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1992,0.014266887262384748,0.01668384569999602,0.011849928824773478
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1993,0.016424979414516816,0.021363765842482476,0.011486192986551156
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1994,0.01068195453098722,0.01273345191228009,0.00863045714969435
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1995,0.010749891974859944,0.012348210800970878,0.00915157314874901
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1996,0.010620669777134495,0.012618825911944298,0.008622513642324692
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1997,0.010486431637065228,0.012446628852203837,0.00852623442192662
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1998,0.010904680807609217,0.012982990675211453,0.008826370940006982
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1999,0.00955370662837207,0.011330573722922076,0.0077768395338220645
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2000,0.008907339330301864,0.010720292505670337,0.007094386154933392
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2001,0.009002562097578815,0.010603048909154027,0.007402075286003604
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2002,0.007878201169104744,0.009390983996040153,0.006365418342169334
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2003,0.00564814272380984,0.006718555005073665,0.004577730442546016
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2004,0.004639576048099921,0.0055501285198624505,0.003729023576337392
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2005,0.00432551632463026,0.005127835752825909,0.003523196896434611
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2006,0.004100340597839546,0.00491855999447956,0.0032821212011995326
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2007,0.004096083640001802,0.004925717505644686,0.0032664497743589175
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2008,0.005430118890527329,0.006771022938221205,0.004089214842833453
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2009,0.004046533034412401,0.0047923484887674415,0.0033007175800573592
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2010,0.0037068252299078696,0.0043835005146872445,0.0030301499451284948
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2011,0.003511189464583324,0.004276654958216975,0.002745723970949673
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2012,0.003602819967548988,0.004236315977827417,0.0029693239572705587
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2013,0.0034757091127435185,0.004136047809452355,0.002815370416034682
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2014,0.0034776190683086464,0.004158541876094921,0.0027966962605223715
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2015,0.0035478418825073505,0.0042631551281333245,0.002832528636881376
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2016,0.002992688245841474,0.003542576111307461,0.0024428003803754874
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2017,0.0027147288260890553,0.0032771960468148346,0.002152261605363276
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2018,0.002911841003517688,0.0035224454071965737,0.0023012365998388022
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2019,0.00292420146878275,0.0034749872870374772,0.0023734156505280228
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2020,0.003626749234798693,0.004377974202240872,0.002875524267356513
+Georgia,10 to 14,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2021,0.0025748440893105396,0.003140648692672929,0.0020090394859481504
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1990,0.025432046158543137,0.05129922999215156,0.009896573867886404
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1991,0.026592647685166823,0.05315886192005149,0.0000264334502821581
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1992,0.020813526080707904,0.04129280826958441,0.00033424389183139835
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1993,0.022270112174241026,0.045256283729777226,0.008797174904768801
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1994,0.019222044786896715,0.03765773329541643,0.000786356278376997
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1995,0.01936951555184962,0.03652350387833798,0.0022155272253612593
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1996,0.019458184928963496,0.03706598768973097,0.0018503821681960242
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1997,0.01945110389150573,0.03675161601797823,0.002150591765033228
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1998,0.02088811622133356,0.039197118447298895,0.002579113995368223
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1999,0.018949038587977286,0.03469230391760848,0.003205773258346086
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2000,0.016991388860746373,0.03151154150396111,0.0024712362175316333
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2001,0.017954045772303803,0.032953000271763865,0.0029550912728437424
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2002,0.014935939778092683,0.02730568795011683,0.0025661916060685346
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2003,0.01040861572542413,0.018825225873661304,0.0019920055771869543
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2004,0.010116152827265135,0.018139766817244687,0.0020925388372855826
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2005,0.010022053549427059,0.01793981467065791,0.00210429242819621
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2006,0.011182966718725228,0.019712953100023314,0.0026529803374271393
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2007,0.012898759866282958,0.022580107552954677,0.0032174121796112367
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2008,0.01871051638253498,0.03235810658676793,0.00506292617830203
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2009,0.012538662768571174,0.021822723395956464,0.0032546021411858864
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2010,0.011514438616288243,0.020279481478944775,0.0027493957536317126
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2011,0.013036944703176834,0.022679836006879797,0.0033940533994738717
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2012,0.013293635183092217,0.022902963679223395,0.0036843066869610384
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2013,0.013367579729162386,0.022980845944324126,0.0037543135140006446
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2014,0.012131090736396625,0.020833813742855006,0.0034283677299382434
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2015,0.010384866193907159,0.01826437069209709,0.0025053616957172297
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2016,0.007335474849158327,0.012940452612617608,0.001730497085699047
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2017,0.006529035213276502,0.011732333363806302,0.0013257370627467024
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2018,0.0059489815298324564,0.010874348331386905,0.0010236147282780082
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2019,0.005970689576418423,0.010810921531086532,0.001130457621750314
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2020,0.006662432529635282,0.012014071120850654,0.0013107939384199097
+Georgia,10 to 14,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2021,0.0048088460775200575,0.00875898053628998,0.0008587116187501334
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1990,0.12917082660065432,0.18512430556262316,0.07321734763868547
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1991,0.12891581211743208,0.18221496217695982,0.07561666205790436
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1992,0.1405369979860413,0.19528499661401452,0.08578899935806808
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1993,0.15663480119352508,0.2293530083902205,0.08391659399682967
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1994,0.10792569663570259,0.15255034227722514,0.06330105099418003
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1995,0.10727788139315028,0.1450828127044278,0.06947295008187275
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1996,0.10611448102903276,0.1493726463914524,0.06285631566661312
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1997,0.1067727154305846,0.14812743086489788,0.0654179999962713
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1998,0.10853882532925022,0.14969501230095983,0.0673826383575406
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1999,0.09450046559851907,0.12887620065319066,0.06012473054384749
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2000,0.08969334412604212,0.12376523304739548,0.055621455204688745
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2001,0.08910398699685251,0.12203933062415379,0.056168643369551234
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2002,0.07890606541688834,0.10675368269814892,0.05105844813562777
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2003,0.05919663889383754,0.07993287625469722,0.03846040153297786
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2004,0.050959936292862024,0.06870066031146638,0.03321921227425767
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2005,0.03527940611678089,0.0492024058746029,0.021356406358958878
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2006,0.03611685295028643,0.05018947986846998,0.022044226032102883
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2007,0.03862153128734573,0.05333921698329996,0.023903845591391505
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2008,0.05206796788452393,0.07198347326245426,0.03215246250659361
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2009,0.04235591703449972,0.057302346296478374,0.02740948777252107
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2010,0.04078549351744724,0.055150897537092236,0.026420089497802238
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2011,0.035109895182357256,0.047863786113210585,0.022356004251503928
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2012,0.04195111687792066,0.05529805661639957,0.028604177139441758
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2013,0.038390891307185836,0.05037153041010699,0.026410252204264684
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2014,0.033517021268338824,0.0439157918168193,0.023118250719858346
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2015,0.0292972405275801,0.03916864466931401,0.019425836385846194
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2016,0.024455201664326107,0.031899294205108196,0.01701110912354402
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2017,0.02292375528767997,0.030519420960713174,0.015328089614646767
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2018,0.02079872296723804,0.02859523842488232,0.013002207509593758
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2019,0.01704788984577288,0.023293294459349374,0.010802485232196384
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2020,0.019005395642850163,0.026187142622312365,0.011823648663387962
+Georgia,10 to 14,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2021,0.015221817917499249,0.02098211293289539,0.00946152290210311
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1990,0.2118473394843994,0.30642261074831856,0.11727206822048022
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1991,0.21451636163975513,0.30811982362046864,0.12091289965904163
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1992,0.2213177272747469,0.3141899164840015,0.1284455380654923
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1993,0.23515977591498965,0.3493297874612242,0.12098976436875512
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1994,0.16198650044167628,0.23076753422916768,0.0932054666541849
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1995,0.1569433166517764,0.22098462211076914,0.09290201119278368
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1996,0.15726928383291186,0.2241333644413564,0.09040520322446731
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1997,0.1588864437079153,0.2266639984352523,0.09110888898057827
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1998,0.1624561414992697,0.2326546710456569,0.09225761195288253
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1999,0.1427323124558317,0.2026795745423361,0.08278505036932733
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2000,0.1368027019797758,0.19569361294374343,0.07791179101580815
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2001,0.1388324992018181,0.19697147478281576,0.08069352362082041
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2002,0.1209439992622022,0.17186100643763866,0.07002699208676574
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2003,0.07638111735751671,0.10913710102067228,0.04362513369436114
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2004,0.06015208355898541,0.08632363786175609,0.033980529256214725
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2005,0.057528450368811455,0.08259666964642336,0.032460231091199554
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2006,0.05742957528206368,0.08273431250183033,0.03212483806229703
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2007,0.05936377094023609,0.08537382203620764,0.03335371984426454
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2008,0.07843928680462436,0.11438835319522161,0.04249022041402711
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2009,0.058613253383476706,0.08500964802187616,0.03221685874507725
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2010,0.04971569335171211,0.07238771070567188,0.027043675997752342
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2011,0.04261268750394393,0.062085167854687096,0.02314020715320077
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2012,0.040522715410051605,0.05826501355372962,0.022780417266373584
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2013,0.035948275344130184,0.0521442632854259,0.019752287402834467
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2014,0.0334904537970646,0.0480364256800586,0.018944481914070596
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2015,0.03136879605669918,0.04575459896537244,0.01698299314802591
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2016,0.026322521354671065,0.03771400456328528,0.014931038146056846
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2017,0.023219164262173034,0.03358785792160593,0.01285047060274014
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2018,0.025025479375194865,0.036489352138165,0.013561606612224724
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2019,0.026005224737799794,0.03744276374161639,0.014567685733983197
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2020,0.031172736313638514,0.04453874223493591,0.017806730392341118
+Georgia,10 to 14,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2021,0.02022579444216597,0.029368553727757388,0.011083035156574552
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1990,0,0,0
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1991,0,0,0
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1992,0,0,0
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1993,0.0005763492253207,0.0015993159446125,0.0001090895057403
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1994,0.0020295650476643,0.0052819630637728,0.0004313718754378
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1995,0.0043474380451681,0.0106821080297978,0.0010201712106961
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1996,0.0059123612867398,0.0139048421267709,0.0015249331911842
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1997,0.0117423312223892,0.0263043123793332,0.0033283564309409
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1998,0.0161462702965389,0.0347726022104621,0.0049686319731676
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1999,0.021300449197826254,0.04451283109048501,0.007025097659180264
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2000,0.02121241185243348,0.04300117589372021,0.0075304158614500506
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2001,0.029048684869302198,0.0567352669033523,0.0013621028352520902
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2002,0.0328095821564131,0.06176722954307613,0.003851934769750067
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2003,0.023568780475419875,0.04310204544720268,0.0040355155036370695
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2004,0.025355557390140213,0.04536046535409126,0.005350649426189166
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2005,0.025797799157306064,0.04476676882016682,0.006828829494445309
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2006,0.031248727535403604,0.05253096935554636,0.009966485715260848
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2007,0.03495758339938428,0.05707567514796879,0.012839491650799777
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2008,0.04100348060875818,0.0662999870939712,0.015706974123545162
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2009,0.03744152293863556,0.06011382409038284,0.014769221786888283
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2010,0.035606576359224956,0.0573534756695559,0.013859677048894015
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2011,0.028628234209014287,0.046943045278778156,0.010313423139250415
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2012,0.031086801593114163,0.04852336784136281,0.013650235344865511
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2013,0.02980735779599597,0.04710358201209797,0.012511133579893967
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2014,0.02988138418685713,0.04670790027449934,0.013054868099214929
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2015,0.031144715833904782,0.04817115434717033,0.014118277320639232
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2016,0.024193921393772758,0.03674112801339672,0.011646714774148798
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2017,0.02983277655073767,0.0465459273415196,0.01311962575995574
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2018,0.026292138462868455,0.04185560570601395,0.010728671219722957
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2019,0.0273818268294254,0.04456994788270224,0.01019370577614856
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2020,0.02691683597946482,0.04592691935133807,0.007906752607591563
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2021,0.023550961315004247,0.04033071436037251,0.0067712082696359775
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1990,0.06471737525065613,0.07416706395098632,0.05526768655032594
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1991,0.06517625529137486,0.0748065761410326,0.05554593444171711
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1992,0.06777479711855361,0.07811809687867227,0.057431497358434946
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1993,0.0718402968417104,0.09256785005303843,0.05111274363038236
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1994,0.051597940919281306,0.06058915961764016,0.042606722220922454
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1995,0.05196997230021597,0.05922850280322879,0.044711441797203155
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1996,0.05255171213936395,0.06098668285687586,0.04411674142185204
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1997,0.05326885794345994,0.062267759438151216,0.04426995644876866
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1998,0.05471325099580248,0.06344321240297995,0.045983289588625006
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1999,0.04829123627424091,0.05722905332196515,0.03935341922651667
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2000,0.04665133441775843,0.055142505773374546,0.03816016306214231
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2001,0.04755067673001739,0.055353631483153955,0.03974772197688082
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2002,0.04041386806528108,0.047335281228012005,0.03349245490255015
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2003,0.028034002626825434,0.032849366455205684,0.023218638798445185
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2004,0.023923407718179142,0.02784639867638988,0.020000416759968404
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2005,0.022939361337466557,0.026703464380798476,0.019175258294134637
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2006,0.02261407017989416,0.02677875512031189,0.018449385239476427
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2007,0.023234603987958458,0.02728216017755723,0.019187047798359686
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2008,0.029101875609902055,0.03537513895719612,0.022828612262607993
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2009,0.02314283000217018,0.027419461472454932,0.01886619853188543
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2010,0.021060686465718757,0.02478022443467731,0.017341148496760203
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2011,0.018246671999944668,0.021792175139165697,0.014701168860723639
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2012,0.01731385699089579,0.020245851414446982,0.0143818625673446
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2013,0.016808972427426364,0.019486921343913523,0.014131023510939204
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2014,0.017602705637235018,0.020520342999087865,0.014685068275382171
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2015,0.016923231552569376,0.01986880196609074,0.01397766113904801
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2016,0.014159909815430367,0.01652728866008586,0.011792530970774876
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2017,0.013154015197890168,0.015240535167539981,0.011067495228240354
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2018,0.014342060319869582,0.016921030677362107,0.011763089962377056
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2019,0.015404932116281824,0.018092646309318068,0.01271721792324558
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2020,0.01928623434034593,0.02279364152121999,0.015778827159471872
+Georgia,10 to 14,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2021,0.01261983258886628,0.015000310448434776,0.010239354729297783
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1990,1.4448385638317847,2.153840525846839,0.73583660181673
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1991,1.520989256215195,2.2476365582073408,0.7943419542230494
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1992,1.5478938201336532,2.2632784361539606,0.832509204113346
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1993,1.4898684648305895,2.200233949797738,0.7795029798634412
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1994,1.1635174034464386,1.69468474699074,0.6323500599021373
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1995,1.1740509353516142,1.6917333965435302,0.6563684741596982
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1996,1.1826957252106562,1.715143785869159,0.6502476645521537
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1997,1.1698395884325732,1.6954707209963507,0.6442084558687957
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1998,1.2915469450336876,1.8716578558371326,0.7114360342302425
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1999,1.1471391695827284,1.6512475714543944,0.6430307677110625
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2000,1.1293163138997873,1.6329862466770542,0.6256463811225202
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2001,1.2271972655725571,1.7626685063491698,0.6917260247959445
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2002,0.9851569814945349,1.416784194894513,0.5535297680945568
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2003,0.5815923165056267,0.8391945286822416,0.32399010432901176
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2004,0.49917994088716106,0.7211127828002291,0.27724709897409305
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2005,0.5125453980983949,0.7403630277136609,0.284727768483129
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2006,0.5363010844565419,0.7744758188247612,0.29812635008832256
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2007,0.5658882464805719,0.8168612230458292,0.31491526991531466
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2008,0.7141150106486075,1.033505264928308,0.394724756368907
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2009,0.6148034459670139,0.8902367374582857,0.33937015447574204
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2010,0.5846107815235688,0.8475317983031003,0.32168976474403727
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2011,0.5130636696823081,0.7449510641019313,0.28117627526268485
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2012,0.5401067733382335,0.7749145040980203,0.3052990425784468
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2013,0.5090406811726393,0.7301702673789707,0.287911094966308
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2014,0.5357416280425245,0.7593270575147479,0.3121561985703009
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2015,0.5403890021328073,0.7687741561549803,0.31200384811063425
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2016,0.46907767122505706,0.6557349686296974,0.28242037382041674
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2017,0.3953445630897341,0.5548634040806408,0.2358257220988273
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2018,0.4361037079043178,0.6130475428499198,0.2591598729587158
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2019,0.4246816746644957,0.5908984078579373,0.258464941471054
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2020,0.4708287565025494,0.649395356988403,0.2922621560166958
+Georgia,10 to 14,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2021,0.28991743549173854,0.40308065029004614,0.1767542206934309
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1990,1.526635880342877,2.5661820907294794,0.48708966995627456
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1991,1.5381678515205819,2.5540369779429213,0.5222987250982425
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1992,1.512876709788363,2.484380170115759,0.5413732494609671
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1993,1.6474190260687387,2.7667241445797863,0.5281139075576913
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1994,1.2364762473425328,1.9975612731659655,0.47539122151910007
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1995,1.25030331293299,1.949124160763512,0.5514824651024679
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1996,1.3214785110558136,2.0805793086024478,0.5623777135091794
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1997,1.3932416803584948,2.1483808805718727,0.6381024801451172
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1998,1.2633697248750262,1.9724977275261413,0.5542417222239112
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1999,1.0861024720676167,1.6625477296308637,0.5096572145043695
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2000,1.0655452658222127,1.6437718813702151,0.4873186502742102
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2001,1.1326767542081368,1.711012440587678,0.5543410678285955
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2002,0.9963915472938955,1.4774278836166088,0.5153552109711822
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2003,0.7402641689337425,1.0836970454749995,0.39683129239248555
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2004,0.5594321429395324,0.8316535892220878,0.2872106966569769
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2005,0.5089250105175458,0.7617081519127264,0.25614186912236514
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2006,0.502894288418997,0.7495391254444391,0.2562494513935548
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2007,0.4966369853160437,0.7394157092882216,0.25385826134386585
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2008,0.6244707870321551,0.9278215420931797,0.32112003197113054
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2009,0.47319209677463203,0.7028641854192802,0.24352000812998387
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2010,0.4254059704754829,0.6380197571273396,0.21279218382362616
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2011,0.38163152007835277,0.5691644945287113,0.19409854562799425
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2012,0.3642405496301905,0.5376863786370366,0.19079472062334438
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2013,0.3297461021541446,0.48197234819908746,0.1775198561092018
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2014,0.30193198232900964,0.4394016310002958,0.1644623336577235
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2015,0.2752793337694759,0.40733895636094375,0.14321971117800802
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2016,0.23484583728026956,0.3398206302004762,0.12987104436006291
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2017,0.21174354828126485,0.3114307183387822,0.11205637822374746
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2018,0.21974667520978203,0.33170789707177567,0.1077854533477884
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2019,0.22458241795084044,0.33458652883638984,0.11457830706529101
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2020,0.26954062430424025,0.4032033506866719,0.1358778979218086
+Georgia,10 to 14,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2021,0.18025291226823856,0.27445478719814687,0.08605103733833022
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1990,0.0045309521216273,0.0139467483701574,0.000729132078891
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1991,0.0099634447141305,0.0303641753951968,0.0016674458864902
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1992,0.02063696539151379,0.0609306054033401,0.003717756403326575
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1993,0.0400641136987702,0.111391640873259,0.0079344846900658
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1994,0.0699093895128579,0.1818897175845831,0.0155270623350584
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1995,0.0990655730683326,0.2403843947793158,0.0243809274062762
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1996,0.1003307713580588,0.2307048175812984,0.0273182142136827
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1997,0.1583396490431346,0.3483582586365832,0.0473497160928178
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1998,0.1803089054975973,0.3770194392850618,0.0587613508523041
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1999,0.20262833060665442,0.4110284272455268,0.07030235876653174
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2000,0.17538681214881224,0.343441410511291,0.007332213786333475
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2001,0.2119972003172103,0.400953048615287,0.02304135201913357
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2002,0.21409716195551026,0.39096827517167076,0.03722604873934973
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2003,0.13894174140784815,0.2463128116945209,0.031570671121175384
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2004,0.13611814148924267,0.23596701602222947,0.036269266956255874
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2005,0.12700176685750836,0.21338954252077197,0.040613991194244733
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2006,0.1419026866500965,0.23073917746744976,0.05306619583274323
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2007,0.14716481118680125,0.2337894288219161,0.06054019355168638
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2008,0.16065471148018728,0.2506293199418535,0.07068010301852107
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2009,0.13708410071992785,0.21217364798302463,0.06199455345683108
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2010,0.12222003396134665,0.18991181978130134,0.05452824814139194
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2011,0.09239151312413554,0.14613108308436307,0.03865194316390801
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2012,0.09460544573026433,0.14403714988457597,0.045173741575952685
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2013,0.08577042512000611,0.13111361547138156,0.04042723476863068
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2014,0.08149332993270095,0.12402716517952192,0.03895949468587997
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2015,0.08063011955055913,0.12193858005100436,0.0393216590501139
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2016,0.059579665538073964,0.08769930019096156,0.03146003088518637
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2017,0.06999243499978106,0.10670885996993293,0.033276010029629176
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2018,0.05885912374454868,0.09174932427303134,0.02596892321606601
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2019,0.058551094495782545,0.0942046004975054,0.022897588494059685
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2020,0.05752606613625104,0.09623050581034882,0.018821626462153254
+Georgia,10 to 14,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2021,0.050302900957757656,0.08455259594616327,0.016053205969352044
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1990,0.015420102590928115,0.03243639096870105,0.005601629278253669
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1991,0.014883994972788386,0.03115715932668308,0.005492883932343476
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1992,0.015105131276513861,0.0305834615237017,0.0057343351139234715
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1993,0.015890937218894768,0.03314078064141395,0.00593238910749245
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1994,0.011467788583095648,0.023227228822823853,0.004399199918476646
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1995,0.011544615843697537,0.022746367336929536,0.0003428643504655351
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1996,0.011647334315721854,0.023036482516559945,0.00025818611488376275
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1997,0.011864002712316458,0.023306634329436915,0.0004213710951959989
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1998,0.012305773747489396,0.024124232540491765,0.000487314954487025
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1999,0.01096853466726819,0.021119958274295393,0.0008171110602409881
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2000,0.010410009186816747,0.020208797110891213,0.0006112212627422797
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2001,0.01031944134771973,0.019955319446386365,0.0006835632490530975
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2002,0.008733227166645161,0.01686508359842425,0.0006013707348660729
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2003,0.005749777534862074,0.011090891189141541,0.0004086638805826069
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2004,0.004795427098381052,0.009236148855506478,0.0003547053412556256
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2005,0.004629759675663184,0.008988782978162583,0.0002707363731637852
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2006,0.004703352303543856,0.009094783149347113,0.0003119214577405986
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2007,0.004900208551934025,0.009487820576405596,0.000312596527462454
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2008,0.006364820300619307,0.012352995533414082,0.0003766450678245334
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2009,0.004967486546584634,0.009670696067633511,0.00026427702553575606
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2010,0.0044007945803472975,0.008721414456017016,0.00008017470467757987
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2011,0.0039034571987917543,0.007788281722468822,0.00001863267511468614
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2012,0.003875830420693161,0.0077287962253534525,0.000022864616032869725
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2013,0.0037177421995438675,0.007455480642079165,0.0014288273997035744
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2014,0.0036407185038430877,0.0072998022671585915,0.0014218521290540718
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2015,0.0035216706114088244,0.007181439463141899,0.001363449650724932
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2016,0.0029287897048263663,0.00589417284747824,0.0011648708492231756
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2017,0.002666265164525651,0.005460429655753768,0.0010371112138389375
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2018,0.002866141511667163,0.005930348657825393,0.0011077577093217216
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2019,0.002950347538960613,0.006003889806355021,0.001149842361617407
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2020,0.0036176021208135225,0.007226074872101912,0.000009129369525132363
+Georgia,10 to 14,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2021,0.002470428755772147,0.004961431589057169,0.0009626996334778652
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1990,0.04264787283184061,0.08150750333577486,0.003788242327906359
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1991,0.043713913848761096,0.08233350822903109,0.005094319468491107
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1992,0.048010783383838906,0.08724771759620803,0.008773849171469783
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1993,0.05574176601162125,0.10530621633135132,0.006177315691891186
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1994,0.03751774854642097,0.07002049758229997,0.005014999510541969
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1995,0.033630572145577714,0.05926230428402238,0.007998840007133051
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1996,0.03244273593685976,0.059605456680753066,0.005280015192966451
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1997,0.0327213407989619,0.0591759802497137,0.006266701348210103
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1998,0.049634664230542136,0.08771172229767024,0.01155760616341403
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1999,0.04471729538004739,0.07666933631031785,0.012765254449776928
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2000,0.04126156892161978,0.07238903041855965,0.010134107424679899
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2001,0.04149392618112244,0.0735430583969816,0.009444793965263279
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2002,0.04292025607043537,0.07466354491176469,0.011176967229106057
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2003,0.03423149199960887,0.05894403272907191,0.009518951270145834
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2004,0.029987293010634117,0.05196543438054935,0.008009151640718887
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2005,0.0316586059795788,0.055053698257402015,0.00826351370175558
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2006,0.03304453218551459,0.05633068350900605,0.009758380862023134
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2007,0.03770322663266064,0.06462836316068138,0.010778090104639898
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2008,0.05153859570244972,0.08808555390879978,0.014991637496099663
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2009,0.045445189906004324,0.07628263940180811,0.014607740410200534
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2010,0.04517510720482582,0.07668110951457001,0.013669104895081635
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2011,0.04417081006499779,0.07451281869070109,0.013828801439294498
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2012,0.044792303718246815,0.0748035701991113,0.014781037237382326
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2013,0.051144221108830955,0.08284096841124454,0.01944747380641737
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2014,0.06189871409525926,0.09667721876371753,0.02712020942680099
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2015,0.08022327137897257,0.11904616580197495,0.041400376955970195
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2016,0.07213159064330288,0.10257722795668482,0.041685953329920936
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2017,0.06912944868466452,0.09970941399010316,0.038549483379225875
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2018,0.07830956479906953,0.11284082746669291,0.04377830213144615
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2019,0.07848077316650173,0.11084418166534638,0.0461173646676571
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2020,0.0978713733840615,0.1358513036539854,0.059891443114137605
+Georgia,10 to 14,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2021,0.07163023313722741,0.09925111129171812,0.044009354982736705

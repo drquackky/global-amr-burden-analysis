@@ -1,0 +1,737 @@
+Location,Age,Sex,Measure,Metric,Pathogen,Antibiotic class,Counterfactual,Year,Value,Upper,Lower
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1990,0.1034558391926837,0.1426380067697329,0.0642736716156344
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1991,0.0951189678945281,0.1314276166022903,0.0588103191867658
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1992,0.09170265024194538,0.12599289456465976,0.05741240591923099
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1993,0.0864111509714094,0.1189063937506771,0.0539159081921417
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1994,0.0880706212557621,0.1186514311933826,0.0574898113181416
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1995,0.0760489655203494,0.1037158394502361,0.0483820915904626
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1996,0.0679731851494869,0.0918115485860414,0.0441348217129324
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1997,0.0614650525269189,0.0843559703106299,0.0385741347432078
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1998,0.0569277003201429,0.0769385593395895,0.0369168413006964
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1999,0.054517955033448376,0.07405538713250548,0.03498052293439128
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2000,0.04879452368672385,0.06550391059101268,0.03208513678243501
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2001,0.04622091964436755,0.06216564792222877,0.03027619136650633
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2002,0.04003736098730194,0.05474601513999117,0.025328706834612722
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2003,0.03978130342616691,0.05470993588771934,0.024852670964614486
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2004,0.0385876856010116,0.052222350546414976,0.02495302065560822
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2005,0.037597988905242574,0.051737158709328795,0.023458819101156353
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2006,0.03786459024789593,0.05223789989494956,0.023491280600842296
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2007,0.04252026294438712,0.05708330911793162,0.027957216770842615
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2008,0.043328605684567326,0.05797759877994388,0.028679612589190773
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2009,0.04476892295206654,0.05907875695081121,0.030459088953321868
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2010,0.046829735728608796,0.06041387277349539,0.0332455986837222
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2011,0.04200707994231573,0.05469399485891134,0.029320165025720116
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2012,0.040652126664117785,0.053226348801780045,0.028077904526455526
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2013,0.03822965653011219,0.0501219928014896,0.026337320258734784
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2014,0.03916762632192437,0.05116740385426083,0.027167848789587917
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2015,0.03710267896941801,0.048015916027049264,0.026189441911786758
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2016,0.040417785201612044,0.0525411322955961,0.028294438107627988
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2017,0.04113510396436311,0.05310425502478097,0.029165952903945247
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2018,0.03551373373868793,0.04693041156864403,0.024097055908731825
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2019,0.0318705723951089,0.042234226869757405,0.02150691792046039
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2020,0.051510159418651974,0.07386459724296511,0.029155721594338838
+Armenia,2 to 4,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2021,0.019290626242690595,0.02709295518001758,0.011488297305363613
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1990,0.0214467592732389,0.0346442440649046,0.0082492744815731
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1991,0.0200545814193264,0.0324467993763896,0.0076623634622631
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1992,0.020149412492060998,0.03233066241006277,0.007968162574059223
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1993,0.0188529931518776,0.0304872181592867,0.0072187681444685
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1994,0.0175818502296703,0.0279148378091136,0.007248862650227
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1995,0.0160398596233266,0.025368346489394,0.0067113727572592
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1996,0.0145749946590224,0.022801215542412,0.0063487737756329
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1997,0.0130915002716833,0.020751263513145,0.0054317370302216
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1998,0.0112038745599338,0.0178109516375699,0.0045967974822976
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1999,0.010886468221996352,0.017301725817914823,0.00447121062607788
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2000,0.010140489416233267,0.01587775459914127,0.004403224233325266
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2001,0.009518187165418166,0.014828064848096468,0.004208309482739864
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2002,0.008795919953797693,0.013958533190449924,0.003633306717145462
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2003,0.008625038818963676,0.013929137069931131,0.003320940567996221
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2004,0.008283403593948857,0.013233385280224011,0.003333421907673704
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2005,0.007943309687220523,0.013000279089452657,0.0028863402849883873
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2006,0.007695539016003841,0.01300555311468046,0.002385524917327221
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2007,0.0076263351525001416,0.012955494475997725,0.002297175829002558
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2008,0.007750162844295043,0.013379702017091773,0.002120623671498314
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2009,0.008215764127932445,0.013634190812345166,0.002797337443519723
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2010,0.008689732193709606,0.013867017759253114,0.003512446628166097
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2011,0.010139281841783395,0.015323109434559275,0.004955454249007515
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2012,0.011493646359617736,0.01643432494223773,0.006552967776997745
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2013,0.011725911722476319,0.016572982311850046,0.00687884113310259
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2014,0.011707644214270868,0.016713808057974254,0.006701480370567481
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2015,0.011842858751842253,0.01658672987941546,0.007098987624269049
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2016,0.012788675037861404,0.01782832848592648,0.007749021589796327
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2017,0.0132444445375918,0.018500168065641084,0.007988721009542517
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2018,0.013373322667844426,0.018811033496660908,0.007935611839027943
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2019,0.013231784054221889,0.018906738690553513,0.007556829417890265
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2020,0.020336265560305412,0.03155061855906412,0.00912191256154671
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2021,0.008494852423236072,0.012883035608122161,0.004106669238349982
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1990,0.0445902840010741,0.0902231717690132,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1991,0.0419880432759601,0.0832229092939892,0.0007531772579311
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1992,0.038829923085539564,0.07495083105614417,0.0027090151149349595
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1993,0.0388784976259558,0.0738973933350016,0.00385960191691
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1994,0.0400837178342206,0.0772823894480058,0.0028850462204355
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1995,0.0350796824019172,0.0658303836969872,0.0043289811068472
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1996,0.0339919403271816,0.0638070308481866,0.0041768498061765
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1997,0.0266760862272133,0.050616436951621,0.0027357355028055
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1998,0.0239437043370275,0.0451958372573301,0.0026915714167249
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1999,0.02047835418294086,0.03939706199903089,0.0015596463668508323
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2000,0.019580775357803937,0.037421959379982814,0.0017395913356250646
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2001,0.01684448380150962,0.03199770397338273,0.001691263629636508
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2002,0.013569385153687788,0.026082753814664673,0.0010560164927109032
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2003,0.013553497282268335,0.026179994817908933,0.0009269997466277383
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2004,0.012629648270238648,0.02386018480481137,0.0013991117356659255
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2005,0.011599684546543247,0.022003286793206057,0.0011960822998804375
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2006,0.011369675469998054,0.02154276966671345,0.0011965812732826538
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2007,0.010798626960016645,0.02057241729045979,0.0010248366295734987
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2008,0.010774725686400977,0.020966036340178743,0.00058341503262321
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2009,0.011996597871953705,0.023206750097405318,0.0007864456465020899
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2010,0.01544190709911105,0.029784961635323334,0.001098852562898765
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2011,0.013933813908206527,0.027030105899677075,0.0008375219167359796
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2012,0.014978023451752955,0.02926525302873295,0.0006907938747729592
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2013,0.015591631199210426,0.030598622350589983,0.0005846400478308686
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2014,0.01425778424538808,0.028346283986452815,0.00016928450432334569
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2015,0.014351276201283038,0.02906777153430848,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2016,0.015626332399990825,0.031795556846815905,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2017,0.01508199745747221,0.03051078508697963,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2018,0.01810853634833859,0.036208290926630776,0.000008781770046404486
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2019,0.016152382523108626,0.03237671818544064,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2020,0.016853411955261487,0.035476830573719816,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2021,0.009172619507845873,0.018543552754885756,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1990,0.0713013783113609,0.0938316182129732,0.0487711384097486
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1991,0.0293469235731827,0.0385607743182096,0.0201330728281559
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1992,0.03764562323095054,0.04907155482517475,0.026219691636726324
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1993,0.0343946175738412,0.0450410871437383,0.0237481480039441
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1994,0.0334479525127104,0.0439659014542762,0.0229300035711446
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1995,0.0219161452553655,0.0291976584468659,0.0146346320638651
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1996,0.0270176184980862,0.0355760601731802,0.0184591768229923
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1997,0.0214923315211012,0.0285285858448964,0.0144560771973061
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1998,0.0211547624007255,0.0279488625623351,0.0143606622391158
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1999,0.02301326323890955,0.030815627267819445,0.015210899209999658
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2000,0.02193361370747081,0.029412629698226896,0.014454597716714724
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2001,0.02876005067681965,0.03871362223953039,0.01880647911410891
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2002,0.029336455709048036,0.03996879750306579,0.018704113915030282
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2003,0.03301812430589441,0.04523170457151892,0.0208045440402699
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2004,0.028636144926131233,0.039053747504912265,0.0182185423473502
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2005,0.023963596637398624,0.033106207530401124,0.014820985744396121
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2006,0.024074078458911727,0.033486354529386156,0.014661802388437298
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2007,0.025974380374017933,0.035728237578310215,0.01622052316972565
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2008,0.02946607630264351,0.04077970019944546,0.01815245240584156
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2009,0.035513117496740576,0.04842081257352012,0.02260542241996103
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2010,0.022890605901716668,0.03110167044068714,0.014679541362746195
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2011,0.027133452898757744,0.03707711181903269,0.017189793978482797
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2012,0.024590342900435117,0.0334603683504864,0.015720317450383832
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2013,0.024036270768546277,0.03256171709096966,0.015510824446122895
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2014,0.02126115267020583,0.028887740364656217,0.013634564975755444
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2015,0.024884653183531717,0.03355300241728629,0.016216303949777147
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2016,0.02984076482100151,0.04017167273656151,0.01950985690544151
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2017,0.03294451805525426,0.04418829572113008,0.021700740389378435
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2018,0.019460263653032533,0.02663597521882887,0.012284552087236193
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2019,0.023231530434255042,0.03182362169977307,0.014639439168737011
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2020,0.026636929893195466,0.03741180744487692,0.015862052341514013
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2021,0.014102887673496883,0.020164891157615675,0.00804088418937809
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1990,0.1571134796746121,0.2296187456253082,0.084608213723916
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1991,0.1413350228335748,0.2068655854101441,0.0758044602570056
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1992,0.13718495639222206,0.20046758939744058,0.07390232338700352
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1993,0.1302657495542322,0.1894977170782798,0.0710337820301846
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1994,0.1251284334217978,0.1810640165627551,0.0691928502808405
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1995,0.1015337370321724,0.1488361219394939,0.0542313521248509
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1996,0.096536637657973,0.139396850872347,0.053676424443599
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1997,0.0843779328525423,0.1250001635472673,0.0437557021578174
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1998,0.0743540889210147,0.1090080044416776,0.0397001734003519
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1999,0.07186894232440773,0.10623208078019386,0.0375058038686216
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2000,0.06347877793001508,0.09346593527387528,0.033491620586154874
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2001,0.05547812912992016,0.08272743467709046,0.028228823582749866
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2002,0.04797286857958497,0.0728620299195251,0.023083707239644844
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2003,0.05694701230007237,0.08600954121476023,0.027884483385384504
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2004,0.05276276548560278,0.07904987166944293,0.026475659301762645
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2005,0.04719160780861026,0.07271719132217996,0.02166602429504055
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2006,0.04264732303705027,0.06680517609440978,0.01848946997969076
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2007,0.04935435319902983,0.0758640079542288,0.02284469844383086
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2008,0.04754561864302573,0.0737495311332287,0.021341706152822753
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2009,0.057302878140601685,0.08644950839791639,0.028156247883286984
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2010,0.04977246145449742,0.07468825791929394,0.024856664989700905
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2011,0.050087278014452716,0.07589065890915983,0.024283897119745608
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2012,0.04754916046286591,0.07198157707906672,0.023116743846665105
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2013,0.048955198132127856,0.07384664657446906,0.024063749689786657
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2014,0.04798402165986007,0.07278116238423177,0.023186880935488367
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2015,0.050584358481443464,0.07586066727615062,0.0253080496867363
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2016,0.05822454295639553,0.08815946446529095,0.028289621447500104
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2017,0.06428968389884279,0.09663454635405747,0.03194482144362811
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2018,0.06550147490221572,0.09887117294169827,0.03213177686273318
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2019,0.0698500138842729,0.10593821471636652,0.03376181305217926
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2020,0.08437656816342567,0.13471285084783444,0.03404028547901692
+Armenia,2 to 4,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2021,0.04316420160694459,0.07080178995880343,0.01552661325508575
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1990,0.0018402009842799,0.0051158099339611,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1991,0.0019394551716467,0.0054023575329215,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1992,0.0020439853424722917,0.005788740992514741,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1993,0.0019390893195833,0.0055211687425043,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1994,0.0016986066271629,0.004927582409942,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1995,0.0016236527128714,0.0047041456796053,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1996,0.0013819955866743,0.0039547294819294,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1997,0.0011793023065835,0.0033538001813591,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1998,0.0010090319889229,0.002830818678645,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1999,0.000885836551424053,0.00244024214117079,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2000,0.0008423834955295013,0.002289238814334941,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2001,0.0007840983613161971,0.0020696929535074216,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2002,0.0006741981925638834,0.0016839687372719775,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2003,0.0006127543549005437,0.0014770294888408974,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2004,0.000609791925448548,0.00145335516365519,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2005,0.0006342947593405453,0.001487799330975106,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2006,0.000639013161634951,0.001481783078994007,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2007,0.0005451070291859441,0.0011729702032319148,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2008,0.00036382623570834296,0.0009084361876337425,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2009,0.0002480086904879313,0.0007511702378067077,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2010,0.00023249040568509025,0.0007953506522598008,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2011,0.00012713706388195315,0.0004249306408537344,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2012,0.00008435679332995562,0.00026642916553573344,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2013,0.00008151301950460533,0.00024561963819993505,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2014,0.00011085444640333561,0.0003271543698242489,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2015,0.00012424551832146202,0.00036214795497543006,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2016,0.00012840691484780156,0.0003594638879397546,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2017,0.000130496697834413,0.0003221867060157524,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2018,0.0001788944237599679,0.0003893249684773921,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2019,0.0002161752367146614,0.0004671523305434071,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2020,0.00019096359662484097,0.000414398451676079,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2021,0.00015352873605500384,0.00033892587277690913,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1990,2.64388237301859e-7,5.386123496352655e-7,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1991,3.2310392772496764e-7,6.549002256224675e-7,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1992,3.5045107013082226e-7,7.229988861971862e-7,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1993,3.3244621267583304e-7,6.813591341875025e-7,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1994,1.48689195514663e-7,3.058691480803163e-7,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1995,2.789041318883653e-7,5.778197717889674e-7,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1996,2.483726834956884e-7,5.083752906874578e-7,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1997,2.2225803232335685e-7,4.521384900381866e-7,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1998,1.9332056993605665e-7,3.9272499884740973e-7,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1999,1.6308540215356348e-7,3.217236275394831e-7,4.447176767643848e-9
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2000,1.4294752805558233e-7,2.724663244948651e-7,1.3428731616299542e-8
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2001,1.2888276650578675e-7,2.3875415250189107e-7,1.9011380509682435e-8
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2002,1.1726892934651785e-7,2.1602296660306518e-7,1.851489208997054e-8
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2003,1.0010058856501607e-7,1.834604049716195e-7,1.674077215841267e-8
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2004,9.296065497949349e-8,1.6763857981673738e-7,1.8282730142249607e-8
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2005,9.211724366028738e-8,1.6459688144998852e-7,1.963760587058625e-8
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2006,8.665227365681445e-8,1.541715385135983e-7,1.9133008800030605e-8
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2007,7.736161458007449e-8,1.387764739636001e-7,1.5946755196548875e-8
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2008,6.694675281537662e-8,1.213316394134245e-7,1.2561866217328743e-8
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2009,5.922044449787569e-8,1.0727884673454119e-7,1.1162042261210189e-8
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2010,5.4254613011119826e-8,9.82462446638881e-8,1.0262981358351557e-8
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2011,5.1809119868694577e-8,9.297911126009587e-8,1.063912847729328e-8
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2012,4.976503420943955e-8,8.962298841108214e-8,9.907080007796961e-9
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2013,5.316454264939197e-8,9.730135216217989e-8,9.027733136604051e-9
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2014,5.442517862620428e-8,1.0165332806835953e-7,7.1970291840490305e-9
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2015,5.809638290178681e-8,1.096725605846044e-7,6.5202052189692175e-9
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2016,6.173349857598534e-8,1.1724261123345114e-7,6.224385918519534e-9
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2017,5.665337828823674e-8,1.0742488568639974e-7,5.8818708900737395e-9
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2018,5.782892155870048e-8,1.0961110853971143e-7,6.046734577689529e-9
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2019,4.715222745339539e-8,8.874141161665502e-8,5.5630432901357625e-9
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2020,4.042245787214315e-8,7.547798495276796e-8,5.36693079151835e-9
+Armenia,2 to 4,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2021,3.343987101737067e-8,6.35298374640226e-8,3.349904570718739e-9
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1990,0.0084301421159962,0.0195126845045067,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1991,0.0095486991586066,0.0221090916454202,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1992,0.011065903026625738,0.02554000078665141,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1993,0.0109193756939442,0.0248969998595273,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1994,0.007671933050678,0.0176368880530396,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1995,0.0100691442811665,0.0227635402903201,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1996,0.0086348581784412,0.0193277972428732,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1997,0.0075191606085189,0.0167821244174394,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1998,0.0063230803970859,0.0142482280246252,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1999,0.005325176023641857,0.011975194569022553,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2000,0.005427511934324151,0.012230746751758108,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2001,0.00505286015626844,0.011280862948775392,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2002,0.004537658086961832,0.010060959286810434,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2003,0.004194401753446129,0.009269154581924812,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2004,0.004647785373749875,0.010306211774784822,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2005,0.006027745259958252,0.01326920769217657,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2006,0.008791509146371366,0.018980632183236645,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2007,0.006787621788966054,0.014436739242334837,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2008,0.006528120507875521,0.013933173264040645,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2009,0.006516695380807175,0.013906181568505446,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2010,0.00806132381474271,0.017029689475641326,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2011,0.005226319616100657,0.010928146046089996,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2012,0.0028806364609964006,0.00600725201048879,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2013,0.0023535023454511785,0.004895392064613399,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2014,0.0026685181395943868,0.005518056239391802,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2015,0.0026330990626016937,0.005534703506294739,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2016,0.0025591570854445324,0.005357944240975432,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2017,0.0019644989855489943,0.004097600706761479,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2018,0.0017761861250175182,0.003714675781866689,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2019,0.0022964874759347385,0.004781976012893215,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2020,0.0019673962893346046,0.004184767987086752,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2021,0.0015894951876194703,0.003484087442793911,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1990,0.00052578090896,0.0024354145243929,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1991,0.0021143303604737,0.0092627583086555,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1992,0.004247416644165994,0.016811918459282454,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1993,0.0066095161213113,0.0249384614126055,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1994,0.0094842232339715,0.0360836671928792,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1995,0.0131609818113229,0.052037738546747,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1996,0.0173437382859848,0.0644618162561709,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1997,0.0206997095604575,0.0732107034857592,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1998,0.0244995188920888,0.0818005278853311,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1999,0.028616527991495538,0.08907209672237787,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2000,0.03278171215121505,0.09970884886123704,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2001,0.034837730632341794,0.09828641838511207,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2002,0.03903996178708334,0.10251999848694567,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2003,0.040573963400043586,0.10310703012745573,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2004,0.04499457449905421,0.11442758341450851,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2005,0.05183008650621481,0.1332460340734907,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2006,0.05454472868434397,0.14202827677525853,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2007,0.05317553496978852,0.13864974838474126,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2008,0.054410048181751595,0.13824928440920847,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2009,0.04722319140854761,0.11662409819248226,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2010,0.042911914655647636,0.10473698745560875,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2011,0.03947315361504291,0.09603248362501673,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2012,0.03345705598577947,0.08089979057755654,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2013,0.028967573134841672,0.07019960439513924,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2014,0.025323950133031126,0.06273860163594437,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2015,0.022541886444483076,0.056768386118468905,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2016,0.02257560318029648,0.056707077960995896,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2017,0.019175311524994874,0.048078972257584875,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2018,0.018068598672431595,0.045138558890577954,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2019,0.015197104401383207,0.03873555590989308,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2020,0.014179821698898303,0.03596936161634506,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2021,0.012834553592623466,0.033050820412737436,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1990,0.0001860106178224,0.0005293616475387,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1991,0.0001841951183844,0.0005069044120569,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1992,0.00017181046113650365,0.0004809582168140012,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1993,0.0001723878372126,0.0004494930423117,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1994,0.000167952236859,0.0004231481719644,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1995,0.0001476797068762,0.0003701556612043,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1996,0.0001348407685889,0.0003335489853555,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1997,0.0001259297497815,0.0003019049540149,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1998,0.0001260278987904,0.0002933821671612,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1999,0.0001247312618012822,0.000294041536469476,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2000,0.00012087980319799907,0.0002709964989461293,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2001,0.00011524727363857971,0.0002539934493959232,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2002,0.00010749232028014025,0.0002428275952086636,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2003,0.00010598761894118819,0.00023872344307284305,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2004,0.00010897990145602562,0.00023257727279904887,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2005,0.00011524769790380315,0.00024505762634495574,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2006,0.00012550488849273189,0.0002636115190672988,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2007,0.00014229894173036728,0.0002945583336831796,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2008,0.0001478597351030776,0.00031268623886554015,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2009,0.0001563589092328177,0.00032731209068050733,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2010,0.00016478568782234013,0.00034440402147346534,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2011,0.00017025330242777077,0.00035171669753390343,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2012,0.00018184023961864267,0.00038508275344284915,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2013,0.00042689923759033223,0.0008530499098945263,7.48565286138171e-7
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2014,0.00043885867021075796,0.0008973319728158963,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2015,0.00046884852180326955,0.0009387199985802449,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2016,0.0004219742245285817,0.0008820221493264261,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2017,0.0004033016966732728,0.0008302096469531104,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2018,0.0003986911815624932,0.000822968129810758,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2019,0.0003297883304759071,0.0006726441527207442,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2020,0.00057839607435846,0.0013404981465385767,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2021,0.0002179071556079806,0.0004737860392861748,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1990,0.0693897038265626,0.115607744601349,0.0231716630517762
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1991,0.0599130975846564,0.1026057278615309,0.0172204673077819
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1992,0.06405273093096336,0.1096007176194943,0.018504744242432418
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1993,0.0537130057848252,0.0936057951595319,0.0138202164101185
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1994,0.0558496170696112,0.0943055921052076,0.0173936420340148
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1995,0.0457713299019514,0.0781720062900357,0.0133706535138671
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1996,0.0403323590042196,0.0676004847241979,0.0130642332842413
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1997,0.037728584677961,0.0630724348714848,0.0123847344844372
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1998,0.0321842103975033,0.0526838028220667,0.0116846179729398
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1999,0.031211900923269448,0.05038109800891398,0.012042703837624912
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2000,0.027715330928411108,0.044627416934651186,0.01080324492217103
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2001,0.025682872970325576,0.04117672626500556,0.010189019675645589
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2002,0.022757013814901684,0.03672275477115905,0.008791272858644316
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2003,0.022789378074293713,0.0368092574138153,0.008769498734772129
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2004,0.022672251798257468,0.03616862288163687,0.009175880714878064
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2005,0.022102075061677034,0.03564436723374133,0.008559782889612738
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2006,0.02106758102966263,0.034120785069171315,0.008014376990153942
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2007,0.021848682665854546,0.03400768428211176,0.00968968104959733
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2008,0.021371914248360907,0.03330478835292749,0.009439040143794325
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2009,0.026017484483898304,0.03914148212892471,0.012893486838871902
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2010,0.026112038706045775,0.03884026207245067,0.013383815339640876
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2011,0.028347736022302242,0.04134100990460183,0.015354462140002655
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2012,0.026595196251446622,0.038037557945507894,0.015152834557385348
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2013,0.030215599498023715,0.04354139332109091,0.016889805674956522
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2014,0.031342675775071785,0.04542762885700827,0.017257722693135302
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2015,0.02982028741890567,0.04341012670009356,0.016230448137717783
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2016,0.03879674573827903,0.056157742198206864,0.021435749278351193
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2017,0.04284616790256579,0.06232969740391027,0.023362638401221308
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2018,0.030578248816997573,0.04554767014638425,0.015608827487610895
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2019,0.032838091703173575,0.04923243725058926,0.016443746155757888
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2020,0.039177070816253906,0.06059135719079982,0.017762784441707993
+Armenia,2 to 4,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2021,0.02044756770278136,0.03301914763783804,0.007875987767724685
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1990,0.0394239564389268,0.0606027326552576,0.0182451802225961
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1991,0.0399183112960355,0.0615860001683004,0.0182506224237706
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1992,0.037351294618940434,0.05730031506317433,0.01740227417470654
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1993,0.0351741678618295,0.0543357372902496,0.0160125984334094
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1994,0.0320633914529337,0.0490388926741053,0.0150878902317621
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1995,0.0290337901736525,0.0446463145366755,0.0134212658106295
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1996,0.0241873237332115,0.0369999989911975,0.0113746484752255
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1997,0.0215550136532309,0.0334240728055698,0.009685954500892
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1998,0.0177155844749887,0.0272613593333233,0.0081698096166542
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1999,0.016291899054012078,0.025181409936399064,0.007402388171625092
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2000,0.014216539446382822,0.021934787315774154,0.006498291576991488
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2001,0.011342546494117442,0.017580197750813698,0.005104895237421186
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2002,0.008979148935756251,0.01438453888788293,0.0035737589836295743
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2003,0.00874265251665714,0.014038508729668856,0.003446796303645425
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2004,0.009182959036761,0.014569072653275318,0.0037968454202466804
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2005,0.009246461787865387,0.014919650989064105,0.003573272586666669
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2006,0.009302289592773448,0.015017951908293064,0.003586627277253833
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2007,0.012759232929603197,0.020363985563225367,0.005154480295981027
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2008,0.012400916225861598,0.01984404621406314,0.004957786237660055
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2009,0.015661313440223958,0.02440541597630716,0.006917210904140755
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2010,0.018026767693329428,0.027706510239939766,0.008347025146719088
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2011,0.016820106243634544,0.026142577874568647,0.007497634612700444
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2012,0.013651749414664884,0.020981948399594243,0.006321550429735524
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2013,0.013923015707160438,0.02160107938573664,0.006244952028584238
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2014,0.015460847643887277,0.02401011728022688,0.006911578007547672
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2015,0.02241938331574281,0.03434339689885703,0.010495369732628596
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2016,0.045177307604737905,0.0681620994239399,0.022192515785535907
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2017,0.05013819472592029,0.07556819456623862,0.024708194885601973
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2018,0.024936341495478874,0.039290204790918826,0.010582478200038926
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2019,0.021870614961937034,0.034536051415624575,0.009205178508249489
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2020,0.028666331769301882,0.046578719728121235,0.010753943810482534
+Armenia,2 to 4,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2021,0.015296977724544712,0.02593329703924011,0.004660658409849316
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1990,0.0008618511363267,0.0011463487065119,0.0005773535661415
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1991,0.0008150052474346,0.0010790856959978,0.0005509247988714
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1992,0.0007586577153518065,0.0010186837450544366,0.0004986316856491764
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1993,0.0007112456747716,0.0009436885261975,0.0004788028233456
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1994,0.0006820558281993,0.0009064206362441,0.0004576910201544
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1995,0.0005927520768373,0.0007715783646403,0.0004139257890343
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1996,0.0005361251533037,0.0007119504308067,0.0003602998758007
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1997,0.0004797733613583,0.0006330106889965,0.0003265360337202
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1998,0.000437910862516,0.0005844030285937,0.0002914186964383
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1999,0.0004283932648811484,0.0005754331262752428,0.0002813534034870539
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2000,0.00040602319199347205,0.0005504630853243762,0.0002615832986625679
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2001,0.00035886090182900385,0.0004807953879696606,0.00023692641568834712
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2002,0.00030873542153352773,0.00043311108216004463,0.00018435976090701086
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2003,0.00028682395944648484,0.00040293373947248445,0.00017071417942048523
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2004,0.0002709640728124161,0.0003756772915223575,0.00016625085410247467
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2005,0.00026285275057854864,0.00036730859126580395,0.00015839690989129332
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2006,0.000258305160653149,0.0003577760333421851,0.0001588342879641129
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2007,0.00025899177201274787,0.00036502372686388204,0.0001529598171616137
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2008,0.00026722464363140424,0.0003708542431517159,0.0001635950441110926
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2009,0.00027294743399489796,0.0003752948207653734,0.0001706000472244225
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2010,0.0002670378046729097,0.00036379737860953734,0.00017027823073628208
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2011,0.000276279156352262,0.00038028375164393153,0.0001722745610605925
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2012,0.0002523776367635674,0.00034743345242617554,0.00015732182110095929
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2013,0.00024715376194090193,0.0003443756255329738,0.0001499318983488301
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2014,0.0002408994093907823,0.00034125070434874976,0.0001405481144328148
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2015,0.00024081260506266894,0.00033680960884076565,0.00014481560128457225
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2016,0.00023738823536216335,0.00033556485743036515,0.00013921161329396155
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2017,0.00024158112287171667,0.0003460513149824249,0.00013711093076100843
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2018,0.00023114846383722625,0.0003318684694064159,0.00013042845826803664
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2019,0.00021028317041138094,0.0002976028491408588,0.00012296349168190306
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2020,0.0003911645167557535,0.0006053931922677968,0.00017693584124371008
+Armenia,2 to 4,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2021,0.00014743422698934147,0.00022127730065057586,0.00007359115332810705
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1990,0.0041669555508042,0.0066037963712818,0.0017301147303266
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1991,0.0039019929830442,0.0060897334812434,0.0017142524848449
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1992,0.003709056867755845,0.00582245735678443,0.0015956563787272605
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1993,0.0035288615586442,0.0054318781640453,0.0016258449532431
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1994,0.0030999392415803,0.0047850894527898,0.0014147890303709
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1995,0.002942866749106,0.0045190800623182,0.0013666534358938
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1996,0.0026836714277086,0.0040858205663253,0.0012815222890918
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1997,0.0023155869006382,0.0035859130957872,0.0010452607054892
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1998,0.0020327657139562,0.0031218482496924,0.00094368317822
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1999,0.0019076914936802542,0.0029396579056236967,0.0008757250817368119
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2000,0.0018035383229878248,0.0027660629146903006,0.000841013731285349
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2001,0.0016582689572027863,0.0025403921225200196,0.0007761457918855529
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2002,0.0015195256657619567,0.0023457934926676576,0.0006932578388562558
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2003,0.0015144142317871213,0.0024305660459375284,0.0005982624176367142
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2004,0.0013615985700995842,0.0021388675419307277,0.0005843295982684407
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2005,0.0011802774853293904,0.0018566717727330304,0.0005038831979257503
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2006,0.0013649628188466246,0.002165951737135747,0.0005639739005575019
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2007,0.0012916155593293245,0.0020410122463194423,0.0005422188723392069
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2008,0.001299875534175873,0.0020510928420244133,0.0005486582263273327
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2009,0.0015328961585014437,0.0023652704104628777,0.0007005219065400096
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2010,0.0017021813110696855,0.0026047900426303915,0.0007995725795089796
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2011,0.0017613073586432576,0.002653562224833892,0.0008690524924526231
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2012,0.0018586226311539632,0.0028234598416815764,0.0008937854206263502
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2013,0.0022069022789704138,0.0033079295840469525,0.0011058749738938752
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2014,0.0024639921126078995,0.003712483561553994,0.0012155006636618048
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2015,0.002526032461701084,0.00375424318244957,0.001297821740952598
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2016,0.0020273591280703966,0.003056614467284226,0.0009981037888565673
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2017,0.002143701107725979,0.003202113169080133,0.0010852890463718253
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2018,0.00221819548687547,0.0032426804391483353,0.0011937105346026048
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2019,0.001990720776504376,0.0029076309792910775,0.0010738105737176744
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2020,0.003173213243416552,0.005049661802028301,0.0012967646848048029
+Armenia,2 to 4,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2021,0.0013896824637275383,0.002108657323474626,0.0006707076039804507
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1990,0.0003271958444829,0.0014306478702268,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1991,0.0003538058611119,0.001439858318397,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1992,0.0004032742781972122,0.0015742055724342412,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1993,0.0003664349165735,0.001400495450301,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1994,0.0002767368760078,0.0010925882268856,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1995,0.0003145840229281,0.0011715656157463,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1996,0.0002988721084908,0.0011466098336967,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1997,0.0002684917589482,0.0010364829010764,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1998,0.0002162865916581,0.0008317855598607,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1999,0.00020872513642472014,0.0008270166700511764,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2000,0.0001967959882244006,0.000758570228538125,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2001,0.00018165869681556577,0.0006935188202822809,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2002,0.00017273824676540623,0.000703475046607568,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2003,0.0001932116904748099,0.0008225679272378525,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2004,0.0002359531561986707,0.0009739599191425157,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2005,0.00027909334322830386,0.001107901219171622,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2006,0.00029864853905805404,0.0010763405180376458,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2007,0.0002620223919360196,0.0009090312952486097,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2008,0.00026505661550840917,0.0009362075959855823,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2009,0.00023846481935394724,0.0008308859157064221,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2010,0.0002551236440147494,0.0009010036601735207,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2011,0.0002733553260639731,0.000975846865697689,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2012,0.00019244256718141463,0.0007156354349017992,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2013,0.00017467790711233754,0.0006220421406232744,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2014,0.0001656087768345122,0.0006312371091035348,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2015,0.00014793438294844873,0.0005914680103143076,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2016,0.00013396731523512967,0.0005929320040858009,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2017,0.00012822844880804512,0.0005572486869692447,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2018,0.00009999646866675147,0.00047893233494511987,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2019,0.00008611319165311426,0.0004023238252890349,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2020,0.00013524334432039116,0.0007294893275042356,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2021,0.000055559974059897066,0.00027895305075238794,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1990,0.0372711061092183,0.0512627277487896,0.0232794844696469
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1991,0.0337657794540267,0.0464742388975385,0.0210573200105148
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1992,0.032028776838021245,0.044583005027935725,0.019474548648106764
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1993,0.0308831663725678,0.0432423915412598,0.0185239412038759
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1994,0.0281734796556458,0.0393393845939378,0.0170075747173538
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1995,0.0256483483972789,0.0357668855393396,0.0155298112552181
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1996,0.022895621513908,0.0317953691644763,0.0139958738633396
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1997,0.0205787206165885,0.0288864516941772,0.0122709895389997
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1998,0.0174751486599024,0.0245083277382552,0.0104419695815495
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1999,0.015843359057076803,0.022354210072929405,0.0093325080412242
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2000,0.014095202764708627,0.01983075338936196,0.008359652140055298
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2001,0.012402271793358694,0.01759640895908053,0.007208134627636855
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2002,0.010732529906633464,0.015292978030168835,0.006172081783098094
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2003,0.010438850556737943,0.01520563021200785,0.005672070901468037
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2004,0.00986275371310102,0.014215452331668817,0.005510055094533221
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2005,0.008810517615311432,0.012885119075346882,0.004735916155275983
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2006,0.008463433588997251,0.012422823362561576,0.004504043815432927
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2007,0.008731763489249832,0.012903065907701974,0.004560461070797689
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2008,0.008576890211895137,0.012674772780720602,0.004479007643069672
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2009,0.008811425499643803,0.012719581256986605,0.004903269742301002
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2010,0.007896039870778455,0.010828319606337357,0.004963760135219554
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2011,0.006716876154943918,0.00951335939811358,0.003920392911774256
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2012,0.00667301292481564,0.009278276936287256,0.004067748913344023
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2013,0.006169754408179375,0.008775941741965124,0.0035635670743936264
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2014,0.005524926793927606,0.008078429356068072,0.0029714242317871397
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2015,0.0057681337973366385,0.008342504548981633,0.0031937630456916432
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2016,0.007115090393747555,0.010180391955918609,0.004049788831576501
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2017,0.0080710274112589,0.011632846884531912,0.004509207937985888
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2018,0.008337118454391848,0.012158750094734473,0.004515486814049222
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2019,0.009415551244631733,0.013675367677973246,0.005155734811290219
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2020,0.013419991438449987,0.019531470125627386,0.007308512751272591
+Armenia,2 to 4,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2021,0.006232908979143258,0.009558719990054735,0.002907097968231782
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1990,0,0,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1991,0,6.301342000927657e-8,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1992,0,2.2128130036563324e-7,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1993,0.0001874660577282,0.0004112450188763,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1994,0.0003252735651579,0.0009593698165052,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1995,0.0005945482008042,0.0019684953792454,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1996,0.0010691858274775,0.003503579129493,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1997,0.0016359415493172,0.0050519214408745,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1998,0.0022899782995433,0.0065205220903731,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1999,0.0030146499642167393,0.008445353502623109,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2000,0.003731361655221391,0.010430250106281166,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2001,0.004260200841301141,0.011167442344858714,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2002,0.005255567938649699,0.012706397578251316,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2003,0.005879615252888122,0.013803316555675023,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2004,0.0069971623902308,0.016269371742877025,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2005,0.008728547624552753,0.02028780494886953,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2006,0.009950752754051384,0.02321808147022556,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2007,0.010456231725451863,0.02425046463628508,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2008,0.011336815981381131,0.0255085566203497,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2009,0.010225195448282763,0.022751787066019612,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2010,0.00947949206018024,0.021167736804927804,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2011,0.008813400911502707,0.019700060782301902,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2012,0.007719628381821643,0.01715037721429189,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2013,0.006972543188475661,0.015441647989696529,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2014,0.0064420424882076065,0.014539235193119783,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2015,0.006009566320415856,0.013999393076124215,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2016,0.006220908489169065,0.01422599598888389,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2017,0.0054638240680253865,0.012466237581804351,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2018,0.005311408128785773,0.012192881127414595,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2019,0.004595899013234359,0.01078119792012427,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2020,0.004412164256421424,0.010327091829756557,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2021,0.00410395694908167,0.00967875189749787,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1990,0.0176368437865906,0.0246784634696309,0.0105952241035503
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1991,0.0159941706145946,0.0225471901665469,0.0094411510626424
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1992,0.015383060234743052,0.021708821545964645,0.009057298923521459
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1993,0.0151375347998711,0.0214615582426102,0.0088135113571321
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1994,0.0139757107263804,0.0198138216077585,0.0081375998450022
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1995,0.0122784530951321,0.0174150145147503,0.007141891675514
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1996,0.0108263884417501,0.0153095382404815,0.0063432386430187
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1997,0.0092800520877658,0.0131685688692377,0.0053915353062939
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1998,0.0077443765058119,0.0109983311133122,0.0044904218983117
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1999,0.007321890133930689,0.010400003992501013,0.004243776275360363
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2000,0.006346554552930192,0.009010030166003123,0.00368307893985726
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2001,0.005625492901924061,0.008010724468437652,0.0032402613354104697
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2002,0.005662990282973416,0.008075064060953416,0.0032509165049934155
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2003,0.006063589683542889,0.008664678967326998,0.0034625003997587793
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2004,0.005695441997207363,0.008168029530964257,0.00322285446345047
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2005,0.004978373569079081,0.007171372753426455,0.0027853743847317067
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2006,0.0047616165277144405,0.006889556108432926,0.0026336769469959553
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2007,0.005232506921002078,0.007579624440737457,0.0028853894012666986
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2008,0.005024495277401477,0.007298516222599421,0.0027504743322035326
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2009,0.006363419491803817,0.009215311237314935,0.0035115277462926973
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2010,0.007727155906917222,0.011141641395730602,0.004312670418103842
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2011,0.008101689943840092,0.011681307384597266,0.004522072503082918
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2012,0.006756380183133431,0.009769848308055034,0.0037429120582118287
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2013,0.007176503631516964,0.010392770738294458,0.0039602365247394695
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2014,0.0059874109646971,0.00867415313021493,0.00330066879917927
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2015,0.006350507012715928,0.00924066965226436,0.0034603443731674966
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2016,0.006997430247438995,0.01017849125643033,0.003816369238447662
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2017,0.00746605091932043,0.010808067733679969,0.004124034104960891
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2018,0.007237570837346403,0.010494059655671678,0.003981082019021127
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2019,0.007496756651935298,0.01093145540725144,0.004062057896619154
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2020,0.008416892760526007,0.012418384620066648,0.004415400900985366
+Armenia,2 to 4,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2021,0.004961242315870204,0.007635801962257787,0.0022866826694826225
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1990,0.1664886368095976,0.2523512471566326,0.0806260264625626
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1991,0.1653054795724532,0.2511470564709359,0.0794639026739706
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1992,0.16656029010512347,0.254010431030494,0.07911014917975297
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1993,0.1708303411493591,0.2598882274981893,0.0817724548005289
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1994,0.1561467763614467,0.2358388803587799,0.0764546723641134
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1995,0.1326517044483197,0.2014663922494031,0.0638370166472364
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1996,0.114062587889937,0.172747465126155,0.055377710653719
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1997,0.0951814533148819,0.145728063050046,0.0446348435797177
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1998,0.0811199959057859,0.1231576564396541,0.0390823353719177
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1999,0.07285058385224918,0.1104053401950289,0.03529582750946947
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2000,0.06715082147919418,0.10129507167936908,0.033006571279019285
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2001,0.05850087257602736,0.0885722611271884,0.02842948402486632
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2002,0.04980202087292622,0.07548827119314863,0.024115770552703808
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2003,0.05340281417984038,0.08104132325314632,0.025764305106534435
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2004,0.05145878377709714,0.07787416189697474,0.02504340565721954
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2005,0.049706002516751835,0.07538216121427478,0.02402984381922889
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2006,0.04671419468422895,0.07126972133109089,0.022158668037367015
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2007,0.0419993601733888,0.0638574347363976,0.020141285610380005
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2008,0.037251206963464664,0.05727761182845095,0.017224802098478372
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2009,0.041348002138071716,0.06344692635464688,0.019249077921496546
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2010,0.038981635367211886,0.05973720568850946,0.018226065045914317
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2011,0.030961254254028948,0.04690977634540179,0.015012732162656101
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2012,0.02497035303928316,0.03782485018670655,0.012115855891859767
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2013,0.026540483739380547,0.04039559919811276,0.012685368280648335
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2014,0.02514810806799067,0.038319596856180325,0.011976619279801015
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2015,0.024157235529124,0.03690301714100086,0.01141145391724714
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2016,0.028253492469138608,0.04307724411352569,0.013429740824751528
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2017,0.029554361466156507,0.04451459436278206,0.014594128569530953
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2018,0.024809066635940555,0.03760828819466748,0.012009845077213633
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2019,0.02582880282600696,0.03917488770164479,0.012482717950369128
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2020,0.026670864107999584,0.04107368110620147,0.012268047109797698
+Armenia,2 to 4,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2021,0.01483413631735075,0.023504688913356643,0.006163583721344857
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1990,0.2437587729685277,0.4117655507549937,0.0757519951820617
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1991,0.2230360596526403,0.3764705271563313,0.0696015921489493
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1992,0.22514747107106314,0.3775545839264781,0.0727403582156482
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1993,0.228136203018131,0.3775350290973297,0.0787373769389322
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1994,0.1825136739893428,0.3079357552389833,0.0570915927397022
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1995,0.1897081101407213,0.3120387605624251,0.0673774597190176
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1996,0.1727115378946296,0.2828135615524488,0.0626095142368104
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1997,0.155526059176387,0.2565454232571257,0.0545066950956483
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1998,0.1304138842362907,0.2161882360469549,0.0446395324256264
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1999,0.1250607545265304,0.2080268629993678,0.04209464605369302
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2000,0.11281465229316331,0.18653187266306562,0.03909743192326101
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2001,0.10091569699160813,0.16747589534691168,0.03435549863630458
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2002,0.0856374496808886,0.1447776437811396,0.026497255580637605
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2003,0.09049445255475008,0.15345909617212705,0.027529808937373113
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2004,0.08238392613190226,0.13793582973834861,0.026832022525455926
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2005,0.07406995556505519,0.12583282663831102,0.02230708449179937
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2006,0.07219421247782673,0.12250431202511478,0.021884112930538685
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2007,0.0710628306973072,0.12100874691701086,0.02111691447760356
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2008,0.06900456804968927,0.12058141335487674,0.017427722744501793
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2009,0.07521672945904981,0.12949968103697687,0.020933777881122752
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2010,0.07673849976811725,0.13014391953945903,0.023333079996775474
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2011,0.08077159951899898,0.13800343895647343,0.023539760081524537
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2012,0.0784270170665303,0.1329231020452659,0.023930932087794697
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2013,0.08272112268676475,0.13923577081536628,0.02620647455816321
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2014,0.08144179390165796,0.1387555511183115,0.0241280366850044
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2015,0.08102692399100814,0.1390132534409977,0.02304059454101856
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2016,0.09333832804873042,0.16040519604333137,0.02627146005412946
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2017,0.09634791928484368,0.16375709179213865,0.02893874677754872
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2018,0.08699540870686681,0.14994037135827032,0.02405044605546329
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2019,0.09187942535043171,0.15716866443724528,0.026590186263618143
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2020,0.12599336465107647,0.22767368543974378,0.02431304386240915
+Armenia,2 to 4,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2021,0.06104428277133085,0.10798309501746828,0.014105470525193432
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1990,0.00052578090896,0.0024354145243929,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1991,0.0021143303604737,0.0092627509280893,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1992,0.004247416644165994,0.016811889654514318,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1993,0.0064220500635831,0.0245610089949853,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1994,0.0091589496688135,0.0351809339411624,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1995,0.0125664336105186,0.0501352328666583,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1996,0.0162745524585073,0.0611276387848786,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1997,0.0190637680111402,0.0684026458328796,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1998,0.0222095405925454,0.0756101736383997,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1999,0.0256018780272788,0.08109336740508916,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2000,0.029050350495993662,0.08992706855171612,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2001,0.03057752979104065,0.08784740091276741,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2002,0.033784393848433646,0.09071395740587093,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2003,0.03469434814715546,0.09029136061350068,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2004,0.03799741210882341,0.09925310335878612,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2005,0.04310153888166206,0.11429242668259466,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2006,0.04459397593029259,0.12022863601335228,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2007,0.042719303244336655,0.11582948941801044,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2008,0.04307323220037046,0.11428373577000675,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2009,0.036997995960264846,0.09530745879183716,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2010,0.033432422595467394,0.08496984679881515,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2011,0.030659752703540204,0.07765225386931188,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2012,0.02573742760395782,0.06492649945567228,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2013,0.021995029946366013,0.05580431434452659,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2014,0.01888190764482352,0.04912972258789319,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2015,0.016532320124067218,0.04366151314012031,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2016,0.016354694691127415,0.043371347335466284,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2017,0.013711487456969491,0.03639231605793977,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2018,0.012757190543645823,0.033743827578698295,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2019,0.010601205388148849,0.028630108702784086,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2020,0.009767657442476879,0.026309406858027164,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2021,0.008730596643541796,0.024008478064038254,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1990,0.0066064963413384,0.0132538401978657,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1991,0.0061946524082338,0.0122948295281148,0.0000944752883527758
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1992,0.006172419506693362,0.012240554226027232,0.00010428478735949147
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1993,0.0047807127460098,0.0093992119003511,0.0001622135916685
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1994,0.0042786141580754,0.0083608114676956,0.0001964168484553
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1995,0.0053546925812674,0.0102336000840114,0.0004757850785234
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1996,0.0038554237982948,0.0074684459794828,0.0002424016171069
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1997,0.0035287797704557,0.0068220415580951,0.0002355179828163
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1998,0.0033920809787079,0.0064803744641821,0.0003037874932337
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1999,0.0025112492940499677,0.004882896965242273,0.00013960162285766263
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2000,0.0029444607417146527,0.005577387698135647,0.00031153378529365835
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2001,0.002420212571702788,0.004616180497154291,0.0002242446462512853
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2002,0.002457660088879726,0.004719768997487737,0.00019555118027171463
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2003,0.0018869174887876125,0.0036925119394985934,0.00008132303807663159
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2004,0.0023700399205102527,0.004455202815226465,0.0002848770257940403
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2005,0.002003130610825284,0.003855010583416297,0.00015125063823427111
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2006,0.001949493375268597,0.0037498462407600497,0.0001491405097771444
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2007,0.0019323039932323612,0.0036959969476272544,0.00016861103883746768
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2008,0.001955703633423853,0.0038536700816339626,0.000057737185213742976
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2009,0.0024053928900161286,0.004625718511078852,0.00018506726895340482
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2010,0.002123896785399269,0.0040840489472436835,0.00016374462355485484
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2011,0.0017205398294907887,0.0033716701646961666,0.00006940949428541044
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2012,0.0018112651425669225,0.0035460349286124543,0.00007649535652139053
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2013,0.0018526137643248986,0.003570187793904284,0.00013503973474551312
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2014,0.0018877581739330318,0.0037253595129131357,0.00005015683495292818
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2015,0.0019501201399528835,0.003861725268951953,0.00003851501095381406
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2016,0.0023444833583394446,0.00467064378106324,0.000018322935615649495
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2017,0.002152007622635307,0.004248806439806553,0.00005520880546406063
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2018,0.002194885075344656,0.004352591934254836,0.000037178216434475934
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2019,0.002211994133018989,0.004319871468653672,0.0001041167973843066
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2020,0.0033962044424913017,0.007160674182910185,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2021,0.0015627938689265792,0.0031736717884424124,0
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1990,0.0009506211591757,0.0012818936462178,0.0006193486721336
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1991,0.0008176735531136,0.001083037951075,0.0005523091551521
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1992,0.0007963996305971035,0.0010851944287255336,0.0005076048324686735
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1993,0.0007398950850986,0.0009897798635317,0.0004900103066655
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1994,0.0006988378764563,0.0009420245363611,0.0004556512165514
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1995,0.0006409687206556,0.0008510885863025,0.0004308488550086
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1996,0.0005672269907519,0.0007533665512001,0.0003810874303036
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1997,0.0005238153624812,0.000710700263811,0.0003369304611513
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1998,0.0004881128278889,0.000646988303747,0.0003292373520308
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1999,0.00048155529723730025,0.0006568746726048828,0.0003062359218697177
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2000,0.0004737243181590577,0.0006372064157118781,0.0003102422206062374
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2001,0.00045236448349691787,0.0006115218350050094,0.0002932071319888263
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2002,0.00042376735021442747,0.0005777786945006882,0.00026975600592816666
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2003,0.00041489930170089895,0.0005806230106687168,0.00024917559273308107
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2004,0.0004161113831430886,0.000576718090323948,0.00025550467596222916
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2005,0.00047759206426506353,0.0006719535560879811,0.0002832305724421459
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2006,0.0005096729660277446,0.0007186229387759881,0.00030072299327950114
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2007,0.0005282247626976185,0.0007414600159660036,0.0003149895094292334
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2008,0.0005782975560075397,0.0008290294828386553,0.00032756562917642394
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2009,0.0005860297791348912,0.0008337917230111923,0.0003382678352585901
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2010,0.0005392047059724659,0.000750804262462127,0.00032760514948280473
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2011,0.0005747913125171708,0.0008025401054460089,0.0003470425195883327
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2012,0.0006557452566116094,0.0009192080821236322,0.0003922824310995864
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2013,0.0008094711840315724,0.0011182925215991717,0.0005006498464639731
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2014,0.0009088177811286931,0.0012778698805523943,0.0005397656817049919
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2015,0.0009225821574888487,0.00126689155738009,0.0005782727575976074
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2016,0.0008524986643787859,0.0011847682295052311,0.0005202290992523406
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2017,0.0008489093303878675,0.001170253617507476,0.000527565043268259
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2018,0.0007885921911671884,0.0010939037571547087,0.00048328062517966796
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2019,0.0006918810675253665,0.0009497294297684021,0.00043403270528233085
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2020,0.0014043141936883525,0.0021647137583492033,0.0006439146290275018
+Armenia,2 to 4,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2021,0.0005073163641806167,0.0007513440199789218,0.00026328870838231166
