@@ -1,0 +1,737 @@
+Location,Age,Sex,Measure,Metric,Pathogen,Antibiotic class,Counterfactual,Year,Value,Upper,Lower
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1990,0.0015005770412187176,0.0023624659749476138,0.0006386881074898213
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1991,0.0016452736949659212,0.002483115228919067,0.0008074321610127756
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1992,0.0017011321059963809,0.0025680730509347583,0.0008341911610580035
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1993,0.0014466000596189744,0.0021112097498787465,0.0007819903693592023
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1994,0.0012802591278235605,0.0019796733454258463,0.0005808449102212748
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1995,0.0011219511642663832,0.0017555989148555552,0.0004883034136772113
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1996,0.0008871831458470654,0.001397816167256409,0.0003765501244377213
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1997,0.000920312468419128,0.0014306174500382284,0.0004100074868000275
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1998,0.0008961422978295787,0.0014055452463573334,0.0003867393493018239
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,1999,0.0007998760896915282,0.0012618402470377826,0.0003379119323452739
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2000,0.0007553638025804695,0.0011797640412041694,0.0003309635639567696
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2001,0.0006896824366700092,0.001046544611530399,0.0003328202618096195
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2002,0.0005863405476206427,0.000918552343977779,0.0002541287512635064
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2003,0.0007949118931456685,0.0012267223392091115,0.0003631014470822253
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2004,0.0008788573829965377,0.0013384742561150774,0.0004192405098779981
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2005,0.0009338039167598708,0.0014053607586015653,0.0004622470749181765
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2006,0.001036172844728396,0.0015651783242126792,0.0005071673652441125
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2007,0.0010486354277401675,0.0015925095491833542,0.0005047613062969809
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2008,0.000904661262732546,0.0013666728620821736,0.00044264966338291824
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2009,0.0008236175913776437,0.0012269252960007686,0.0004203098867545188
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2010,0.0006156664005809243,0.0009893518075637091,0.00024198099359813924
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2011,0.0006735216315129938,0.0010070981776441627,0.00033994508538182485
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2012,0.0005516766153338111,0.0008179311678912068,0.0002854220627764153
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2013,0.0004888992782036976,0.0007377799276277854,0.0002400186287796098
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2014,0.0004634980014918262,0.0006926338570644666,0.0002343621459191858
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2015,0.0004296871105037389,0.0006351318916654209,0.00022424232934205687
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2016,0.0003660127660888872,0.0005444661989399337,0.00018755933323784065
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2017,0.0003009587501239116,0.00044507576816626895,0.00015684173208155422
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2018,0.0002703702543762934,0.00040026111420389456,0.0001404793945486922
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2019,0.0002482660664608554,0.00038048822884473137,0.0001160439040769794
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2020,0.0002215029415815239,0.00032037756882785727,0.00012262831433519056
+Andorra,1-5 months,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Associated,2021,0.00011130413634696248,0.00018955853252210648,0.00003304974017181848
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1990,0.0001247235735739046,0.0002657018197450824,0.00004216223694101669
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1991,0.0001288119284560836,0.0002624228118900709,0.00004659816154192178
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1992,0.0001450215603419379,0.0002921220603621169,0.00005290111892890788
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1993,0.00011865885846083049,0.00023015096512786972,0.00000716675179379118
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1994,0.00010201471336995828,0.00020839672683946572,0.00003699118406769605
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1995,0.00009575489293204904,0.0001953865088805852,0.00003353730866525303
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1996,0.00009061362835126796,0.00017959984130333766,0.000001627415399198251
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1997,0.00008442770180013965,0.00016406323108016855,0.000004792172520110737
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1998,0.00008088520746502344,0.00016503052738367448,0.00002796684786756819
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,1999,0.00007591601569603388,0.00015302895721520785,0.00002601628694393001
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2000,0.00007465465133485998,0.00014505121790325703,0.000004258084766462931
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2001,0.0000680276009195094,0.00013102820856497442,0.000005026993274044383
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2002,0.000059494765663316233,0.00011715741095608035,0.000001832120370552093
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2003,0.0000799901625728882,0.0001571365679815061,0.0000028437571642703143
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2004,0.00009002249197880512,0.00017761487947340015,0.000002430104484210091
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2005,0.00009643716192101923,0.00018773856386819303,0.0000051357599738454215
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2006,0.0000911678950200186,0.000180718138737834,0.0000016176513022032315
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2007,0.0000870938961548459,0.00017527069178137916,0.00003032646871997233
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2008,0.00008192173687821761,0.00015993797362515025,0.000003905500131284989
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2009,0.00007696239389114157,0.00015097975855858436,0.0000029450292236987984
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2010,0.00006902541923776095,0.00014766882010591178,0.000022968928798136425
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2011,0.000060358297699216665,0.00012250877108567105,0.00002177659514897741
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2012,0.00005310373716797801,0.0001070352051600579,0.000018917606721348667
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2013,0.00004435592593577689,0.00009059857839482469,0.00001565988577200055
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2014,0.00003920781400597611,0.00007983094984476103,0.000014270821785175012
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2015,0.000034620758604309575,0.0000720108687467578,0.000012225094645458136
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2016,0.00003991308648551903,0.00008114131829538286,0.000014220934173901786
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2017,0.000035806153361414824,0.00007155299598911762,5.9310733712029744e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2018,0.000033686265606667115,0.00006621410192475546,0.0000011584292885787634
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2019,0.00003020413338546752,0.00006447212485259562,0.000010901912588863305
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2020,0.00002971920282250759,0.00005760983867208559,0.0000018285669729295905
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Associated,2021,0.00001529190406486996,0.00003182150263621076,0.000004893155011447396
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1990,0.0006160538547701832,0.001482687231755001,0.00015034731432954945
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1991,0.0006024221312698516,0.0014342204364731282,0.00015128848315538388
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1992,0.0006746069659298489,0.0015653627122370183,0.00017501390628021574
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1993,0.0005493496491809302,0.0011939344635419156,0.00014611017579359314
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1994,0.0005287273182457916,0.0012444825235483122,0.00013948599236669707
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1995,0.00044107662244579504,0.0010164291813017988,0.000111758551962569
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1996,0.00041532662337903246,0.000930065667290496,0.00010614329030370946
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1997,0.000399364248613407,0.0008870898586296704,0.00010423252807795708
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1998,0.0003985159244925473,0.0009176544452202742,0.00010006783326751132
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,1999,0.0003359612160298372,0.0007623334326513021,0.00008316940526149717
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2000,0.0003500697006146898,0.000768282765713951,0.00008809745897322582
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2001,0.0003184280618768693,0.0006906108839630288,0.00008120843311654575
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2002,0.0002298224656359692,0.0005154864660959733,0.00005588823160518107
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2003,0.0003366315071551962,0.000743017772322985,0.00008408582093426679
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2004,0.0003897515699052592,0.0008543397150482762,0.00009649738670618635
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2005,0.0004184881477933634,0.000922595127156159,0.00010680736606620248
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2006,0.0004276016228915208,0.0009434835228433153,0.00010806715622108112
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2007,0.0003924430715206196,0.0008962251767897798,0.00009823970504051216
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2008,0.0003906227528940672,0.000851654576190157,0.0000988709152263356
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2009,0.0003546822443191445,0.0007855955865335285,0.00009155864360307189
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2010,0.00029302101381895105,0.0006998048875563511,0.00006997439431960624
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2011,0.0002972214099259182,0.0006814581301970823,0.00007708568484105885
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2012,0.0002543992826859681,0.0005774498202981199,0.00006418370089011823
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2013,0.00021515462711905144,0.0005021661862402084,0.00005454115965681382
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2014,0.00022387284695947785,0.0005261688731622244,0.000057776489623064325
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2015,0.0002091544865302897,0.0004969127959332945,0.000053310632884246
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2016,0.00019608677073579693,0.0004608792678442361,0.00005015594367462487
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2017,0.00018297147432049367,0.0004170179581112405,0.00004854500831112023
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2018,0.00017244815118568378,0.0003923639286925018,0.00004639659459681102
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2019,0.0001541666205708443,0.0003761654867940563,0.00004005598197399285
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2020,0.00015568831420557214,0.0003464667544943754,0.00004271865310843818
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Associated,2021,0.00007785038290663559,0.0001893499017311561,0.0000187456197203199
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1990,0.0010422277405986702,0.0014436738202113315,0.0006407816609860088
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1991,0.0013034222857768738,0.001719395950307777,0.0008874486212459706
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1992,0.000935795487294009,0.001224021422836486,0.0006475695517515321
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1993,0.000681683794468873,0.0008980832157733926,0.00046528437316435353
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1994,0.0005893041554999232,0.0008040956936707358,0.00037451261732911065
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1995,0.00047852144422672657,0.0006599039968607879,0.0002971388915926652
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1996,0.0004805880494066407,0.00067076090991508,0.0002904151888982014
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1997,0.00044638924142558064,0.0006184736450405865,0.0002743048378105748
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1998,0.00042734771774433663,0.0005926390435324254,0.0002620563919562478
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,1999,0.0003933336197390979,0.0005565580659050659,0.00023010917357312992
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2000,0.0004231147499292229,0.0005949639769212272,0.0002512655229372187
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2001,0.000352916119963296,0.0004857253687909755,0.0002201068711356165
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2002,0.00029605484899561927,0.00041792736191257945,0.0001741823360786591
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2003,0.0003952583570018797,0.0005491275469851704,0.00024138916701858896
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2004,0.0004882928755915658,0.0006621396181415689,0.00031444613304156265
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2005,0.0005229949190148199,0.0007007270428814694,0.00034526279514817044
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2006,0.0004354601050625016,0.0005933873144055875,0.00027753289571941567
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2007,0.000400737591947958,0.0005549861038624196,0.00024648908003349645
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2008,0.0004149743230719137,0.0005712853301181808,0.0002586633160256467
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2009,0.00033173767847883266,0.0004524837695999897,0.00021099158735767565
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2010,0.00026892161027165643,0.0003876901812540674,0.0001501530392892454
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2011,0.0004825507422498483,0.0006685398349981068,0.0002965616495015897
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2012,0.0004163214289857227,0.0005666301453129202,0.0002660127126585253
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2013,0.00038417112457667774,0.0005376747155377694,0.00023066753361558617
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2014,0.00018053916385205236,0.0002528745152914671,0.00010820381241263756
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2015,0.00032610343684993644,0.0004530146948420143,0.00019919217885785856
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2016,0.00017642936099535142,0.0002444154685507562,0.00010844325343994667
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2017,0.0001584765019314293,0.00021811289454128167,0.00009884010932157696
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2018,0.00014905299792090717,0.00020428224766161357,0.00009382374818020076
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2019,0.00014027118922424725,0.000197907315086044,0.00008263506336245047
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2020,0.00013236841986423442,0.00017897261315749703,0.00008576422657097181
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Associated,2021,0.00006800703678179267,0.00011361344212476913,0.000022400631438816235
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1990,0.0032312512969505315,0.0046676116401674185,0.0017948909537336443
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1991,0.003284298252281795,0.004539717713435708,0.0020288787911278824
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1992,0.003699865176140394,0.005026640116377456,0.002373090235903332
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1993,0.0026237360295146106,0.003591343009808466,0.0016561290492207552
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1994,0.0024014141978521046,0.003418735269995634,0.0013840931257085754
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1995,0.0022290074619802777,0.003203016233259839,0.001254998690700717
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1996,0.002009360944447611,0.002931444345250219,0.0010872775436450027
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1997,0.0018459803711230668,0.002667989060339815,0.0010239716819063186
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1998,0.001203961173060917,0.0017786791139969846,0.0006292432321248496
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,1999,0.0010677491188353242,0.001608465448888775,0.0005270327887818733
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2000,0.0009203391964529888,0.0013833844097459985,0.0004572939831599796
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2001,0.0005874043473490017,0.0008673911605385559,0.0003074175341594476
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2002,0.0005052040047901514,0.0007703431463316997,0.0002400648632486032
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2003,0.0006591356716624205,0.000986470150137669,0.00033180119318717205
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2004,0.0008323791467064842,0.001216948199055198,0.00044781009435777017
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2005,0.000908750662841314,0.0013123026624640491,0.0005051986632185786
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2006,0.0011312138633483857,0.0016490530246161155,0.0006133747020806555
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2007,0.0013079672310023186,0.0019277047929595517,0.0006882296690450856
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2008,0.0009225938392217336,0.0013622877984399348,0.0004828998800035322
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2009,0.0008274463297954358,0.0012049553208682735,0.00044993733872259806
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2010,0.0006255860254866543,0.0009783524238098646,0.00027281962716344384
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2011,0.0006006579058977378,0.0008970077208394695,0.000304308090956006
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2012,0.0005380935720642417,0.0007897061027211603,0.0002864810414073231
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2013,0.0004358454446618394,0.0006592279260399494,0.00021246296328372933
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2014,0.0005292043814126412,0.0007877512049648683,0.0002706575578604141
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2015,0.0004923881767195694,0.0007308150592103995,0.0002539612942287393
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2016,0.0004723432214513197,0.0006945635365210607,0.0002501229063815787
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2017,0.00047312606668024784,0.0006886229803331524,0.0002576291530273433
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2018,0.0004301736646765923,0.0006214294473024267,0.00023891788205075788
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2019,0.0004113778514072881,0.0006132847821886569,0.0002094709206259193
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2020,0.0003787427165749037,0.0005378151811724337,0.00021967025197737385
+Andorra,1-5 months,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Associated,2021,0.00019629926555484367,0.0003462810396185922,0.00004631749149109512
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1990,0.00003475853307542411,0.00007417125296331863,0.00001162435122220555
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1991,0.00003831429534394561,0.00007879380667611779,0.000013682397637321582
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1992,0.00004235042020385238,0.00008838693007041544,0.00001509087466639568
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1993,0.00003851912209224688,0.00007962491115821575,0.00001377775055192463
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1994,0.000034062187482148696,0.00007130651462380344,0.000011848103234329978
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1995,0.000032704720202731034,0.00006701619666621959,0.000011940402404976127
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1996,0.00003109329076849783,0.00006359867882488562,0.000011234520421152109
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1997,0.000032214682684234224,0.00006720989744502049,0.00001121578543800898
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1998,0.00002688854248487903,0.000056950986747818615,0.000009164408667591957
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,1999,0.00002370573616073758,0.00004907197359003572,0.000008101828722235212
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2000,0.000021280893898450472,0.00004618343035513294,0.000006601560661734641
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2001,0.000018697396116086012,0.000040092919697791,0.000005774419935048421
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2002,0.000017637331700880522,0.00003843311888236544,0.000005306595842504086
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2003,0.000022389781013148477,0.00004817944503488591,0.000006914483202437416
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2004,0.00002491912645311405,0.00005345581419108365,0.00000768696330666565
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2005,0.00002481768813790801,0.00005200119716313202,0.000008178643116285158
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2006,0.000024636802631744677,0.00005096179585968744,0.000008226804653094
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2007,0.00002434409977421637,0.000050443261517327614,0.000008100565207232773
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2008,0.000024516182342752263,0.00005147072155670904,0.00000788752335317261
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2009,0.00002258801246037149,0.00004761741344345918,0.000007114284627301673
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2010,0.0000203438926060284,0.00004223952910116375,0.000006421878367549862
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2011,0.000018623068599311647,0.00003845364038850469,0.000005854492121052471
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2012,0.000016680279877043405,0.00003421128832103507,0.000005193270845159291
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2013,0.000014770375759018833,0.00003058422624846738,0.000004550315457912432
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2014,0.000015011824159321114,0.00003087614795843212,0.000004639453059361031
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2015,0.000014112315564493749,0.00002929818172503884,0.000004296686172533407
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2016,0.00001236441365713114,0.00002589034336434288,0.000003805204806840129
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2017,0.000011813346820606565,0.00002495252948916236,0.000003618332329474216
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2018,0.000011848382321690886,0.000025158788559191437,0.0000036705922681443
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2019,0.000011917913191597393,0.000025486471196661773,0.000003603000479178188
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2020,0.000013432377174032928,0.00002871006461482515,0.000004045833561408844
+Andorra,1-5 months,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Associated,2021,0.000008091994804129751,0.00001893480167394676,0.0000019514551484513303
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1990,0.000007697804905733811,0.000017216805816602212,0.000002395079215940159
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1991,0.000009019368297134263,0.00002003208868402238,0.0000028272002650557007
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1992,0.000010046086515624764,0.000022280111031914223,0.000003171431757226005
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1993,0.000010333570553092945,0.00002269703711579616,0.000003285168260273755
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1994,0.000009641368520594787,0.00002120219135448581,0.0000030547074297366467
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1995,0.000010049246843509635,0.000022167134757960422,0.0000031592838513028142
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1996,0.000010097794826793377,0.00002251572966650992,0.000003133941600143881
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1997,0.000011355208460550576,0.00002540330393028389,0.0000035111732085625795
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1998,0.000011681115571460929,0.00002599572762870014,0.000003623945730020533
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,1999,0.000012471993899424628,0.000028146666671330785,0.000003836211912168374
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2000,0.000011647597439319374,0.000026123794045386264,0.000003551719107429342
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2001,0.000011689456355719704,0.0000261052366582357,0.000003556597799964527
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2002,0.000011274905901230486,0.000025198383129728896,0.000003401336343063418
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2003,0.00001268479143730184,0.0000278830589277947,0.000003917446963185954
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2004,0.000013689681421362422,0.000029862763902729314,0.000004266728923288357
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2005,0.000013692456992447336,0.000029725850804221767,0.000004286813617368511
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2006,0.0000135819885964743,0.00002945786830329761,0.00000427837689757808
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2007,0.00001316265540995571,0.000028491437318487967,0.000004163083669936533
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2008,0.000013872890457090324,0.000030096133967659118,0.000004382542601090935
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2009,0.000013146770937013912,0.000028606319903229676,0.000004139190787476336
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2010,0.000012766936364453252,0.000027831013027991156,0.000003950018963003509
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2011,0.00001178884801296395,0.000025695537098324627,0.000003633730563330849
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2012,0.000010827901901535964,0.00002353150250599818,0.000003325509842899317
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2013,0.000009722432065455904,0.000021084162460056743,0.0000029904949609903818
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2014,0.000009316226414471471,0.000020291710506685976,0.0000028682755808827918
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2015,0.000008721239177163912,0.000019141189968941428,0.000002668804754885248
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2016,0.000007330324080899521,0.000015978009564440238,0.0000022792631746934523
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2017,0.000006574833935315022,0.000014408655949176742,0.0000020362200408799367
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2018,0.000006106732589447062,0.000013450106789267516,0.000001878935723163329
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2019,0.000005597406009252433,0.00001234063969106096,0.0000017315250363635593
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2020,0.00000576014108589644,0.000012790092077779876,0.000001766175395730582
+Andorra,1-5 months,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Associated,2021,0.000003181553748511648,0.000007521480821935653,8.299884943897592e-7
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1990,0.00002838656972996303,0.00005879998128965129,0.000010047584786423056
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1991,0.000030655461789648184,0.00006349880253412433,0.000011063492507425251
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1992,0.00003363492164657809,0.00006791798718253965,0.000012193022158065142
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1993,0.000027279611600456783,0.00005601148758277711,0.000009823865087198332
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1994,0.000022597274685343645,0.00004584117676807013,0.000008214983275569517
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1995,0.000020840058590072007,0.00004242249290258803,0.000007456252644794443
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1996,0.000019259804955127944,0.00004068241792106158,0.000006723246873975012
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1997,0.000017510334089423034,0.00003683718683343884,0.000006027304822061023
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1998,0.00001628476396394695,0.00003441370669885682,0.000005671940094056262
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,1999,0.000015075863227246529,0.00003221381860737783,0.000005106584384544896
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2000,0.000013275189776445071,0.00002839562946778321,0.000004521994744432766
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2001,0.000012483037559215389,0.000027341842411545185,0.000004166582291540438
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2002,0.0000105395276459355,0.000023645568566649597,0.0000034446233030811555
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2003,0.000013411873414331384,0.000029674448959374086,0.000004503185540709837
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2004,0.000014955512020436158,0.00003331250438073788,0.000004926567134024143
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2005,0.00001539275104844863,0.00003387517967410358,0.000005185445227808359
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2006,0.00001433417293986649,0.000032083102493063574,0.000004805617831712405
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2007,0.000013838520788624995,0.00003022608332140739,0.000004691038530095996
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2008,0.000013056424039503136,0.000028873055269706536,0.000004236836806703245
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2009,0.000011680765340967173,0.0000254157531998796,0.0000037198633323441306
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2010,0.000009439480359056682,0.00002084701995666517,0.0000029477593066132742
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2011,0.000008131568510809391,0.00001820569324641997,0.000002517740984491896
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2012,0.000007644187086465521,0.000017094091042973896,0.000002355530218734073
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2013,0.000007412382985856905,0.000016903908303484357,0.000002279487945478893
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2014,0.000007675622598511026,0.000018325666482002384,0.0000023268644656599334
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2015,0.000007076269364270545,0.000017658507023795323,0.000002067180009297781
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2016,0.000006864216059157694,0.000016785938252401644,0.000002103320245585816
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2017,0.0000064823134389095054,0.000015811152426961666,0.00000198359449099854
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2018,0.000006383758300658701,0.000015658755244410778,0.000001988098412259931
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2019,0.000006348746694970305,0.000015596368702048646,0.0000019501338587775957
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2020,0.000005927832651716576,0.000014353582155430388,0.0000018781739151780565
+Andorra,1-5 months,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Associated,2021,0.0000029713125204548867,0.0000076861831968355,7.203687407541948e-7
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1990,3.864025425107438e-7,0.0000013779902430287022,5.970075665794388e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1991,5.095258528323957e-7,0.000001923646760997273,7.66406939870203e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1992,6.55441818118636e-7,0.0000023473619011886016,1.0719714456153956e-7
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1993,5.710473523048664e-7,0.000001912319598255761,8.937550621317074e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1994,5.01183372870756e-7,0.000001706830964709215,7.979391395614231e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1995,4.6680219807732e-7,0.0000014530569763468603,7.698131037475132e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1996,4.305559583558496e-7,0.0000013590159632506072,6.886192318092504e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1997,3.8133094902982746e-7,0.0000012466290746975798,5.984620538479867e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1998,3.178913748250926e-7,9.9512170701305e-7,5.158223065594517e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,1999,2.548521664581356e-7,7.706975991161304e-7,4.0285909807625787e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2000,2.2027404024911497e-7,6.008007219458711e-7,3.7405703133853016e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2001,2.1160606831855626e-7,6.119912064387172e-7,3.4770961089102345e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2002,1.7838045879820616e-7,5.147283134038397e-7,3.0082714257710516e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2003,2.45586950168318e-7,6.808484077891504e-7,4.1724755566672754e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2004,2.9475303332946226e-7,8.091613844347368e-7,4.9008210936860175e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2005,3.302875581875552e-7,9.1480262710254e-7,5.4926401674148094e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2006,3.156557861862007e-7,9.430231142866452e-7,5.013740543915372e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2007,3.0661949066153853e-7,9.59696034698962e-7,4.984669471494043e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2008,2.50719128210107e-7,7.902871315509683e-7,4.2610485140944424e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2009,1.8467810016713617e-7,5.884509061629659e-7,2.956749042374674e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2010,1.4324620711561234e-7,4.214010370768514e-7,2.4907813886662072e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2011,1.103667323733394e-7,3.2002390780673e-7,1.823764042176429e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2012,9.13301774633404e-8,2.8373774054165616e-7,1.4532760994280804e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2013,7.582001025122655e-8,2.1196906457444954e-7,1.2690518099355856e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2014,6.360439129168763e-8,1.888991790143139e-7,1.0257399909143142e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2015,6.007196038570934e-8,1.7233952910130096e-7,9.648773531955165e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2016,5.473122987293783e-8,1.6255055768837424e-7,8.365602594219557e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2017,5.114851885139622e-8,1.5678304940061122e-7,7.815378914225726e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2018,4.8786542970274764e-8,1.42148781273418e-7,7.776172780496039e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2019,4.71811178334488e-8,1.5668477431508138e-7,6.863290364042907e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2020,4.4526507431303854e-8,1.400818082401519e-7,7.018616535675734e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Associated,2021,2.9491893576538785e-8,9.318886043808976e-8,3.692226420802931e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1990,0.0003051334863369604,0.0005033457351597233,0.00010692123751419732
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1991,0.0003119972367139226,0.0004948642405804655,0.00012913023284737976
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1992,0.00034228972240374854,0.0005409667955544032,0.00014361264925309388
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1993,0.0002731290573488838,0.0004209909385403964,0.0001252671761573711
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1994,0.00023195444845133668,0.0003753056104353775,0.0000886032864672958
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1995,0.00021331072045811532,0.0003500976061077322,0.0000765238348084985
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1996,0.00019776211652032129,0.0003202902475835691,0.00007523398545707349
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1997,0.00018288251297405404,0.0002915848856911896,0.00007418014025691852
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1998,0.00016816288647341444,0.0002784123585168892,0.00005791341442993967
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,1999,0.00014990139358676152,0.0002498975653656523,0.000049905221807870754
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2000,0.00013450109849575,0.00021803421576155983,0.00005096798122994017
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2001,0.00012391613512747348,0.00019616117841602857,0.00005167109183891839
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2002,0.00009603046011465827,0.00015747806605698476,0.0000345828541723318
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2003,0.00011996747316763368,0.00019744174292866327,0.00004249320340660406
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2004,0.00013641228027377574,0.00022214907739448035,0.000050675483153071125
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2005,0.0001465027101659114,0.00023571738099558467,0.00005728803933623811
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2006,0.0001363038514830432,0.00022340869298094536,0.00004919900998514104
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2007,0.00013165437383335062,0.00021868407825128373,0.00004462466941541752
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2008,0.00012080032158163684,0.00019734429939405465,0.00004425634376921904
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2009,0.000108455436690912,0.00017563899144235369,0.000041271881939470325
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2010,0.0000945037758967987,0.000166242161110468,0.000022765390683129392
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2011,0.00008252476148347342,0.00013812800323933263,0.000026921519727614192
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2012,0.00007319340194792079,0.0001206850257686438,0.000025701778127197777
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2013,0.00006680787667049965,0.0001124625088245232,0.00002115324451647611
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2014,0.00006042399352157248,0.0001006256852641801,0.00002022230177896485
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2015,0.00005661534899291077,0.00009550971670585352,0.00001772098127996802
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2016,0.00005407715721771332,0.00009088579820720936,0.000017268516228217283
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2017,0.000049536888418614935,0.00008155608119877835,0.00001751769563845152
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2018,0.00004589621105430084,0.0000755725424734676,0.00001621987963513408
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2019,0.00004306584618868233,0.00007501590290415587,0.000011115789473208782
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2020,0.00004095683376264269,0.00006586678925639735,0.000016046878268888038
+Andorra,1-5 months,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Associated,2021,0.00002211513384288251,0.0000404703055907881,0.0000037599620949769207
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1990,0.001164334104221058,0.002039658732713403,0.0002890094757287126
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1991,0.0012924554598677954,0.002196068758244637,0.000388842161490954
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1992,0.0013462518827070348,0.002273242468523256,0.0004192612968908137
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1993,0.0010020357390812672,0.0016396320931405172,0.000364439385022017
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1994,0.0009102020153406918,0.0015855247329010802,0.00023487929778030336
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1995,0.0007707120885255031,0.0013485691424390729,0.00019285503461193343
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1996,0.0007171967745796556,0.0012476692107598966,0.0001867243383994147
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1997,0.0006796473078909437,0.0011727314869568774,0.00018656312882500985
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1998,0.0006433309340433929,0.0011388415091155512,0.00014782035897123469
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,1999,0.0005527562837637872,0.0009792952282425885,0.00012621733928498582
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2000,0.000622263678016623,0.0010729330644026125,0.00017159429163063344
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2001,0.0005296232730895396,0.0008976111586005876,0.00016163538757849158
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2002,0.00048718623308096725,0.0008502993038012596,0.00012407316236067492
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2003,0.0006604553431980759,0.0011341399919220483,0.0001867706944741034
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2004,0.0007787200076614107,0.0013145091776430129,0.00024293083767980847
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2005,0.000828127577693324,0.001398202963156355,0.0002580521922302927
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2006,0.0009031553611017608,0.0015195253704672691,0.00028678535173625233
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2007,0.0008941514474608336,0.0015353478674400962,0.00025295502748157097
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2008,0.0008293846360882243,0.0013900294333740217,0.000268739838802427
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2009,0.0006803048910117638,0.0011451357306543016,0.00021547405136922604
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2010,0.0006832682689163171,0.0012154755755807373,0.00015106096225189671
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2011,0.0006914117136276826,0.001169407200485542,0.000213416226769823
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2012,0.000610709586873122,0.0010228154949820153,0.00019860367876422863
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2013,0.0005618771107859891,0.0009580348272148932,0.00016571939435708495
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2014,0.0004944171080036553,0.0008464268560304589,0.0001424073599768517
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2015,0.00045636980934423647,0.000781963358970014,0.00013077625971845896
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2016,0.0004431388940860674,0.0007549523583122318,0.00013132542985990294
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2017,0.0003800850793027402,0.00063895186873013,0.00012121828987535052
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2018,0.0003774086818168221,0.0006321394798012778,0.00012267788383236636
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2019,0.0003488589909208308,0.000609218247018258,0.00008849973482340359
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2020,0.00032416632012364046,0.0005321809876914081,0.00011615165255587284
+Andorra,1-5 months,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Associated,2021,0.0001793955300712052,0.0003411975769142349,0.00001759348322817543
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1990,0.00350853343423258,0.004916980262039395,0.0021000866064257648
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1991,0.003533047404034046,0.004699378514713673,0.0023667162933544185
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1992,0.003058616586372502,0.004060376951190797,0.0020568562215542065
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1993,0.002145547851770244,0.002878477397973203,0.001412618305567285
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1994,0.001431522794056386,0.002010408198085954,0.000852637390026818
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1995,0.0011461742556252326,0.0016279716225554577,0.0006643768886950075
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1996,0.0006261862850727067,0.0009079453996067052,0.00034442717053870817
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1997,0.0006334487067061897,0.0009137777581177068,0.0003531196552946724
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1998,0.0005716005114453991,0.0008251041706706086,0.0003180968522201896
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,1999,0.0005311860145278294,0.0007831744353660567,0.00027919759368960205
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2000,0.0005045080863365541,0.0007355591717566688,0.0002734570009164394
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2001,0.0005585068979843703,0.0007920520663364882,0.0003249617296322524
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2002,0.000532958605086752,0.0007791150973528943,0.00028680211282060964
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2003,0.0006492767601325726,0.0009367596952816128,0.00036179382498353245
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2004,0.0006534072411307173,0.0009204294961528976,0.000386384986108537
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2005,0.0008758046255658255,0.0012141437033563291,0.0005374655477753216
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2006,0.0009218228551724432,0.0012898907153154383,0.000553754995029448
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2007,0.0015368665024698743,0.0021538179287438988,0.0009199150761958498
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2008,0.0017863085602597356,0.0024585104982168043,0.001114106622302667
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2009,0.001578675719123648,0.002151003138414361,0.0010063482998329347
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2010,0.0007300182220487318,0.0010790841000224334,0.0003809523440750302
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2011,0.0016635967317536957,0.002291594569008099,0.0010355988944992923
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2012,0.0014758096100625606,0.0019920661465914423,0.000959553073533679
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2013,0.0013195403670866789,0.0018325394569881667,0.000806541277185191
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2014,0.0011675252793319538,0.0016175211972917244,0.0007175293613721832
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2015,0.0010521841127890791,0.0014503208995828008,0.0006540473259953575
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2016,0.0009916342597259158,0.0013552003592419,0.0006280681602099318
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2017,0.0009076552082129364,0.0012370427507974006,0.0005782676656284723
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2018,0.0008562619550102143,0.0011642724232830582,0.0005482514867373705
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2019,0.0007977585971758012,0.0011096211071042318,0.0004858960872473705
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2020,0.000738066287537515,0.000984657034792106,0.000491475540282924
+Andorra,1-5 months,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Associated,2021,0.0003753731023031418,0.0006342845728610481,0.00011646163174523556
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1990,0.00005664656602825325,0.00008176832789459682,0.00003152480416190969
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1991,0.00006040408964282036,0.00008218160179222669,0.00003862657749341404
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1992,0.00006805850173226564,0.00009316673922433175,0.00004295026424019953
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1993,0.00005649306938462861,0.00007905056475176893,0.00003393557401748829
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1994,0.0000488209706639746,0.00006927853648841672,0.00002836340483953248
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1995,0.000045885493127936365,0.0000652101885709813,0.000026560797684891424
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1996,0.0000436994618050899,0.00006255083071263632,0.000024848092897543475
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1997,0.0000413101137265334,0.00005911691308885544,0.000023503314364211344
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1998,0.00003851843471174169,0.000055903723825036594,0.000021133145598446784
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,1999,0.000035141198035024246,0.00005319325090887833,0.000017089145161170165
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2000,0.000032597526341084,0.00004709087232429159,0.000018104180357876408
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2001,0.000029389150936059437,0.00004091870240422608,0.00001785959946789279
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2002,0.000024147550918104096,0.00003420902620417185,0.00001408607563203634
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2003,0.00003217309023747474,0.00004589939381666149,0.000018446786658287985
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2004,0.00003779607927219607,0.00005269593051453997,0.000022896228029852168
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2005,0.00004078168770327666,0.00005602865277228847,0.000025534722634264862
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2006,0.00003919992212889015,0.00005513623795587412,0.00002326360630190618
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2007,0.00003837566376116564,0.000054762527612191535,0.00002198879991013974
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2008,0.00003488141086379172,0.00005002986180551026,0.00001973295992207317
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2009,0.00003093604165805267,0.000042701789368669296,0.00001917029394743604
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2010,0.00002684851536328081,0.00003995156456900038,0.000013745466157561231
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2011,0.00002354976203287717,0.000033815953223704614,0.00001328357084204972
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2012,0.000020882154033804216,0.00002922228064913301,0.000012542027418475418
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2013,0.00001922059359815305,0.00002748720990043325,0.000010953977295872851
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2014,0.00001798829981847129,0.000025400324055386102,0.000010576275581556476
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2015,0.00001663616994095939,0.000023219713532732383,0.000010052626349186395
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2016,0.000015819391443103807,0.00002246848793334734,0.000009170294952860274
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2017,0.000014537598313170982,0.00002011563413329325,0.000008959562493048716
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2018,0.000013578939985765678,0.0000187959984838736,0.000008361881487657759
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2019,0.00001271038209945928,0.000018013035212122635,0.000007407728986795926
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2020,0.000011979997247382432,0.000016381277740240323,0.000007578716754524543
+Andorra,1-5 months,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Associated,2021,0.000006485512163776018,0.00001073417335751945,0.0000022368509700325866
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1990,0.0000357786579258627,0.00007993746595430299,0.000011918932191911616
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1991,0.00004411724198215256,0.00009083691609571794,0.00001658655800553129
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1992,0.000052034458607832425,0.00010630672076697496,0.000019327543034974822
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1993,0.000044612109652038926,0.00009090601551059112,0.000016520085247102184
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1994,0.00003848664711085111,0.00007930465425139057,0.000014062597534757316
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1995,0.00004070997221477847,0.00008555593946420205,0.000014509821885072138
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1996,0.00003554678242339813,0.000072552600067595,0.00001280886706271436
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1997,0.00003831118432695934,0.00007630959591179386,3.1277274212481815e-7
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1998,0.00003706684525340925,0.00007757418559907518,0.000013030675617650498
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,1999,0.00003498602906712562,0.00007279295797171608,0.00001207827554895407
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2000,0.000039090358872806926,0.00007732254744688332,8.581702987305254e-7
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2001,0.00003969936054276231,0.00007746155832972327,0.000001937162755801334
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2002,0.00003784047026025598,0.0000744972937552844,0.0000011836467652275549
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2003,0.000050705491660979815,0.00010094387302594644,4.671102960132021e-7
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2004,0.00006371834036869486,0.00012645602253043845,9.806582069512578e-7
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2005,0.00006211420091663387,0.00012121067148563135,0.000003017730347636374
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2006,0.0000631486762817067,0.00012481337540847616,0.0000014839771549372322
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2007,0.00006000666488956064,0.00011960608001045211,4.072497686691512e-7
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2008,0.0000561622587011257,0.0001099658466799646,0.0000023586707222868
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2009,0.000048402992202790925,0.00009470964567349774,0.0000020963387320841117
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2010,0.00003992141699512012,0.00008644868750171013,0.000014238387058547116
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2011,0.00003590172638217872,0.00007311552173048096,0.000013812066999326948
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2012,0.00002877598706826277,0.000058421955799657386,0.000010968429447008678
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2013,0.000025466016205152224,0.00005169981924338794,0.000009586747979375089
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2014,0.00002023308979780213,0.000040770476938029005,0.000007860639364609322
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2015,0.000017425300063827613,0.0000363934710197681,0.000006462620877662199
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2016,0.000015925472026997192,0.00003309879020246244,0.000005869858078138066
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2017,0.000013982026984803444,0.000028786302891128982,0.000005373072755865386
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2018,0.000012011239305053667,0.00002419177069074631,0.000004558834151408219
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2019,0.000011657276623044616,0.000025654951763468543,0.000004323468716225992
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2020,0.00000994539099735748,0.00001977109657230527,1.196854224096884e-7
+Andorra,1-5 months,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Associated,2021,0.000004729283390091162,0.000010142647164099652,0.0000015234568393794982
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1990,0.0006020929892564114,0.0010035133155169248,0.000200672662995898
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1991,0.000498156117307081,0.000816401416179516,0.00017991081843464588
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1992,0.0005383116768443211,0.0008732574957057264,0.00020336585798291584
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1993,0.0004236364754842521,0.0006634890865962563,0.00018378386437224788
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1994,0.00035136200610092025,0.0005883407146062168,0.00011438329759562378
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1995,0.00030840314133309075,0.0005198763463540885,0.000096929936312093
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1996,0.00027591713514668625,0.0004626673711509836,0.00008916689914238894
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1997,0.0002504693731670803,0.000414693245411703,0.00008624550092245763
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1998,0.0002185548058500196,0.00037309583562278905,0.00006401377607725018
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,1999,0.000185342923277962,0.00031756784976885006,0.00005311799678707396
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2000,0.0001563941469637816,0.00026308284960815205,0.00004970544431941114
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2001,0.00013356072109263375,0.00021847209902847432,0.00004864934315679317
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2002,0.000093615475016582,0.00015930162681345537,0.00002792932321970863
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2003,0.00011609790509827268,0.0001974141725655779,0.00003478163763096747
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2004,0.00013186106721251332,0.00021961998508307148,0.00004410214934195516
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2005,0.0001279400616729011,0.0002138313855644668,0.0000420487377813354
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2006,0.0001103153112850066,0.00018783161061016596,0.00003279901195984728
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2007,0.00009618061170552344,0.0001660945582710662,0.000026266665139980687
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2008,0.00008449985215691473,0.0001434720435638249,0.000025527660750004564
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2009,0.00007466678486995021,0.00012589978359434814,0.00002343378614555228
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2010,0.00006956219929048449,0.00012708169582788422,0.000012042702753084748
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2011,0.00006180483587216439,0.0001072263652786286,0.000016383306465700198
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2012,0.00005121997950065912,0.00008786509695611023,0.000014574862045207996
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2013,0.000044006458413208365,0.00007761294150326294,0.00001039997532315379
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2014,0.00003481386366203604,0.00006112417986774042,0.000008503547456331661
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2015,0.00003365414785508843,0.00005945576754895719,0.000007852528161219663
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2016,0.00003058529756328372,0.00005374801476880732,0.000007422580357760118
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2017,0.00002778701235121308,0.00004776486013457797,0.000007809164567848192
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2018,0.00002613267415008834,0.00004490424744051819,0.0000073611008596584914
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2019,0.00002418736370894708,0.00004383152835242753,0.000004543199065466629
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2020,0.000023081062812624136,0.00003839763723978742,0.000007764488385460849
+Andorra,1-5 months,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Associated,2021,0.000012314779026263534,0.00002368783889828043,9.41719154246636e-7
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1990,0.0007222112181673943,0.0011084906637506828,0.0003359317725841057
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1991,0.0007497550280681235,0.0011127772594059664,0.00038673279673028064
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1992,0.0008366154698899581,0.0012164061599400657,0.00045682477983985045
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1993,0.0006918396885560259,0.0010042472600751214,0.0003794321170369304
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1994,0.0005454164108170523,0.0008240903688124667,0.0002667424528216379
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1995,0.00048408738641253,0.0007354657718165598,0.00023270900100850025
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1996,0.00043997522953243104,0.0006685220984066404,0.00021142836065822168
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1997,0.00040316449606243567,0.000622241768829548,0.00018408722329532333
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1998,0.0003316721025595681,0.0005105851706210296,0.00015275903449810653
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,1999,0.00028127091877612703,0.0004382956780409938,0.0001242461595112603
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2000,0.0002472067941096413,0.00038481476727193233,0.00010959882094735024
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2001,0.00020762736026542743,0.00031975945833832885,0.00009549526219252608
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2002,0.00016348905724413056,0.0002611824262227819,0.00006579568826547923
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2003,0.0002128566480572571,0.0003301140041528216,0.00009559929196169262
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2004,0.0002476176975429628,0.0003807127129358722,0.0001145226821500534
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2005,0.0002512382703632489,0.0003821787575124966,0.00012029778321400124
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2006,0.0002355768519871207,0.0003547955653809449,0.00011635813859329648
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2007,0.00021714506171465405,0.0003358494696360904,0.00009844065379321764
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2008,0.00019270517161084624,0.0002941801287039347,0.00009123021451775776
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2009,0.0001669848854267983,0.000254324991691598,0.00007964477916199865
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2010,0.00015827946740496417,0.00025191294134167136,0.00006464599346825698
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2011,0.00013869309760239736,0.0002169762879195684,0.0000604099072852263
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2012,0.00013881211838552066,0.00021222821180365197,0.00006539602496738937
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2013,0.0001391839384638938,0.0002153109166679732,0.00006305696025981439
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2014,0.00012816605900514157,0.00020056276070350905,0.00005576935730677412
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2015,0.00012384824739596355,0.00019323407856342977,0.00005446241622849732
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2016,0.00011800004051113586,0.0001817882435425472,0.000054211837479724566
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2017,0.00011188123531355856,0.00017028608337416571,0.00005347638725295141
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2018,0.0001071005339174331,0.0001625687042577926,0.00005163236357707358
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2019,0.0001008495078352869,0.00015729298603052753,0.00004440602964004626
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2020,0.00009375795026422486,0.0001413381566007642,0.00004617774392768552
+Andorra,1-5 months,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Associated,2021,0.00004555087645554953,0.00008201682161716357,0.000009084931293935486
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1990,0,0,0
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1991,0,0,0
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1992,0,0,0
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1993,5.065244331892064e-9,1.824896019794373e-8,7.32825290491508e-10
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1994,8.849394567184215e-9,3.186853369995509e-8,1.309838804010491e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1995,1.230938890637326e-8,3.988568322972389e-8,1.912253158170694e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1996,1.5093211003793188e-8,4.8122241402321135e-8,2.248455735893063e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1997,1.6654010272309232e-8,5.6176154488477583e-8,2.4698540274090156e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1998,1.6568511384914265e-8,5.287076827836245e-8,2.560619107445013e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,1999,1.5397583013882085e-8,4.8827650163220324e-8,2.327713628410871e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2000,1.5108032639284282e-8,4.33005281601486e-8,2.442792830601384e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2001,1.6247324795294286e-8,4.9580276050933984e-8,2.534956382282377e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2002,1.5130508743951546e-8,4.5102595615408e-8,2.437289801571348e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2003,2.278239069725178e-8,6.472846202882767e-8,3.702045367423493e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2004,2.9731379769784563e-8,8.927146939615334e-8,4.740821097785172e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2005,3.5900075759360244e-8,1.019729347351339e-7,5.7093987525828224e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2006,3.675317004012353e-8,1.0915687522460068e-7,5.6431870450588e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2007,3.8073008907560905e-8,1.225995064040759e-7,5.989189208887908e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2008,3.3008516790694866e-8,1.0391654734898804e-7,5.499510066531163e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2009,2.5732594844807986e-8,8.751650797250525e-8,4.042883252086177e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2010,2.1038677319894473e-8,6.065016274255646e-8,3.58835316561973e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2011,1.7032940190428374e-8,4.893115013601859e-8,2.795995069340109e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2012,1.4768050301866114e-8,4.530110557600766e-8,2.3289082194698772e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2013,1.2799438960380453e-8,3.59828927075809e-8,2.1107039106518845e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2014,1.120166239113102e-8,3.2991219269203774e-8,1.7905243122314315e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2015,1.1016235475004736e-8,3.18709451925506e-8,1.7449821731817189e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2016,1.0424052092945856e-8,3.1538228582628444e-8,1.548127265511574e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2017,1.0110029551740856e-8,3.1476931684480786e-8,1.4813185549233854e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2018,9.984382881942291e-9,2.9364230589336413e-8,1.5702927254380765e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2019,9.988504689786757e-9,3.6120098938133736e-8,1.4364137824828026e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2020,9.425287005484817e-9,3.0024418214629055e-8,1.457722542668544e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Associated,2021,6.245673156339534e-9,1.9518805798563633e-8,7.649720213663827e-10
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1990,0.0006537134157215832,0.0008871034798750175,0.000420323351568149
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1991,0.0007019191231138344,0.000921814588141165,0.0004820236580865039
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1992,0.0007931708343617684,0.0010408015019095446,0.0005455401668139923
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1993,0.000622551054801974,0.0008318440570151537,0.0004132580525887944
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1994,0.0005312973931238292,0.0007252491532432677,0.0003373456330043908
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1995,0.0004784341350323984,0.0006470258153015256,0.0003098424547632713
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1996,0.0004225848938872511,0.0005853309025012781,0.0002598388852732239
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1997,0.0003703238220830812,0.0005208814480058862,0.00021976619616027624
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1998,0.000324997127186386,0.0004426985765440453,0.00020729567782872671
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,1999,0.0002579752208475089,0.00036212453274193023,0.00015382590895308764
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2000,0.0002149605770278349,0.00030334092194116906,0.00012658023211450077
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2001,0.00017123748597993227,0.0002393221004454664,0.00010315287151439816
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2002,0.00012135614566452024,0.00017379383588772852,0.00006891845544131195
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2003,0.00015918502500370977,0.0002226656371301453,0.00009570441287727422
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2004,0.00018490928732028863,0.00025128180811227486,0.00011853676652830244
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2005,0.0001936674584950032,0.00025999308653189626,0.00012734183045811016
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2006,0.000179142529153048,0.00023925790570063265,0.0001190271526054634
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2007,0.00018395192844325952,0.0002496331105178647,0.00011827074636865434
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2008,0.00015118045282544468,0.0002027145109254886,0.00009964639472540076
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2009,0.00013988973271076568,0.00019035157971999413,0.00008942788570153723
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2010,0.0001109917354158727,0.0001549857342498558,0.00006699773658188958
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2011,0.0001027339857880042,0.0001425236260486612,0.00006294434552734724
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2012,0.0001135081841614432,0.00015582528742928126,0.00007119108089360517
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2013,0.0001030483921595602,0.00014322939461131832,0.00006286738970780209
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2014,0.00011587597846417764,0.00016152158499836003,0.00007023037192999528
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2015,0.00010654792094212288,0.00014847913056644895,0.00006461671131779681
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2016,0.0000965135343454753,0.00013263446317143525,0.00006039260551951536
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2017,0.0000715798139759229,0.00009866050868913776,0.000044499119262708056
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2018,0.00006908064853885915,0.00009522985881986216,0.00004293143825785615
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2019,0.00007705949541365699,0.0001074842549064414,0.00004663473592087258
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2020,0.00006946259572397554,0.00009493126911995412,0.00004399392232799696
+Andorra,1-5 months,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Associated,2021,0.00003078881699101827,0.0000542364035717329,0.000007341230410303643
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1990,0.006539853175233446,0.009908582050101294,0.0031711243003655987
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1991,0.006597510838278607,0.00971293647315508,0.003482085203402136
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1992,0.007669587160354733,0.011255649999646627,0.004083524321062838
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1993,0.006073902659931503,0.008921534468938857,0.003226270850924149
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1994,0.00486612501802774,0.0074103582171538415,0.002321891818901638
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1995,0.003970989993403647,0.006086357047486349,0.0018556229393209456
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1996,0.0037251916264394026,0.005737700179875977,0.0017126830730028286
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1997,0.00384921834898523,0.005993533863443193,0.001704902834527267
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1998,0.004111488951445743,0.0062898740870717465,0.00193310381581974
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,1999,0.0035241322475424632,0.005506541607924128,0.001541722887160798
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2000,0.003416773156358826,0.0053364937337346905,0.0014970525789829616
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2001,0.002750399268604504,0.004269468904043086,0.001231329633165922
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2002,0.002266708361984396,0.003632683721499109,0.0009007330024696826
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2003,0.003189222901181033,0.004958312799859699,0.001420133002502368
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2004,0.004568883039501455,0.006927740199064872,0.0022100258799380387
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2005,0.004771345515714659,0.007168422987549834,0.0023742680438794844
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2006,0.005062093805505983,0.007468471841736929,0.002655715769275037
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2007,0.004675065414217153,0.007048692164904024,0.0023014386635302813
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2008,0.004014394316206773,0.0059549955249731295,0.002073793107440416
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2009,0.0032657141960247874,0.004854557856364518,0.0016768705356850569
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2010,0.002820107906466986,0.004322675512064451,0.001317540300869522
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2011,0.0023255818334950145,0.003466268930769618,0.0011848947362204112
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2012,0.0018016394793180096,0.002647476271637171,0.0009558026869988484
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2013,0.0014423694110792325,0.002142668954143052,0.0007420698680154138
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2014,0.0012992275007018951,0.0019270917996193552,0.000671363201784435
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2015,0.0011052104309631876,0.0016398398549390411,0.000570581006987334
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2016,0.0009556551016472322,0.0014064600977918523,0.0005048501055026121
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2017,0.0008521482377931055,0.0012409532853589278,0.0004633431902272831
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2018,0.0007418292359800563,0.001084062283180152,0.0003995961887799608
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2019,0.0006301726508052247,0.0009450956016815906,0.0003152496999288589
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2020,0.0005291247670363274,0.0007682333824796697,0.0002900161515929852
+Andorra,1-5 months,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Associated,2021,0.00022963145317019584,0.0004146959307467794,0.00004456697559361222
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1990,0.003964891582191521,0.00771351830992603,0.00021626485445701152
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1991,0.004204270223091748,0.007983797213070222,0.0004247432331132726
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1992,0.004760869079003005,0.00893017645531918,0.0005915617026868297
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1993,0.003954654068649361,0.007122084029836634,0.000787224107462087
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1994,0.003736562955718973,0.007074580458649284,0.0003985454527886626
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1995,0.00353311696819969,0.006648562535629721,0.000417671400769658
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1996,0.003381939133786392,0.006253636488877794,0.000510241778694989
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1997,0.003225923943459656,0.005929104217534224,0.0005227436693850864
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1998,0.002943593695924849,0.005590549575925331,0.00029663781592436603
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,1999,0.0027134623754554747,0.00512480716968294,0.0003021175812280099
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2000,0.002540634876699216,0.004710267188957671,0.0003710025644407607
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2001,0.002376203388284777,0.0043219258163223456,0.0004304809602472086
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2002,0.0020014067838052124,0.0037701626890939656,0.00023265087851645928
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2003,0.002818788628961486,0.005187449502268607,0.0004501277556543657
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2004,0.0034221445030272785,0.006243787452598338,0.0006005015534562195
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2005,0.003763152439338181,0.006797942259145784,0.0007283626195305776
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2006,0.003617327351917745,0.006558721477112244,0.0006759332267232466
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2007,0.0035281388016192745,0.006569467993053413,0.0004868096101851359
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2008,0.0032587641130596865,0.005912472716042111,0.0006050555100772623
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2009,0.00287917587843532,0.005213079651801034,0.0005452721050696057
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2010,0.002528464056022579,0.0048566843871195725,0.00020024372492558583
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2011,0.002193032808511676,0.00406535816937478,0.0003207074476485729
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2012,0.00192613016558358,0.003518781452312522,0.0003334788788546372
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2013,0.001697544967530076,0.00313678669266636,0.000258303242393792
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2014,0.0015471690246718598,0.002883887479072965,0.0002104505702707547
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2015,0.0013829610550915728,0.002596216296199486,0.0001697058139836598
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2016,0.0012928099761861456,0.0024063214508346503,0.0001792985015376411
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2017,0.0011332980221475137,0.0020745154971849936,0.00019208054711003343
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2018,0.0010088384055545537,0.001862595281236588,0.00015508152987251918
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2019,0.000977345838885709,0.0018720452209142868,0.00008264645685713136
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2020,0.0008367642276275972,0.0015321076191719782,0.00014142083608321607
+Andorra,1-5 months,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Associated,2021,0.00043433726021784415,0.0008834637391192183,0.0001477171649100697
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1990,3.864025425107438e-7,0.0000013779902430287022,5.970075665794388e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1991,5.095258528323957e-7,0.000001923646760997273,7.66406939870203e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1992,6.55441818118636e-7,0.0000023473619011886016,1.0719714456153956e-7
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1993,5.659821079729748e-7,0.000001895237945501199,8.862712433768938e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1994,4.923339783035724e-7,0.000001676807992252583,7.843199403208e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1995,4.5449280917094667e-7,0.0000014138311467564828,7.49716847968715e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1996,4.154627473520558e-7,0.0000013118977560923448,6.649887110475492e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1997,3.646769387575186e-7,0.0000011913490015638772,5.7262191728186064e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1998,3.0132286344017815e-7,9.4535977488988e-7,4.892791258373808e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,1999,2.394545834442538e-7,7.224444165238603e-7,3.784624888152717e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2000,2.0516600760983082e-7,5.585404482479318e-7,3.485748604369779e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2001,1.95358743523262e-7,5.633357250358885e-7,3.2135271083449573e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2002,1.6324995005425433e-7,4.705288523676488e-7,2.7560403284387943e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2003,2.2280455947106637e-7,6.176092278731484e-7,3.7858211685845335e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2004,2.650216535596776e-7,7.23014609002113e-7,4.407158471275612e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2005,2.943874824281949e-7,8.147074276373686e-7,4.9058480887243443e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2006,2.789026161460774e-7,8.353767841183455e-7,4.432235643859968e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2007,2.685464817539779e-7,8.439264470515514e-7,4.3717527190999146e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2008,2.177106114194121e-7,6.902669177449506e-7,3.6964090189872985e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2009,1.589455053223281e-7,5.045310111353572e-7,2.542672553910302e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2010,1.2220752979571793e-7,3.625746166691644e-7,2.1235889558004163e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2011,9.33337921829108e-8,2.722941291672862e-7,1.5371849522824233e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2012,7.656212716147434e-8,2.417615197720389e-7,1.2158538577977876e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2013,6.302057129084612e-8,1.770780417925473e-7,1.0533015001703073e-8
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2014,5.24027289005568e-8,1.567172626272677e-7,8.419439114821546e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2015,4.905572491070462e-8,1.409662884258666e-7,7.859326820668131e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2016,4.4307177779992044e-8,1.3177435598461025e-7,6.766321961369046e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2017,4.1038489299655316e-8,1.2585253265583284e-7,6.262367551128967e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2018,3.8802160088332464e-8,1.136210197493824e-7,6.160769103197464e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2019,3.719261314366204e-8,1.2240550967853224e-7,5.4022797783008e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2020,3.5101220425818936e-8,1.1089141288915921e-7,5.501770749320004e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Associated,2021,2.3246220420199197e-8,7.416626324133356e-8,2.910384450185318e-9
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1990,0.0002023101534124872,0.0004132839692397339,0.00007554522283978789
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1991,0.0001770785539085691,0.000364454228216795,0.00006664736397922607
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1992,0.000197663014608608,0.00039264395131812055,0.0000026820778990954302
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1993,0.00015979685728983436,0.0002970164506112899,0.000022577263968378783
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1994,0.00013373019227609488,0.0002732263972526627,0.00005205950687267963
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1995,0.00011967118644238952,0.0002387298372688039,6.125356159751566e-7
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1996,0.00010884622167102,0.0002130217327369366,0.000004670710605103441
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1997,0.00009932123863785577,0.0001929859221590013,0.000005656555116710237
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1998,0.00009013032909024776,0.00018164533236128704,0.000033313300831862816
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,1999,0.00008177143645837306,0.00016266663426359345,8.762386531526833e-7
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2000,0.00007532487274941436,0.00014650442938847236,0.000004145316110356351
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2001,0.00006770948943141166,0.0001293985831751999,0.000006020395687623414
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2002,0.00005623939270227833,0.00011113784840743472,0.0000013409369971219452
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2003,0.00007442141859618568,0.00014520111078636827,0.000003641726406003099
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2004,0.00009329602412890956,0.00017914529834926887,0.000007446749908550238
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2005,0.00009216298441796646,0.00017878006198598478,0.000005545906849948123
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2006,0.00011260809086130955,0.00021780393568931523,0.000007412246033303881
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2007,0.0000858325445473728,0.00017297521986527498,0.00003158702398040371
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2008,0.00008235968304560254,0.00015942395646948942,0.000005295409621715666
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2009,0.00007638515783491371,0.0001492823996203708,0.000003487916049456629
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2010,0.00006859596526724023,0.00014484358672952051,0.000023877068999643915
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2011,0.0000678208590618994,0.0001378408198467436,0.00002558667741870993
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2012,0.00006037147016863329,0.00012153926174091772,0.000022101211827099756
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2013,0.00005611631567298504,0.00011523961816074092,0.00002075250848964073
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2014,0.00006946066520676416,0.0001414463564064161,0.00002628140677346887
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2015,0.0000533796348524716,0.00011194316330163453,0.0000194665013990794
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2016,0.00005726168941981152,0.00011860289789657426,0.00002110710373511445
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2017,0.00004850818862192037,0.00009775267599278088,0.00001826972327404209
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2018,0.00005789430205994373,0.00011597606817010136,0.000022527962084009017
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2019,0.000056471105228016495,0.00011954848153011052,0.000021300909846014308
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2020,0.0000650720876098356,0.00012527109790477385,0.000004873077314897356
+Andorra,1-5 months,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Associated,2021,0.00002841826370229787,0.0000628295148013942,0.00000931860244587387
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1990,0.000097544595686924,0.00018299029940996707,0.000012098891963880948
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1991,0.00010350631643555672,0.0001861887634188656,0.000020823869452247812
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1992,0.00012538879208266344,0.00022393664255798863,0.00002684094160733825
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1993,0.00009260283061341532,0.00016103037953183586,0.0000241752816949948
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1994,0.0000781801249429053,0.0001423105311956936,0.000014049718690117036
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1995,0.00005879262490033904,0.00011050980872984412,0.000007075441070833946
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1996,0.00005398505325199397,0.00010044729213483968,0.000007522814369148275
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1997,0.00005524865623217332,0.00010084055020141412,0.000009656762262932506
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1998,0.0000541707047788976,0.00010140612431314752,0.000006935285244647693
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,1999,0.00004564129002898757,0.00008658896324029237,0.000004693616817682763
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2000,0.00004657332353543528,0.00008501538912080554,0.000008131257950065009
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2001,0.0000360764180379778,0.00006417300022132805,0.000007979835854627546
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2002,0.000033950390782714536,0.00006121335785375344,0.000006687423711675635
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2003,0.000053950447469109024,0.00009715623033246593,0.000010744664605752116
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2004,0.00012088302499641295,0.0002030640289914351,0.00003870202100139084
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2005,0.00013825000731606515,0.00022617458917003377,0.00005032542546209655
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2006,0.0001373726627096425,0.00022648146489446903,0.00004826386052481597
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2007,0.00013913889706755036,0.000231013987595905,0.000047263806539195725
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2008,0.0001306646010864966,0.0002158705259689163,0.00004545867620407693
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2009,0.00011611517379399744,0.00019039735585484087,0.000041832991733154016
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2010,0.00010056873606658068,0.00017597379827408223,0.000025163673859079108
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2011,0.00009155042957112643,0.00015075805566838182,0.00003234280347387107
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2012,0.00007977400300124717,0.0001300963592670887,0.00002945164673540564
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2013,0.00007403079425539333,0.0001209944493570812,0.000027067139153705465
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2014,0.00007024292100816826,0.0001133000253034304,0.000027185816712906124
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2015,0.00006441225122714571,0.0001041574786870967,0.00002466702376719472
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2016,0.00006061357701256869,0.00009929207035485768,0.000021935083670279705
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2017,0.00005574513758445639,0.00008864499502626876,0.00002284528014264401
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2018,0.000051797977767462826,0.00008346109403112629,0.00002013486150379937
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2019,0.00004945548842352086,0.00008177727568259244,0.000017133701164449283
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2020,0.000050321401605348574,0.0000779057692172006,0.000022737033993496544
+Andorra,1-5 months,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Associated,2021,0.00003148594759591016,0.00005579129928959218,0.000007180595902228142

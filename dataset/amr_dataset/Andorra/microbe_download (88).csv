@@ -1,0 +1,737 @@
+Location,Age,Sex,Measure,Metric,Pathogen,Antibiotic class,Counterfactual,Year,Value,Upper,Lower
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1990,0.000301847241247,0.0004446717600547,0.0001590227224392
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1991,0.0003647577563151,0.0005403836108833,0.0001891319017468
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1992,0.0003962510361507619,0.0005784889843301255,0.00021401308797139827
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1993,0.0004996210060346,0.0007427219618328,0.0002565200502363
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1994,0.0006641859869152,0.0009830103928636,0.0003453615809668
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1995,0.0009802466259253,0.0014818235709793,0.0004786696808712
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1996,0.0016418613033536,0.0024374526040257,0.0008462700026816
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1997,0.0021953380441078,0.0032996376933053,0.0010910383949104
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1998,0.0025735108448662,0.0038017777183165,0.0013452439714159
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1999,0.002940051095888897,0.004436801096143975,0.0014433010956338202
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2000,0.003454719299983004,0.00514978985418016,0.0017596487457858482
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2001,0.00401656759867195,0.0059677075683379575,0.002065427629005943
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2002,0.004733550828022863,0.0071037167390400205,0.0023633849170057062
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2003,0.005311506342347151,0.007954755949979578,0.002668256734714723
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2004,0.005668914056784297,0.00855418783941888,0.002783640274149713
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2005,0.0057664171898713775,0.008789909405135469,0.002742924974607287
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2006,0.006972937003870709,0.010580557980670386,0.003365316027071032
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2007,0.007774788563717777,0.011493188790906567,0.004056388336528987
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2008,0.00817593881073203,0.012304142327151067,0.004047735294312993
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2009,0.008981480033820427,0.0135649585363475,0.004398001531293355
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2010,0.008388291630935504,0.012787465249802038,0.003989118012068972
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2011,0.0096005747272285,0.0143792773154546,0.004821872139002401
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2012,0.00914971822427817,0.013858319207156586,0.004441117241399754
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2013,0.00975667057500828,0.014746512135770422,0.004766829014246136
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2014,0.010453762456228763,0.015711102032479985,0.005196422879977542
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2015,0.011272236130666852,0.01680260297331841,0.005741869288015295
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2016,0.011587290351534992,0.017178740196172815,0.005995840506897168
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2017,0.011658344694007889,0.01747434914538684,0.005842340242628934
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2018,0.011215863297241384,0.01669535181583473,0.005736374778648038
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2019,0.01117851298514927,0.016929420278707516,0.005427605691591024
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2020,0.008772064522335483,0.01369838465475978,0.003845744389911188
+Andorra,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2021,0.008672822367264818,0.013590601037242613,0.003755043697287024
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1990,0.0001338753604199,0.0001956511426063,0.00007209957823354221
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1991,0.0001496060551029,0.0002221972334988,0.0000770148767070929
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1992,0.00017528365848908174,0.0002555687321176706,0.00009499858486049284
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1993,0.0002152730539942,0.0003214028625836,0.0001091432454048
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1994,0.0002880549306085,0.0004173917967369,0.0001587180644801
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1995,0.0004152353903397,0.0005992487476551,0.0002312220330244
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1996,0.0007782565539078,0.0011044820154315,0.0004520310923841
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1997,0.0009313152951311,0.001341004672111,0.0005216259181512
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1998,0.0006365480370095,0.0008664756929236,0.0004066203810954
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1999,0.0006770612616807819,0.0009372656367801676,0.0004168568865813961
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2000,0.0007744724597060431,0.0010600278072798526,0.0004889171121322335
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2001,0.0008456565214958696,0.00117110420391014,0.000520208839081599
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2002,0.0009436740266956526,0.0013118533661599164,0.0005754946872313887
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2003,0.0010440803659053771,0.0014584715876536675,0.0006296891441570866
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2004,0.001136069943210319,0.0015836421114137269,0.0006884977750069113
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2005,0.0011401330156823697,0.0016082442348752056,0.0006720217964895333
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2006,0.0011990177842623431,0.0017036106256186718,0.0006944249429060144
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2007,0.0012467393342742888,0.001725545608913318,0.0007679330596352597
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2008,0.0013123629405924343,0.00183848566605929,0.0007862402151255791
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2009,0.0014456802346431731,0.002059673407200823,0.0008316870620855238
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2010,0.0015219501196283708,0.002185087569626745,0.0008588126696299964
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2011,0.0015581785386142985,0.0022373136195276934,0.0008790434577009035
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2012,0.0015815886709345125,0.0022920837925811395,0.0008710935492878856
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2013,0.0016493483463013911,0.0024036102312407523,0.0008950864613620299
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2014,0.0017783254257188316,0.002582492755107322,0.0009741580963303404
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2015,0.0019092330563721183,0.0027681223457531818,0.001050343766991055
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2016,0.0021898007044185677,0.003174034239559595,0.0012055671692775395
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2017,0.002518220218464714,0.003632773258140695,0.0014036671787887329
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2018,0.0027528898966528597,0.003936023582582616,0.0015697562107231029
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2019,0.0028591846122443115,0.004132518962498395,0.0015858502619902277
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2020,0.0023945817060775825,0.003568177984482012,0.001220985427673153
+Andorra,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2021,0.002217978540426216,0.0033466600955750856,0.001089296985277347
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1990,0.00029967061211,0.0006298442031487,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1991,0.0003106344236874,0.000639519820041,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1992,0.00036340930550087896,0.0007469091652147785,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1993,0.0004454623306802,0.0009036714558797,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1994,0.0006847544526483,0.0013727280019057,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1995,0.0009415748506507,0.0019034249490127,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1996,0.0017977092447608,0.0035813588160308,0.000014059673490735697
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1997,0.0022285248583053,0.0044935378242441,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1998,0.0026200983054851,0.0052408221260344,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1999,0.0028700281787687795,0.005761215636298325,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2000,0.003823428684394848,0.007599101176711684,0.00004775619207801141
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2001,0.00421363613904738,0.008433900403163944,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2002,0.004230436094952151,0.008484028594006187,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2003,0.005287546912094277,0.010615916162076706,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2004,0.005814920955023026,0.011660211363672346,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2005,0.005973313171792552,0.011942508834267736,0.000004117509317367457
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2006,0.006879953312086259,0.013630419532386391,0.00012948709178612402
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2007,0.006945345916567979,0.013646590107184563,0.00024410172595139368
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2008,0.00817671904857242,0.01626883804786399,0.00008460004928084568
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2009,0.00924850219484642,0.018439041600500493,0.000057962789192346834
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2010,0.009271232119135312,0.01907812984564257,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2011,0.010786658752868048,0.021993082693291022,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2012,0.010726719224563183,0.022401398897377592,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2013,0.010620302939862745,0.02233844521059128,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2014,0.012752919307438533,0.02681681732177883,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2015,0.013940376800517304,0.02987486453632799,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2016,0.015152143769390256,0.032301925220180244,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2017,0.01720266277741228,0.03627882634696546,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2018,0.01751259639899199,0.03665663381368257,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2019,0.016785142125232824,0.03577919549230003,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2020,0.01512075304977811,0.03213604121387817,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2021,0.015422135151255026,0.0333344152598925,0
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1990,0.0001665064872678,0.0002217151981147,0.0001112977764209
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1991,0.0002201205052098,0.0002976501561836,0.0001425908542359
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1992,0.0001765361831873217,0.0002348470982205992,0.00011822526815404426
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1993,0.000199201717056,0.0002733814162798,0.0001250220178322
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1994,0.0002751909976279,0.0003744248863665,0.0001759571088894
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1995,0.0003874397092735,0.0005299763742239,0.000244903044323
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1996,0.0008032872117983,0.0010964690988861,0.0005101053247104
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1997,0.0009851018892441,0.0013526754257984,0.0006175283526899
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1998,0.0011381752437819,0.0015536725772669,0.0007226779102968
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1999,0.0013771883804707425,0.0019158915930283969,0.0008384851679130879
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2000,0.0018585500849306656,0.0025453132030070678,0.001171786966854264
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2001,0.001940752416697684,0.0026738562989313854,0.001207648534463982
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2002,0.0023118463456320527,0.0031958990494804383,0.001427793641783667
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2003,0.0026728657625875105,0.003692856472475235,0.0016528750526997858
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2004,0.003100533907526442,0.004307176825497311,0.001893890989555573
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2005,0.003175063011895524,0.004441819979512171,0.001908306044278878
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2006,0.0030692303366766337,0.004319118355337971,0.001819342318015296
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2007,0.0032057775270609595,0.004443875115557376,0.001967679938564543
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2008,0.004038398552467678,0.005661975456009933,0.002414821648925423
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2009,0.004213413354509521,0.005911416663464885,0.0025154100455541564
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2010,0.0041200659154648645,0.005781606174914192,0.002458525656015537
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2011,0.008810633608151212,0.012002167792064228,0.005619099424238196
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2012,0.009208207569146708,0.01256547009437316,0.005850945043920253
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2013,0.010122693442746664,0.013894347665739626,0.006351039219753699
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2014,0.005807760066863945,0.00812210021998409,0.0034934199137438
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2015,0.011464892231838062,0.015745501150953953,0.00718428331272217
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2016,0.007566917769670636,0.010503864149412751,0.004629971389928519
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2017,0.008349743483106267,0.011612688350456727,0.005086798615755806
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2018,0.008391880671039003,0.011535197246082525,0.005248564095995481
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2019,0.008493105427173568,0.011863241747135428,0.00512296910721171
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2020,0.006895680077399127,0.009873499696985134,0.00391786045781312
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2021,0.007131400849626308,0.010258157972268834,0.004004643726983783
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1990,0.0004965786133129,0.0007400750980715,0.0002530821285542
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1991,0.0005456368310087,0.0008241663459579,0.0002671073160594
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1992,0.0006479355011300828,0.000958480888647605,0.0003373901136125608
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1993,0.0006823760099361,0.0010471855814743,0.0003175664383979
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1994,0.0010119514904534,0.0015368417008199,0.0004870612800869
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1995,0.001584306161863,0.0024428710005067,0.0007257413232194
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1996,0.0029655432759546,0.0044804254913803,0.001450661060529
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1997,0.0035554009218146,0.0055051015357323,0.0016057003078969
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1998,0.0025649206665469,0.0040397288960009,0.0010901124370929
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1999,0.0029351467539085194,0.004746612697527599,0.0011236808102894403
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2000,0.0031576961644481285,0.005078597651556103,0.0012367946773401538
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2001,0.00229849861422964,0.003813319531333602,0.0007836776971256773
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2002,0.0027842543724794777,0.00464930216572557,0.000919206579233386
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2003,0.0031023388222853592,0.005210038288169248,0.0009946393564014705
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2004,0.0037877204849778383,0.006337168469437652,0.001238272500518025
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2005,0.003969545546968437,0.006726645473695177,0.0012124456202416971
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2006,0.005963142198878033,0.009982180903446748,0.0019441034943093191
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2007,0.007898449045765187,0.01272181225945512,0.003075085832075255
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2008,0.006305887772966503,0.010558977516786746,0.002052798029146259
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2009,0.007321501041642439,0.01231744807608493,0.002325554007199948
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2010,0.006749361571061379,0.011445516085253748,0.00205320705686901
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2011,0.007747428250709126,0.012993931197684142,0.00250092530373411
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2012,0.008697198884866301,0.014574567374984238,0.0028198303947483657
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2013,0.008454711590073142,0.014336866447128413,0.0025725567330178705
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2014,0.01280202317150774,0.021213257325836146,0.004390789017179335
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2015,0.01410573415545096,0.02316383660697161,0.005047631703930305
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2016,0.015997924472478966,0.02615572483201509,0.005840124112942836
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2017,0.02000560024723053,0.032479831119718264,0.007531369374742787
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2018,0.01973401298207902,0.03181581221521307,0.007652213748944973
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2019,0.020483526272796773,0.03379800263401485,0.007169049911578698
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2020,0.017018878200420702,0.02899085447218023,0.005046901928661175
+Andorra,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2021,0.018003542210260255,0.03086891838427724,0.005138166036243268
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1990,2.1743155462615985e-7,6.525280657605983e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1991,2.5459212314405784e-7,7.654817327762296e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1992,3.010950542792327e-7,9.074640982656512e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1993,3.875298085215942e-7,0.000001170815580615642,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1994,5.430823044212153e-7,0.0000016294452235850495,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1995,8.457580603172698e-7,0.000002515803582100057,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1996,0.000001646566736214074,0.000004947381639651263,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1997,0.000002130555018201803,0.000006430317835587308,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1998,0.000002028754117031414,0.000006092283553423472,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1999,0.000002219272844323222,0.000006772932775324383,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2000,0.0000026131366957597706,0.00000792142251501912,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2001,0.0000026982773857570006,0.000008437903597568474,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2002,0.000003248432740571024,0.000010202379399922247,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2003,0.000003991389898820476,0.000012417225594188968,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2004,0.000004508128341560717,0.000014128845527876888,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2005,0.000004631648435111763,0.000014747334132518875,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2006,0.0000050693990332225455,0.000016253709899535462,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2007,0.000005624530780567127,0.00001829750060666294,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2008,0.000006189302980583642,0.00002032911955086466,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2009,0.000006902190536131515,0.00002240912199961192,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2010,0.000007091354289162989,0.000023294520168610534,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2011,0.0000072438708727434734,0.00002382131437658232,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2012,0.0000074246843385580575,0.00002470729837864922,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2013,0.000007735728930955397,0.000025830989149140375,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2014,0.00000890251688389626,0.00002937171144729569,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2015,0.00000953832737269334,0.000031877689813321535,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2016,0.000010231883298848089,0.00003382757227401819,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2017,0.000011892166826561768,0.00003876529042048901,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2018,0.000012297818904307848,0.00003932672958139346,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2019,0.00001298655234791051,0.000041823971582554335,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2020,0.00001272899570395315,0.00004094172058419779,0
+Andorra,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2021,0.00001540607716680413,0.000049280071088677495,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1990,9.004777831095868e-11,2.3105296043590244e-10,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1991,1.164922145803639e-10,2.98943949087641e-10,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1992,1.6838066679566e-10,4.3038695972295224e-10,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1993,2.925998907106196e-10,7.446588175007098e-10,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1994,5.587005118761888e-10,1.4191467569290653e-9,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1995,1.260049238906817e-9,3.190478834861978e-9,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1996,2.994157166094317e-9,7.585820804235542e-9,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1997,4.10873181012412e-9,1.034723942525244e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1998,4.451415602473769e-9,1.1211695171306741e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1999,5.381813702710866e-9,1.35938248855761e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2000,6.2783188176347e-9,1.5974676818895927e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2001,6.989439231772548e-9,1.7769960343108013e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2002,7.954747997608543e-9,2.0248770181197213e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2003,1.1016691890997116e-8,2.8084806487647443e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2004,1.2325689648567846e-8,3.100657702223523e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2005,1.2653056751865233e-8,3.198620744161058e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2006,1.268588753537202e-8,3.22314969240336e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2007,1.4464186829938252e-8,3.7111403601923873e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2008,1.6850583347940663e-8,4.325751295248032e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2009,1.7478333990937614e-8,4.4971456323496003e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2010,1.5553841661633347e-8,3.9937460977023305e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2011,1.3618624277652042e-8,3.4946725653341033e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2012,1.4806907407456378e-8,3.8109460254983845e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2013,1.5153569205149344e-8,3.8496234337786275e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2014,2.2090352027329903e-8,5.582511492994949e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2015,1.7343007244723122e-8,4.3197491536168984e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2016,2.0042705190651183e-8,4.9599078552713924e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2017,2.33320476507792e-8,5.75207228464792e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2018,2.448752277475573e-8,6.074760373568685e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2019,2.519324804960936e-8,6.401277356059278e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2020,1.889102905123641e-8,4.81417478175724e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2021,1.8478228977034083e-8,4.7749886485269143e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1990,5.598870145369151e-8,1.3726764525559e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1991,6.453556863323656e-8,1.587480702775219e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1992,7.516984115125963e-8,1.865984494466832e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1993,8.81151444855994e-8,2.1211598798826645e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1994,1.1756890793500577e-7,2.80601656089427e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1995,1.7882748799635685e-7,4.219994167956133e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1996,3.449569384350048e-7,8.160177137030914e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1997,4.084433866296127e-7,9.605908810334716e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1998,4.387691040127985e-7,0.000001050492890046552,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1999,5.227625334451218e-7,0.000001281417592628146,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2000,6.126550683733646e-7,0.0000014712455775338582,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2001,6.878186076526536e-7,0.0000017657728733365095,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2002,7.724182173024019e-7,0.000001983480030613237,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2003,9.110058889104436e-7,0.0000024922888242540345,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2004,0.000001009844997251093,0.000002789903690351308,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2005,0.000001066654472454278,0.0000030778053279623437,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2006,0.0000011257123581335657,0.000003197086584299607,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2007,0.000001260045950901167,0.000003634261452144517,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2008,0.000001362394451056666,0.0000039463294360284885,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2009,0.0000015218121649571329,0.000004124067947374485,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2010,0.0000014918626456565515,0.000004070388780825491,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2011,0.0000014883184199842953,0.000003959460504797187,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2012,0.0000016269670704491185,0.000004432521270731057,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2013,0.000001867756383758549,0.000004915898965121412,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2014,0.000002224226100316412,0.0000058012662299174485,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2015,0.000002388960955028895,0.000006273751482388148,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2016,0.0000027297311178599646,0.0000072024788947084736,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2017,0.000003146867465184558,0.00000826859772348854,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2018,0.0000032402081172622207,0.00000841548149507768,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2019,0.000003445976923957605,0.0000090221726485352,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2020,0.000002869485706631472,0.000007393614436860908,0
+Andorra,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2021,0.000003061192884928346,0.000008072294896879756,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1990,3.5137121803917805e-7,0.0000014106229993443369,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1991,4.833908334348237e-7,0.000001861900372202069,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1992,5.813632130689772e-7,0.0000020839152145957687,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1993,6.907980983824126e-7,0.000002204377871411104,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1994,7.642081556590902e-7,0.000002352500702364015,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1995,8.87293419847334e-7,0.000002623519949144484,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1996,0.0000013976539382442938,0.0000040689115665536935,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1997,0.0000015229467090227617,0.000004366737934423532,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1998,0.0000015398409306797046,0.000004420466785001202,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1999,0.0000017068195285271785,0.000004971671557702093,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2000,0.000001963023331327058,0.000005590455443749713,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2001,0.0000025284328497146098,0.000007157168804645295,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2002,0.000003372230002058645,0.000009254990952829729,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2003,0.000004205598655703103,0.000011434720733989186,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2004,0.00000520861929909371,0.000014837970855694888,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2005,0.000005852430059139993,0.00001819193184382282,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2006,0.000006504873140209068,0.00001914991015904724,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2007,0.0000070463903495898725,0.0000210842065387174,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2008,0.000007256712887496879,0.000021399791554586084,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2009,0.000007947027127406133,0.000023379407154917014,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2010,0.000007926385744806358,0.00002395177978078825,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2011,0.000007617875846420829,0.000023206759948701903,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2012,0.000007316363823678485,0.000022549835407602986,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2013,0.000007276198996512007,0.00002297029610421997,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2014,0.000007239068585826824,0.000025356618805113547,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2015,0.000007625703424517196,0.00002806935472331205,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2016,0.000008038177167984671,0.000029944787605429067,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2017,0.00000896251879802296,0.000033517558726641015,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2018,0.00000928874947701564,0.00003571554561783333,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2019,0.000009506116682012814,0.00003675778901299212,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2020,0.00000993812142229019,0.000040778509896207005,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2021,0.000010759648900623776,0.00004696593029463182,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1990,0.00000903408142676642,0.000019898409079446043,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1991,0.000009835029213836713,0.000021659311990024965,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1992,0.000011044815427035944,0.00002449581531447545,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1993,0.000012788494297386518,0.00002869296779369434,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1994,0.000016979753446737968,0.00003788799078199853,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1995,0.000026325596326296542,0.00005898523224470489,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1996,0.00004841234550152669,0.0001068999817365,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1997,0.00005765104250072777,0.000129391678902,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1998,0.00006407036862063152,0.0001417327035647,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1999,0.00007832213476402982,0.00017432968066988813,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2000,0.00009353672423513772,0.00020408914372165225,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2001,0.00012317789012841762,0.00025878718540682023,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2002,0.00014382100995842452,0.00030097432553664774,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2003,0.00014738670345497588,0.000311481483257528,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2004,0.00016509970265608413,0.0003421908739288473,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2005,0.0001786427857303418,0.000366557179359043,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2006,0.00018347551883843963,0.0003739547144014179,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2007,0.00020546157327349404,0.0004049120032888725,0.000006011143258115542
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2008,0.00022747700946636507,0.00044923432856350856,0.000005719690369221592
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2009,0.00025188294736880096,0.0005033401375245162,4.257572130856604e-7
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2010,0.0002679728005741507,0.0005425843683711893,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2011,0.00025196088357735654,0.0005155380332395505,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2012,0.0002839158718656268,0.0005801194389966677,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2013,0.00030805879658532163,0.0006308946172182188,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2014,0.0003203889118118797,0.0006552530910826128,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2015,0.0003539643773585462,0.0007337396913571322,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2016,0.00040626633888060594,0.0008289708012068399,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2017,0.0004464364025144988,0.0009061468889811256,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2018,0.0004299828327254039,0.0008683552767708223,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2019,0.0004276466396801668,0.0008826147420861767,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2020,0.0003518393742352587,0.000731887646727731,0
+Andorra,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2021,0.00036865410220374416,0.0007643620712927163,0
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1990,0.0002070882479531,0.0003338628142349,0.00008031368167144573
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1991,0.0002440404394348,0.0003967171409184,0.00009136373795131364
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1992,0.0002600072013809553,0.00042113284017398784,0.00009888156258792284
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1993,0.0002859470371322,0.0004685859964054,0.000103308077859
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1994,0.0004114899321292,0.0006755283707005,0.0001474514935578
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1995,0.0005766675829329,0.0009660481039693,0.0001872870618964
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1996,0.0010728887554568,0.0017925303111658,0.0003532471997478
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1997,0.0013042224121097,0.0022027750540764,0.000405669770143
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1998,0.0014450631954202,0.0024041156949881,0.0004860106958523
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1999,0.0016294974662562445,0.002770615424596362,0.0004883795079161266
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2000,0.0023263259806521283,0.003891719210193097,0.00076093275111116
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2001,0.002402420432268273,0.004056238015846545,0.000748602848690001
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2002,0.003157912359394179,0.005305632332983869,0.0010101923858044889
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2003,0.0036264017295974536,0.006084358290054021,0.001168445169140886
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2004,0.004135848255864257,0.0069655738549635575,0.0013061226567649565
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2005,0.004164330260126427,0.007051048759950825,0.001277611760302029
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2006,0.005069191104801444,0.008276259888651926,0.0018621223209509632
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2007,0.0055906976128430215,0.009100142536217689,0.002081252689468356
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2008,0.00608643894899728,0.00996199607602538,0.002210881821969179
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2009,0.006213086663539792,0.010273952302743371,0.0021522210243362138
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2010,0.00765675964325785,0.01255750502177077,0.0027560142647449293
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2011,0.008841985903870638,0.014062628153846892,0.003621343653894384
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2012,0.009131073831318203,0.014739556823169664,0.0035225908394667434
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2013,0.009994292709810382,0.016016108594549987,0.003972476825070777
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2014,0.009863888306466994,0.015986866296886084,0.003740910316047903
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2015,0.01064928094218271,0.017413023762960132,0.003885538121405288
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2016,0.012029462588314818,0.01920213040429512,0.004856794772334518
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2017,0.012464621238497188,0.020079765248212963,0.0048494772287814136
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2018,0.013380513271192806,0.021379573999381,0.005381452543004614
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2019,0.013328437022319894,0.021920891790213597,0.004735982254426197
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2020,0.010948221600175369,0.01826233957506322,0.003634103625287516
+Andorra,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2021,0.01261122804472312,0.02127721012301921,0.003945245966427025
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1990,0.0001868802343069,0.0002838254481718,0.0000899350204420793
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1991,0.0001909935180974,0.0002936211482445,0.00008836588795048988
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1992,0.0001665608712277082,0.00026185109159941296,0.00007127065085600341
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1993,0.000178874800988,0.0002895487451549,0.00006820085682109472
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1994,0.0001903080201778,0.0003124903473639,0.00006812569299178826
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1995,0.000263016918224,0.0004347014323879,0.00009133240406016908
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1996,0.0003090166233825,0.0005069413636649,0.0001110918831
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1997,0.0004039629862612,0.0006675520554644,0.000140373917058
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1998,0.0004423156768338,0.0007205417426887,0.000164089610979
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1999,0.0005370231245912537,0.0008901058493827113,0.00018394039979979625
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2000,0.0006285739087712574,0.0010254528151512365,0.00023169500239127817
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2001,0.000877349432256469,0.001413420575291907,0.000341278289221031
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2002,0.00118498760509828,0.0019177787769884412,0.00045219643320811866
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2003,0.0012497721179268737,0.0020043256196488643,0.000495218616204883
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2004,0.0011777445759211815,0.001905515680776084,0.0004499734710662794
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2005,0.001498403159960132,0.002428671241944612,0.0005681350779756519
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2006,0.0018724544199725129,0.0030009985553584896,0.000743910284586536
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2007,0.0037550849524884775,0.005812266315579163,0.0016979035893977925
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2008,0.006160551256939609,0.009201952955260976,0.0031191495586182392
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2009,0.007154600910027341,0.010678647126337388,0.0036305546937172944
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2010,0.0032827445182371097,0.0052465189458901045,0.0013189700905841145
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2011,0.013182913362625694,0.01875536842655072,0.007610458298700671
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2012,0.014474005334264788,0.02050660851025461,0.008441402158274963
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2013,0.015314034362147457,0.021874864176545147,0.008753204547749764
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2014,0.016877410658787742,0.024248552744400034,0.00950626857317545
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2015,0.01552672823978654,0.02229475523976575,0.008758701239807331
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2016,0.019086708348953835,0.027350817005199,0.010822599692708674
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2017,0.021815592115667085,0.031147804747052543,0.012483379484281625
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2018,0.02225823854141333,0.03218438802607669,0.012332089056749974
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2019,0.02228848865617344,0.03252169279045618,0.012055284521890692
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2020,0.01683873141902767,0.025244794414052765,0.008432668424002572
+Andorra,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2021,0.016953107410603855,0.025597513739559444,0.008308701081648264
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1990,0.000006483714947941971,0.000008918329810070501,0.000004049100085813441
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1991,0.000007477906462775208,0.000010325230501273186,0.00000463058242427723
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1992,0.000008732181264181992,0.000011815742143469928,0.000005648620384894059
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1993,0.00001095008133035274,0.000015014404136378877,0.000006885758524326608
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1994,0.00001470065012305297,0.000020432502098888952,0.000008968798147216987
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1995,0.00002275865858631811,0.0000316887257390767,0.000013828591433559518
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1996,0.00004392153927205345,0.00006058975633815592,0.000027253322205950968
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1997,0.00005344941230591057,0.0000740915610989189,0.000032807263512902253
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1998,0.00005889283825366159,0.00008200512926470808,0.0000357805472426151
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1999,0.00007056479790189253,0.00009942635710011773,0.000041703238703667344
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2000,0.00008360294734214348,0.00011650620181507798,0.000050699692869208985
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2001,0.00012405963201887914,0.0001734234558331962,0.00007469580820456209
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2002,0.00014390066056324497,0.0002015029277963625,0.00008629839333012743
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2003,0.0001628728703094861,0.0002265120621955173,0.0000992336784234549
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2004,0.00018162012573518668,0.0002548832442910064,0.00010835700717936694
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2005,0.0001884367409874136,0.0002667527539129542,0.00011012072806187297
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2006,0.00020370696976358435,0.0002849661208644441,0.0001224478186627245
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2007,0.0002192205300472236,0.0003022423838673063,0.0001361986762271409
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2008,0.00023819138572788397,0.0003279765469173734,0.0001484062245383945
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2009,0.0002660636942802998,0.00036938427073796216,0.0001627431178226374
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2010,0.0002849200565530962,0.00039314922502302254,0.00017669088808316987
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2011,0.00028794830635370304,0.00039286239168152376,0.00018303422102588235
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2012,0.00030203217796541013,0.00040880135931422446,0.0001952629966165958
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2013,0.00032997945479233134,0.00045332073117440927,0.0002066381784102534
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2014,0.0003565683987438651,0.00048603277474735976,0.00022710402274037043
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2015,0.00038561003758178186,0.0005312298176271433,0.00023999025753642045
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2016,0.0004232393305961288,0.0005755380033000861,0.0002709406578921715
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2017,0.0004747191288690064,0.0006445594919445026,0.0003048787657935101
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2018,0.00047263559807432537,0.0006470071262383022,0.00029826406991034863
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2019,0.0004752975770228534,0.0006582641344622482,0.0002923310195834586
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2020,0.0003764531001339414,0.0005327198906383274,0.0002201863096295554
+Andorra,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2021,0.0003837995858761363,0.0005460921560608644,0.00022150701569140813
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1990,0.00007202085935117695,0.0001142046042909,0.000029837114411429907
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1991,0.00008298565403450659,0.0001322993561827,0.0000336719518863033
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1992,0.00010494008924481698,0.0001638770807726705,0.00004600309771696345
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1993,0.0001316714867392,0.0002109713831929,0.00005237159028563182
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1994,0.0001872220254918,0.0002961470623995,0.00007829698858418803
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1995,0.000283178776927,0.0004469648332885,0.0001193927205655
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1996,0.0005838124114133,0.0009160217672865,0.0002516030555401
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1997,0.0007351683775378,0.0011549334006085,0.0003154033544671
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1998,0.0006729819550974,0.0010577037244001,0.0002882601857948
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1999,0.0008182601863111846,0.0013081464271905087,0.0003283739454318605
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2000,0.0010639356318300195,0.001682914259232525,0.0004449570044275146
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2001,0.0012325932706887925,0.0019628200850763363,0.0005023664563012485
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2002,0.001815844765847896,0.002844004272562716,0.0007876852591330754
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2003,0.002395000493493762,0.003665929936221035,0.0011240710507664892
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2004,0.0027511169974014926,0.00417537157794646,0.0013268624168565253
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2005,0.0027598676185831934,0.004216181433505231,0.001303553803661156
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2006,0.0030444526882823985,0.004634876307360838,0.0014540290692039595
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2007,0.0032767738683683336,0.004886517732639087,0.0016670300040975811
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2008,0.003425587440876355,0.005180822937268853,0.0016703519444838566
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2009,0.003700665864572282,0.005631037201869969,0.0017702945272745948
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2010,0.003981159243261084,0.006090477510522533,0.001871840975999635
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2011,0.003894541912651159,0.005871926341834603,0.0019171574834677147
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2012,0.003421968056163083,0.005269022621520325,0.0015749134908058411
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2013,0.003129416097009401,0.004875691626623518,0.001383140567395283
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2014,0.0032495514211312126,0.00503839036398297,0.0014607124782794552
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2015,0.003695849417003865,0.005753480671615732,0.001638218162391999
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2016,0.003911651878208743,0.005997243033386635,0.001826060723030852
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2017,0.004321756516714223,0.006596404784639133,0.002047108248789312
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2018,0.004193724455086892,0.006436325890840023,0.001951123019333761
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2019,0.0043784152908326905,0.006781124367751596,0.0019757062139137845
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2020,0.003638094313558663,0.005720653632042074,0.0015555349950752526
+Andorra,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2021,0.003898442190750753,0.00619821219892878,0.0015986721825727258
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1990,0.000003049482243220402,0.000013081903414343502,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1991,0.0000029194692097981115,0.000013641698819255775,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1992,0.0000033062229073036007,0.00001562453907860112,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1993,0.000003933848525556687,0.000018529351463269985,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1994,0.000005335747238801902,0.000024937050200295325,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1995,0.00000811242503622775,0.00003781881125403632,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1996,0.000012938373239413907,0.00005950193370393579,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1997,0.00001582449013858921,0.00007413269211399188,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1998,0.000019229290659347656,0.00008846114970018013,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1999,0.00002175159111652935,0.00010154794220891969,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2000,0.000022783494856472,0.00010774163103760346,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2001,0.00002154960203345154,0.00010147881162872928,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2002,0.000020263287648617852,0.00009892490121401512,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2003,0.000021148175281149497,0.00010446252884476003,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2004,0.0000237861438473499,0.00011768083237282024,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2005,0.000020962014199145013,0.00010520488195523902,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2006,0.00001740231894279472,0.00009159362443954651,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2007,0.000012666248314656555,0.00006594799075769528,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2008,0.000015670850384180026,0.00008919894073790348,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2009,0.000015563101786960587,0.00009299758191225488,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2010,0.00001568426855730738,0.00009861390373701812,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2011,0.000013564315494119972,0.00009282464172799246,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2012,0.000010935518630722443,0.00006240612982475233,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2013,0.000011111487317739,0.00006955464932548043,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2014,0.000010140576500968025,0.00006590686549908928,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2015,0.000008774993763683388,0.00005782860470201588,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2016,0.000009057933405811098,0.0000604725166145093,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2017,0.00000973369718265551,0.00005766257263180721,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2018,0.00000815372556413815,0.00004998338065552719,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2019,0.000008736442250244202,0.00005343584950093796,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2020,0.000006644562022644007,0.00004215786758239301,0
+Andorra,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2021,0.000006252949656926706,0.00004451138890644069,0
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1990,0.0000477645180556453,0.00006919601273398324,0.000026333023377307363
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1991,0.00005402181004251654,0.00007911416483597403,0.00002892945524905905
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1992,0.00006374054763185884,0.00009256371226692082,0.000034917382996796866
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1993,0.00008175375564608555,0.0001209881641664,0.00004251934712574794
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1994,0.0001047231410717,0.0001550192612429,0.0000544270209004749
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1995,0.0001602356650164,0.0002389625098466,0.00008150882018624361
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1996,0.0003101616892298,0.0004540137726849,0.0001663096057747
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1997,0.0003815946523956,0.0005690447588558,0.0001941445459354
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1998,0.000408911602886,0.0006019943828368,0.0002158288229352
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1999,0.00047282434524675767,0.0007000327998243413,0.0002456158906691741
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2000,0.0005456270245601888,0.0008097542387008021,0.00028149981041957547
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2001,0.0005855300539371747,0.000852560567748498,0.00031849954012585146
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2002,0.0006641549325959576,0.0009785716819124813,0.00034973818327943405
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2003,0.0007294261993373461,0.0010767181715389705,0.0003821342271357219
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2004,0.0008013726766065764,0.0011744278156259715,0.0004283175375871813
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2005,0.0007785115301172949,0.0011536461693760964,0.00040337689085849336
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2006,0.0008281479971296689,0.0012408596218103063,0.0004154363724490315
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2007,0.0008464547556755909,0.0012535251718643952,0.00043938433948678647
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2008,0.0008818956515313241,0.0013177544144832723,0.0004460368885793756
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2009,0.0009263074127811784,0.0013785165908267124,0.00047409823473564406
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2010,0.0010452562595013228,0.0015602395463879795,0.0005302729726146661
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2011,0.0010069349106359125,0.0015076132146157606,0.0005062566066560641
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2012,0.0011420595921290834,0.0017031732102327922,0.0005809459740253744
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2013,0.001314430927790052,0.0019603938748829074,0.0006684679806971965
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2014,0.0013900718146414176,0.0020635355975929287,0.0007166080316899064
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2015,0.001561671133113416,0.0022948099979957057,0.0008285322682311265
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2016,0.0016979344621012443,0.0025287280724249784,0.0008671408517775104
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2017,0.001953152211072062,0.002893630384127229,0.0010126740380168944
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2018,0.0020020215377749458,0.0029447145962348,0.0010593284793150922
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2019,0.0020087664995128798,0.002999234430248866,0.0010182985687768925
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2020,0.0016012616477226998,0.002426931311632925,0.000775591983812474
+Andorra,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2021,0.001555168855860933,0.002390050001118993,0.0007202877106028726
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1990,0,0,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1991,0,6.3320502441888575e-12,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1992,0,1.3534976500361306e-11,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1993,1.0443021908689e-8,2.5617316089738163e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1994,1.4774858549505413e-8,4.0405909730475263e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1995,2.0839605046362213e-8,6.15270030803079e-8,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1996,3.9441630022787904e-8,1.1463055890243938e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1997,5.253895213268709e-8,1.4783012992248856e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1998,6.578575459070713e-8,1.8411610894179248e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1999,8.954261459244397e-8,2.468902663638084e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2000,1.2037899890886128e-7,3.2498181479689215e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2001,1.7638977885971766e-7,4.673359604237553e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2002,2.66942527773451e-7,6.909103518825896e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2003,3.6814106967888073e-7,9.467256557909436e-7,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2004,4.890070580627375e-7,0.000001307502696162396,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2005,5.720972100453156e-7,0.0000017096681642435868,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2006,6.610906297568558e-7,0.000002001262556129302,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2007,7.599669042361642e-7,0.0000023375490059872045,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2008,8.392180877501504e-7,0.000002516685327704659,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2009,9.881936606093868e-7,0.000002942399193168387,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2010,0.0000010516330645587608,0.0000031940176903613547,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2011,0.000001063723106406196,0.0000031672801123915224,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2012,0.0000010686608084619283,0.000003144282536631469,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2013,0.0000011097796301557437,0.0000033013459917554514,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2014,0.0000011524408142768038,0.000003555765818881412,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2015,0.0000012700843120182637,0.000004222834538970262,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2016,0.0000013973018082781702,0.000004550487737444928,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2017,0.0000016230525136035268,0.000005270102127657934,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2018,0.0000017434374550663817,0.000005787209717649822,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2019,0.0000018329707254920189,0.000006150775310215927,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2020,0.0000019773234944849043,0.000006976691753079308,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2021,0.000002206557629667666,0.000008252668364342568,0
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1990,0.00001438551465255294,0.000021562544242284003,0.000007208485062821875
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1991,0.000016863452074417527,0.00002535875288772972,0.000008368151261105336
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1992,0.000020084692903298584,0.00003042134548141713,0.000009748040325180034
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1993,0.00002464657260225316,0.0000371571548675876,0.000012135990336918705
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1994,0.00003426963558596559,0.00005110272982940164,0.000017436541342529543
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1995,0.00005339173531806921,0.00008199666884482439,0.000024786801791314023
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1996,0.0001002483856768,0.0001521247388522,0.00004837203250146343
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1997,0.0001181160885023,0.0001770219072855,0.00005921026971903159
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1998,0.0001267973086432,0.0001918081938831,0.0000617864234034155
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1999,0.00013806479825004915,0.000209467385446177,0.00006666221105392131
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2000,0.0001525962814568476,0.0002263505959916567,0.00007884196692203849
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2001,0.00015469306470595768,0.000233488770814389,0.00007589735859752637
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2002,0.00016109453409736632,0.0002447559495143902,0.00007743311868034244
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2003,0.00017979899802798158,0.0002736159055471011,0.00008598209050886203
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2004,0.00019855849850146636,0.00030601819885701405,0.00009109879814591862
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2005,0.0001993211580754505,0.0002937751890090426,0.00010486712714185836
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2006,0.00021073547025323043,0.0003123879499296064,0.00010908299057685448
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2007,0.0002450853530356124,0.0003660484901419468,0.00012412221592927793
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2008,0.0002430407030317065,0.00036763454619028873,0.00011844685987312428
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2009,0.0002856929941274143,0.0004273013801542033,0.00014408460810062525
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2010,0.0002799342743947682,0.00041554305784966493,0.0001443254909398714
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2011,0.0002997226194863342,0.0004498251291454689,0.00014962010982719944
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2012,0.0003904410751851864,0.0005876233673959699,0.0001932587829744028
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2013,0.0004170151552692116,0.0006096645745880183,0.0002243657359504048
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2014,0.0005384591108653599,0.0008182997574033944,0.0002586184643273253
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2015,0.000572869445058089,0.0008359144277867724,0.00030982446232940555
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2016,0.0005885920082563453,0.0008700781057951528,0.00030710591071753785
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2017,0.0005265375049669958,0.0007803251601589574,0.0002727498497750343
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2018,0.0005359630862159592,0.0007932992946591531,0.00027862687777276525
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2019,0.0006353677842510714,0.000946551579997338,0.00032418398850480484
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2020,0.0005174191423040193,0.0007894833359971205,0.0002453549486109181
+Andorra,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2021,0.0005193487557447717,0.0007848901812857132,0.0002538073302038301
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1990,0.0001516632032123,0.0002309686968993,0.00007235770952537057
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1991,0.000166425071246,0.0002551953181993,0.00007765482429275746
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1992,0.00020359608100870228,0.00030888567726654976,0.0000983064847508548
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1993,0.0002522202510374,0.0003850990252579,0.0001193414768169
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1994,0.0003289103392451,0.0004981556109838,0.0001596650675064
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1995,0.0004587833389862,0.0007080930037674,0.000209473674205
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1996,0.0009209089022322,0.0014025924546636,0.0004392253498008
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1997,0.0012873495190407,0.0019719228672579,0.0006027761708234
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1998,0.0016890822225521,0.0025633424917692,0.0008148219533351
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1999,0.001921423754527515,0.002922908208324208,0.0009199393007308224
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2000,0.002387875497182753,0.003614619091764903,0.0011611319026006042
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2001,0.002401001476222749,0.003638572213776698,0.0011634307386687995
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2002,0.002858347042480757,0.004320383043575709,0.0013963110413858042
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2003,0.0034072113195375373,0.005168513941543808,0.001645908697531267
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2004,0.004617844500088449,0.00696166149367586,0.002274027506501039
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2005,0.004601850561937843,0.006924728368936428,0.002278972754939258
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2006,0.005547272874914157,0.008353955598073424,0.00274059015175489
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2007,0.005688110441477899,0.008562190551047651,0.002814030331908148
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2008,0.00606901113045822,0.00919800915398658,0.00294001310692986
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2009,0.006694101371693073,0.010063952033172322,0.0033242507102138243
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2010,0.007706611118676378,0.011473547256824337,0.00393967498052842
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2011,0.007883038729382189,0.011761742297047146,0.004004335161717231
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2012,0.007732324493031791,0.011508443806033,0.003956205180030582
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2013,0.007691593558901687,0.011388646280243024,0.00399454083756035
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2014,0.00819034904040999,0.012190169667854987,0.004190528412964989
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2015,0.008111371137874248,0.01201161113457015,0.004211131141178345
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2016,0.008178155718764638,0.012191911573667332,0.004164399863861943
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2017,0.008987128042620716,0.01336039485960668,0.004613861225634754
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2018,0.00832057762308234,0.012368134095796167,0.004273021150368512
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2019,0.007603020670204155,0.01142768397402474,0.00377835736638357
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2020,0.005626457288310081,0.008496307162883748,0.002756607413736415
+Andorra,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2021,0.005157904059758304,0.007911006359003858,0.00240480176051275
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1990,0.0010541032696971,0.0018965925454272,0.0002116139939671
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1991,0.0012144932135909,0.0021566034426158,0.0002723829845659
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1992,0.0014386901903364196,0.002560125968591972,0.00031725441208086736
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1993,0.0018155724842886,0.003241882800296,0.0003892621682812
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1994,0.002757428265653,0.0048120846482716,0.0007027718830343
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1995,0.0043608890989098,0.0077038206319632,0.0010179575658564
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1996,0.0086427130168109,0.0150464834360026,0.0022389425976193
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1997,0.0108567409039943,0.019085461309131,0.0026280204988576
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1998,0.0117525202624726,0.0206464470304266,0.0028585934945185
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1999,0.014295907639805242,0.025131145838142514,0.0034606694414679694
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2000,0.017169498528492522,0.030359072698789732,0.0039799243581953095
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2001,0.02001953068331408,0.035286785843258214,0.0047522755233699344
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2002,0.023919641733708225,0.04208254191129118,0.005756741556125263
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2003,0.028985000567916377,0.05075190775757244,0.007218093378260314
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2004,0.03354943297784721,0.059045266117935175,0.008053599837759249
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2005,0.03564746624441073,0.062349113348741526,0.008945819140079934
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2006,0.03883101570356334,0.06759732858903432,0.01006470281809237
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2007,0.0419310839764724,0.07240611567227559,0.011456052280669208
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2008,0.046554601165031295,0.08131067177884374,0.011798530551218845
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2009,0.05241447024089656,0.0911458092579084,0.01368313122388471
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2010,0.05780239052468157,0.1023909547828094,0.013213826266553728
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2011,0.05955787364876149,0.10505775476524036,0.014057992532282603
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2012,0.06174754346850146,0.11001944273747016,0.013475644199532752
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2013,0.06453208547612369,0.11431239496759606,0.014751775984651314
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2014,0.06869690162175184,0.1223762240808815,0.015017579162622176
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2015,0.07208214229815695,0.12916759348743587,0.014996691108878033
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2016,0.07825630535072789,0.1400266424320901,0.016485968269365686
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2017,0.08401157030786136,0.15031760350263695,0.01770553711308577
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2018,0.08044126199268564,0.1445566566172905,0.016325867368080782
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2019,0.08444709295150107,0.15314725347046806,0.015746932432534083
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2020,0.06288444807504598,0.1150523599290806,0.010716536221011349
+Andorra,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2021,0.06505356384518679,0.12091526785345776,0.009191859836915804
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1990,3.5137121803917805e-7,0.0000014106229993443369,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1991,4.833908334348237e-7,0.0000018618998348552773,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1992,5.813632130689772e-7,0.0000020839139248437606,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1993,6.803550764737237e-7,0.0000021807423667742985,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1994,7.494332971095848e-7,0.000002314975264307568,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1995,8.664538148009718e-7,0.000002566656483556172,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1996,0.0000013582123082215058,0.000003963562887175863,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1997,0.0000014704077568900746,0.000004231056599238956,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1998,0.0000014740551760889974,0.0000042531153277235485,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1999,0.0000016172769139347347,0.0000047485498442681295,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2000,0.000001842644332418197,0.000005307786063998405,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2001,0.000002352043070854892,0.000006747264705381145,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2002,0.000003105287474285194,0.000008654424168516067,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2003,0.000003837457586024221,0.000010613242669821576,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2004,0.000004719612241030973,0.000013674387959639535,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2005,0.000005280332849094678,0.00001664004183755287,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2006,0.000005843782510452212,0.000017368533408388826,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2007,0.000006286423445353709,0.00001898777323931032,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2008,0.000006417494799746729,0.000019124356129125635,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2009,0.000006958833466796746,0.000020717911866151837,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2010,0.000006874752680247599,0.000021051136572039677,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2011,0.000006554152740014633,0.00002028717574064313,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2012,0.000006247703015216557,0.00001962382344356322,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2013,0.000006166419366356262,0.00001988781763606389,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2014,0.00000608662777155002,0.000021949664066600384,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2015,0.0000063556191124989325,0.000023993382433631972,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2016,0.000006640875359706501,0.000025550634217506848,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2017,0.000007339466284419434,0.000028422920287287446,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2018,0.000007545312021949259,0.000030084406482270808,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2019,0.000007673145956520796,0.000030788275201116734,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2020,0.000007960797927805286,0.00003395516010084666,0
+Andorra,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2021,0.000008553091270956109,0.000038874616927414544,0
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1990,0.000018465784216832152,0.00003702086205898799,0
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1991,0.000017353187050377182,0.00003468088448695093,2.5489613803433115e-8
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1992,0.00002041643670973792,0.00004065362418484874,1.7924923462709025e-7
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1993,0.000025077940367840776,0.00004993097089734874,2.2490983833280739e-7
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1994,0.000033792467747649164,0.00006617829687399825,0.0000014066386213000814
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1995,0.000051534112413640176,0.0001014460001976,0.000001622224629628001
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1996,0.0000985093226621552,0.0001911922478012,0.0000058263975230619616
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1997,0.0001185389975195,0.0002333539165843,0.000003724078454645253
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1998,0.0001298612243911,0.000252073703461,0.000007648745321317134
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1999,0.0001558836831170179,0.00030473890214941315,0.00000702846408462258
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2000,0.000185405446708841,0.0003600319200655956,0.000010778973352086455
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2001,0.000206376794597803,0.0004015153566043299,0.000011238232591276076
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2002,0.00024318918406307445,0.0004734720705041813,0.000012906297621967546
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2003,0.00027840510837028693,0.0005451198940366231,0.000011690322703950713
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2004,0.000337940386688254,0.0006598241022407365,0.000016056671135771547
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2005,0.0003249247756908034,0.0006357486972371474,0.000014100854144459496
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2006,0.0004579578644595625,0.000888563700798094,0.00002735202812103108
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2007,0.0003872372105233441,0.0007461519859144517,0.00002832243513223656
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2008,0.00043826716670949234,0.0008540061723996887,0.000022528161019296
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2009,0.0004947272538206172,0.0009722199969515226,0.00001723451068971185
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2010,0.0005221524993847203,0.0010489035326654791,0
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2011,0.0005693085978610245,0.0011488386971464557,0
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2012,0.0005674130525021215,0.0011673352422476883,0
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2013,0.0005907433099558051,0.0012223965874567076,0
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2014,0.0008269723883500386,0.001682012686456377,0
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2015,0.0007135221549485038,0.0014990860655796343,0
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2016,0.0008561178984526598,0.0017755425839322014,0
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2017,0.0008566635740773215,0.001773701591519092,0
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2018,0.0010697516742954392,0.002169477505615671,0
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2019,0.001087410199175468,0.0022463069131122256,0
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2020,0.0010336364939794408,0.002133547250258464,0
+Andorra,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2021,0.0008495504955201816,0.0017941665851187302,0
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1990,0.00008064065619077893,0.0001176115322077,0.0000436697801738011
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1991,0.0000959857143834026,0.0001412775608432,0.00005069386792359687
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1992,0.00011132823221735325,0.00016251364823682287,0.00006014281619788361
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1993,0.0001282892003124,0.0001911875090345,0.00006539089159031794
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1994,0.0001596803169338,0.0002378328537403,0.00008152778012739708
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1995,0.0002338246345665,0.0003492596384544,0.0001183896306785
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1996,0.0004283775987736,0.0006312777166608,0.0002254774808864
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1997,0.0005886561969908,0.0008820427394452,0.0002952696545363
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1998,0.000728296346002,0.0010618380924545,0.0003947545995495
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1999,0.0008550422536863353,0.0012774195511769248,0.0004326649561957458
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2000,0.001085087265028666,0.0015975269366605431,0.0005726475933967884
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2001,0.0011379594822990362,0.0016922156639100627,0.0005837033006880098
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2002,0.0013227242298181254,0.001975681510650375,0.0006697669489858759
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2003,0.001456874412175125,0.002200419141166152,0.0007133296831840983
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2004,0.002633867832276715,0.004017530598146952,0.001250205066406477
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2005,0.0025695588281777005,0.003941179363089563,0.0011979382932658378
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2006,0.003030898466179364,0.00463242014602267,0.0014293767863360588
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2007,0.003327456976689802,0.004943666094470159,0.0017112478589094448
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2008,0.003628951647379261,0.005406731396671081,0.0018511718980874416
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2009,0.004073558340574689,0.006150457674213846,0.001996659006935532
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2010,0.0047662213872370525,0.007175999259781575,0.00235644351469253
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2011,0.004526300504652591,0.006853082546765671,0.0021995184625395107
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2012,0.0047492608054702425,0.00729220772092661,0.002206313890013875
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2013,0.005245933114950457,0.00799287885186013,0.002498987378040784
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2014,0.005847791383369491,0.008714012930775209,0.0029815698359637734
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2015,0.006375289294233767,0.009787606360844915,0.002962972227622617
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2016,0.00697737984683037,0.010454786786815998,0.003499972906844742
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2017,0.0077939950551078035,0.011613877347968888,0.003974112762246719
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2018,0.007742771704150759,0.01149198760643994,0.003993555801861578
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2019,0.007982450858067475,0.011904624620480425,0.004060277095654527
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2020,0.007254295463757901,0.0111594659279187,0.003349124999597103
+Andorra,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2021,0.00831139951682798,0.012760229189459111,0.003862569844196849

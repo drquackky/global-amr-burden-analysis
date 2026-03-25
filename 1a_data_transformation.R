@@ -1,26 +1,29 @@
-
 # =======================================================================
-# YOU CAN SKIP RUNNING THESE CODE BECAUSE THE FILE IS VERY LARGE
-# ALL TRANSFORMED DATA ARE READY TO RUN IN 1B FILE
+# skip to run these codes because the file is very large
+# "final_data_4run.csv" is aggregated dataset ready for the analysis
+# 
+# each csv files contains one of the 4 burden indicator of almost 30 bug-drug combination
+# in each age categories (~23) of 204 countries and territories from 1990-2021
+# 4(indicators) x 30 (bug-drug) x 23 (age group) x 204 x 31 (year) = 17 mil. data rows 
 # =======================================================================
 
 
 
-# =======================================================
+# -----------------------------------------------------------------------
 # 1. IMPORT LIBRARY
-# =======================================================
+# -----------------------------------------------------------------------
 library(dplyr) # for data manipulation
 library(readr) # read_csv() runs faster with larger data files, return tibble, does not convert string to column
 library (ggplot2) # for data visualization
 library (data.table) # rbindlist() run faster with larger data files
 
 
-# =======================================================
+# -----------------------------------------------------------------------
 # 2. LOAD DATASET
-# =======================================================
+# -----------------------------------------------------------------------
 
 # read GBD population estimates data (by country and age group)
-# --------------------------------------------------------------------
+# =======================================================================
 df_popsize <- read.csv("dataset/population_estimates_gbd.csv") %>%
    select(location_id, location_name, age_name, year, val) %>%
    rename(pop_size = val, Age = age_name)
@@ -28,7 +31,8 @@ df_popsize <- read.csv("dataset/population_estimates_gbd.csv") %>%
 
 
 # read AMR Burden Measures data by Age Group and Country
-# --------------------------------------------------------------------
+# =======================================================================
+
 # list all the csv files in the folder to an R object
 # "recursive = TRUE" allows R to search through subfolders
 list_amr <- list.files(path = "dataset/amr_dataset" , pattern = "\\.csv$", 
@@ -45,14 +49,15 @@ df_amr <- lapply(
 
 
 
-# ===============================================================
+
+# -----------------------------------------------------------------------
 # 3. Merge the two datasets and transform variables for analysis
-# ===============================================================
+# -----------------------------------------------------------------------
 
 # Before merging, verify that value in categories match across datasets
 
 # Identify mismatched age labels between AMR and population data
-# -----------------------------------------------------------------------
+# =======================================================================
 setdiff(unique(df_amr$Age), unique(df_popsize$Age))
 
 ## Create a common age label in pop data
@@ -87,7 +92,7 @@ df_popsize <- df_popsize %>%
    )
 
 # Identify mismatched Location between AMR and population data
-# -------------------------------------------------------------------
+# =======================================================================
 # show Location in df_amr_agg that are NOT in df_pop
 setdiff(unique(df_amr$Location), unique(df_popsize$location_name))
 
@@ -98,7 +103,7 @@ df_amr <- df_amr %>%
 
 
 # Join two data on location, age-group and year
-# -------------------------------------------------------------------------
+# =======================================================================
 df_amr_agg <- df_amr%>% left_join(
    df_popsize, by = c("Location" = "location_name", "Age", "Year" = "year")
 ) %>%
@@ -131,7 +136,7 @@ df_amr_agg <- df_amr%>% left_join(
          "Serratia spp._Third-generation cephalosporins",
          "Morganella spp._Third-generation cephalosporins"
       ) ~ "Critical",
-      
+
       # High priority
       bug_drug %in% c(
          "Salmonella enterica serovar Typhi_Fluoroquinolones",
@@ -143,7 +148,7 @@ df_amr_agg <- df_amr%>% left_join(
          "Staphylococcus aureus_Methicillin",
          "Neisseria gonorrhoeae_Third-generation cephalosporins"
       ) ~ "High",
-      
+
       # Medium priority
       bug_drug %in% c(
          "Group A Streptococcus_Macrolides",
@@ -151,17 +156,10 @@ df_amr_agg <- df_amr%>% left_join(
          "Haemophilus influenzae_Aminopenicillin",
          "Group B Streptococcus_Penicillin"
       ) ~ "Medium",
-      
+
       # Default if no match
       TRUE ~ "Not priority"
    ))
 
 # write a new csv file for a transformed data
 write.csv(df_amr_agg, file = "dataset/df_amrxpop.csv", row.names = FALSE)
-
-
-
-
-
-   
-   

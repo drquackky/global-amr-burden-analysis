@@ -1,0 +1,737 @@
+Location,Age,Sex,Measure,Metric,Pathogen,Antibiotic class,Counterfactual,Year,Value,Upper,Lower
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1990,0.3264299169120485,0.4437469392896532,0.2091128945344436
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1991,0.3227369519394505,0.4339236453864201,0.2115502584924809
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1992,0.31218586342797605,0.4142982657272838,0.21007346112866832
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1993,0.2984656830187763,0.3990090323592741,0.1979223336782784
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1994,0.2974550665363622,0.396032014248357,0.1988781188243674
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1995,0.2749922226158672,0.371955393214578,0.1780290520171563
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1996,0.2728622261552187,0.3634916197041689,0.1822328326062685
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1997,0.617993831988054,0.9086533858629806,0.3273342781131274
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1998,0.3154250727327959,0.4236766256589037,0.2071735198066882
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1999,0.32641931850241696,0.4440016991800688,0.20883693782476512
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2000,0.33161529988189886,0.4412193025425123,0.22201129722128543
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2001,0.28497677390637643,0.37831071262807414,0.19164283518467876
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2002,0.2898678419232129,0.3839404848753991,0.19579519897102668
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2003,0.30151345238102484,0.4004033120974113,0.20262359266463836
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2004,0.3329214400365878,0.4367522874632599,0.2290905926099157
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2005,0.3159490788111858,0.41091638303642614,0.22098177458594542
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2006,0.28046337954125666,0.37213350046422145,0.18879325861829188
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2007,0.24641917661534157,0.3281907774156859,0.16464757581499723
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2008,0.19081154692209973,0.25546817304573627,0.1261549207984632
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2009,0.15455512702519864,0.20436036845269412,0.10474988559770315
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2010,0.15095010492585956,0.19111353370309156,0.11078667614862756
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2011,0.14593869031785703,0.1850713570665867,0.10680602356912736
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2012,0.12377699742991402,0.15643592539892492,0.09111806946090312
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2013,0.10275189191699519,0.12987252105320118,0.0756312627807892
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2014,0.08567688697847858,0.10773914628195054,0.06361462767500663
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2015,0.06453293345201745,0.08082741861635283,0.048238448287682076
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2016,0.0563957443318564,0.07138059717302604,0.04141089149068676
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2017,0.05660443126550975,0.07035131672415273,0.042857545806866765
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2018,0.051634560002957894,0.06391564830249291,0.03935347170342288
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2019,0.040271877500530434,0.05239357947711916,0.02815017552394171
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2020,0.020156305284307088,0.025567160923213768,0.01474544964540041
+Albania,5 to 9,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2021,0.020712573536520146,0.02654437619766631,0.014880770875373983
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1990,0.0471072825696861,0.0751037355428908,0.0191108295964814
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1991,0.0478524282818707,0.0754115702520951,0.0202932863116463
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1992,0.04602138631054124,0.07194823239491213,0.020094540226170347
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1993,0.0435380924025916,0.0691238191092767,0.0179523656959066
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1994,0.0419268748304359,0.0664103003120808,0.0174434493487911
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1995,0.0419855716693014,0.0669116132160534,0.0170595301225494
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1996,0.0424741655107639,0.0677831436250682,0.0171651873964595
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1997,0.085285803361256,0.1414093832736705,0.0291622234488415
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1998,0.0505712598321903,0.0806066243227982,0.0205358953415823
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1999,0.05192093789866535,0.08314678438459724,0.02069509141273346
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2000,0.051915887423274715,0.08250070639799423,0.021331068448555195
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2001,0.047005551947763125,0.07342926190980807,0.020581841985718177
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2002,0.04473779406778901,0.07070021296289075,0.018775375172687264
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2003,0.04657853523572242,0.07505350636295627,0.018103564108488564
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2004,0.04714978257699215,0.07627595081535186,0.01802361433863243
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2005,0.044414259830445654,0.07156723431144302,0.017261285349448298
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2006,0.04009279876968841,0.06546052571636779,0.014725071823009025
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2007,0.03528849061842533,0.057819907645164204,0.012757073591686454
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2008,0.027595647380999726,0.045931618451018036,0.009259676310981412
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2009,0.02413686743299325,0.03943730360912848,0.008836431256858027
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2010,0.024900744919599788,0.03759558780108281,0.01220590203811676
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2011,0.02658040863532024,0.03769056156410835,0.015470255706532134
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2012,0.022230530487646158,0.03042891645304021,0.014032144522252108
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2013,0.0185709968154981,0.025321520628403288,0.01182047300259291
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2014,0.015576467743278578,0.02118693560723081,0.009965999879326344
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2015,0.012955850607496776,0.017786669460930306,0.008125031754063249
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2016,0.012487973585513745,0.01700409670098058,0.00797185047004691
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2017,0.012452135461182626,0.01697986236015348,0.007924408562211775
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2018,0.011865997445758955,0.016257389314869045,0.007474605576648866
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2019,0.009504373934161398,0.013242953598712883,0.005765794269609912
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2020,0.004986592795726397,0.006840542948261913,0.003132642643190881
+Albania,5 to 9,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2021,0.005301473826497288,0.007262464600711158,0.0033404830522834193
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1990,0.177246224735682,0.3221172051763328,0.0323752442950311
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1991,0.1792464660022739,0.3205893855830631,0.0379035464214847
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1992,0.1645147873281943,0.29186169246282084,0.03716788219356776
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1993,0.1573803843773026,0.2812773773281345,0.0334833914264707
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1994,0.1669158392917898,0.2902382859747515,0.0435933926088282
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1995,0.1499532327569992,0.2647960271131951,0.0351104384008033
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1996,0.1486810825076092,0.2631755870501557,0.0341865779650627
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1997,0.3129717510424009,0.5788063881115613,0.0471371139732406
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1998,0.1684789777373221,0.2976042210396824,0.0393537344349618
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1999,0.17028540775630754,0.3036780922908229,0.03689272322179224
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2000,0.17334619154397735,0.30567820983907834,0.04101417324887632
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2001,0.14323021225958277,0.2534245948883508,0.03303582963081478
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2002,0.13907820940462928,0.24672785191755175,0.03142856689170681
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2003,0.13381667656862672,0.2398239362676371,0.02780941686961637
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2004,0.13625930810023817,0.24510403630982713,0.02741457989064923
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2005,0.12090805491967375,0.21766190616405928,0.024154203675288227
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2006,0.10512727733727756,0.19070374973388599,0.019550804940669145
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2007,0.09154142325422746,0.16749567902291632,0.015587167485538594
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2008,0.07376111606268732,0.1346413653589171,0.012880866766457527
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2009,0.05690328680365943,0.10561036032333967,0.008196213283979188
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2010,0.04771462368214423,0.08753531606555562,0.00789393129873283
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2011,0.05310999748918765,0.09698526606520348,0.009234728913171814
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2012,0.040998780780689685,0.0758787094441058,0.006118852117273567
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2013,0.03316563265069633,0.061904868042262126,0.004426397259130532
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2014,0.027491591852011728,0.052480074687671394,0.0025031090163520585
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2015,0.022943812710624192,0.04358925118154011,0.002298374239708273
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2016,0.0225517249470751,0.04288997511838914,0.002213474775761063
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2017,0.022872685276479728,0.04374246822166172,0.0020029023312977297
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2018,0.022070792000520506,0.04140379826615344,0.0027377857348875705
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2019,0.018509536656322573,0.03594773377072332,0.0010713395419218244
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2020,0.010262094608995099,0.019803216478038142,0.000720972739952053
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2021,0.010911124403867697,0.020615833752009753,0.0012064150557256417
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1990,0.0672010378995022,0.0894137675368421,0.0449883082621623
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1991,0.0681288714498229,0.0894825361803153,0.0467752067193304
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1992,0.07314130779675239,0.09561506552931255,0.05066755006419223
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1993,0.0715934829991402,0.0952171912685469,0.0479697747297335
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1994,0.0714562374358106,0.0946195311511935,0.0482929437204277
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1995,0.0664314199640318,0.0881807262609066,0.0446821136671571
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1996,0.0652329612726475,0.0863792528793744,0.0440866696659207
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1997,0.1096573154199951,0.1566755960431125,0.0626390347968777
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1998,0.0744962724055452,0.0987518074336678,0.0502407373774225
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1999,0.07283689155294192,0.09748832805399701,0.04818545505188681
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2000,0.07048135476223252,0.09377072333797179,0.047191986186493264
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2001,0.07054797617712105,0.09362587025375171,0.04747008210049039
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2002,0.07523196716002842,0.10108545639525866,0.04937847792479817
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2003,0.06938514134196588,0.09307394641829611,0.045696336265635656
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2004,0.08643037347241775,0.11644878396188346,0.05641196298295204
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2005,0.09001270071407147,0.1210154500214041,0.05900995140673884
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2006,0.087958955569011,0.1185866653987743,0.0573312457392477
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2007,0.07196338470684374,0.09739089761080902,0.04653587180287847
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2008,0.06776027489489028,0.09126737049327856,0.04425317929650201
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2009,0.05492235567563604,0.07360592386205164,0.036238787489220436
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2010,0.05480493976879017,0.07187388131764397,0.037735998219936374
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2011,0.0540662854892795,0.07145361797945349,0.03667895299910551
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2012,0.04583955802466368,0.06055433750898199,0.03112477854034538
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2013,0.03649660130557687,0.048418458348143484,0.024574744263010262
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2014,0.03162542467593168,0.042005486583795416,0.02124536276806794
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2015,0.024834345261550664,0.03266524221172319,0.017003448311378136
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2016,0.02297859252451249,0.030052083728105417,0.015905101320919567
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2017,0.024490144778950017,0.031896498084277185,0.01708379147362285
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2018,0.023501327946539217,0.030359112643506006,0.01664354324957243
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2019,0.01999098004213843,0.02668805502802843,0.013293905056248431
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2020,0.009260169911794625,0.012266560584759105,0.006253779238830144
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2021,0.009546176611958355,0.012468741058834689,0.006623612165082022
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1990,0.1741528656212563,0.2638319040343221,0.0844738272081905
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1991,0.179942905610078,0.2662441813802843,0.0936416298398719
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1992,0.16760936941717136,0.24636486822809206,0.08885387060625066
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1993,0.1537015191749152,0.2303404283159147,0.0770626100339156
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1994,0.1472887317189642,0.2214946387717631,0.0730828246661654
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1995,0.1450424696477634,0.22056661649821,0.0695183227973169
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1996,0.1422582103456366,0.213114490622596,0.0714019300686773
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1997,0.2949674718941918,0.5052958554758225,0.0846390883125611
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1998,0.1727334906261636,0.2594505014081396,0.0860164798441876
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1999,0.1758649276439539,0.26923772004229257,0.08249213524561523
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2000,0.1722702451773392,0.25830579902725986,0.08623469132741853
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2001,0.15099512155434275,0.22535275059553467,0.07663749251315083
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2002,0.14370418172711957,0.21678461578978392,0.07062374766445523
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2003,0.1409211809934378,0.2153694093420495,0.0664729526448261
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2004,0.13984112184787,0.21509325433214188,0.06458898936359815
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2005,0.12593578625609686,0.19306252422739617,0.058809048284797535
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2006,0.12514234604920854,0.19177137196262012,0.05851332013579695
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2007,0.10942491881246622,0.16842696207990587,0.05042287554502657
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2008,0.0984361242002598,0.14906856120205408,0.047803687198465505
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2009,0.08204094478759098,0.122892982763538,0.04118890681164398
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2010,0.07532766335141398,0.10941966545768828,0.041235661245139686
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2011,0.0788780309310195,0.11479923271098126,0.04295682915105774
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2012,0.06665527324171718,0.09725643341723271,0.03605411306620164
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2013,0.055436848118042,0.08113907339262016,0.029734622843463822
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2014,0.04831037458397634,0.07064632140362062,0.02597442776433206
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2015,0.040019776052177464,0.05759029576292824,0.022449256341426686
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2016,0.03746781361976943,0.053946327925090576,0.02098929931444829
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2017,0.03866678762479947,0.05500554590825466,0.02232802934134428
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2018,0.03560232640431342,0.05010209679844462,0.021102556010182218
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2019,0.029797855128825327,0.04444909185620154,0.015146618401449112
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2020,0.015337199535985694,0.022406859431398956,0.008267539640572433
+Albania,5 to 9,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2021,0.015276393950886334,0.02226609666809323,0.00828669123367944
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1990,0.0021792714773425,0.0047891368737169,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1991,0.0023572268438146,0.0051895762108857,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1992,0.0023432713051901605,0.005140575252608689,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1993,0.0023217850549387,0.0050905871995024,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1994,0.0024631110494684,0.0053431572354114,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1995,0.0023627774811143,0.0051264895137038,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1996,0.0024908017539167,0.0054243670795094,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1997,0.0023997379876172,0.0052064818606717,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1998,0.0025461173700717,0.0055118722431291,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1999,0.002519224069513549,0.005434241693426484,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2000,0.0025266296575359483,0.005449393943413447,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2001,0.0022659036876952463,0.004885782049658735,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2002,0.0020983205811788636,0.004528309102624573,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2003,0.0021285882768232256,0.004609337103689411,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2004,0.0020338830123230512,0.004426093612910093,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2005,0.0019050084270783283,0.004101499617685889,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2006,0.0018141693739143869,0.0038928885164931106,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2007,0.0016890174256212437,0.0036008763557672362,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2008,0.001492732307086041,0.003169895893017363,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2009,0.0008322178928393262,0.0017727872592237853,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2010,0.0007949200850732883,0.001698590017003255,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2011,0.0007394956673567395,0.0015898167811907431,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2012,0.0006477370624447349,0.001387806865115863,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2013,0.0005870883004540394,0.001262168766690581,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2014,0.0005406401945097975,0.0011652567413354023,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2015,0.00048795773298537077,0.0010582653243918143,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2016,0.0005440579957221856,0.0011899827551408988,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2017,0.0005662986751342599,0.0012388208331159177,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2018,0.0005696110105532567,0.0012446226990191437,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2019,0.000558894793290885,0.0012173935895078733,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2020,0.00027371329825386564,0.0006088312694781529,0
+Albania,5 to 9,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2021,0.00033297906204920476,0.0007341593411016108,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1990,0.000005560778790214373,0.000013671428655391906,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1991,0.000008196670059134928,0.000020270107557724928,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1992,0.000008536296848149497,0.00002114035871480599,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1993,0.000007214161958667119,0.000017851616107543634,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1994,0.000009094732121561,0.00002246131377164734,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1995,0.000013373639901013529,0.00003291097938150588,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1996,0.000015306461394502078,0.000037543342115398974,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1997,0.000013118851584700642,0.000032018607732202064,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1998,0.000016535159103798828,0.00004043400123091638,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1999,0.000014849086271663265,0.00003609576785892379,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2000,0.000016510998502402146,0.00003852177248032217,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2001,0.00001594515341111901,0.00003709266262722712,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2002,0.000013784283086253714,0.00003212469527854038,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2003,0.000015753272076673328,0.000036911075756541136,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2004,0.000014293501245370331,0.00003428151755025954,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2005,0.000013697770915137889,0.00003316748043078358,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2006,0.000013228929688188141,0.000032035744996258315,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2007,0.000012108616115237286,0.000029067041272910296,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2008,0.000011284477751599677,0.00002687290991550459,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2009,0.000010131147832317641,0.00002403030491041766,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2010,0.000007896914938089796,0.000017837397678004986,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2011,0.000007669195978865644,0.000017229711440633565,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2012,0.000007184603020607471,0.000016089286199275757,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2013,0.000006632362305835726,0.000014909982663078877,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2014,0.00000572981815120369,0.00001289160167106608,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2015,0.000006264946531769374,0.000014266670651354733,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2016,0.000006643215242949785,0.000015144877271447974,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2017,0.000005577890481757907,0.000012719893531687847,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2018,0.000005347897691399409,0.000012288426776413842,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2019,0.000005886694417257823,0.000013854611952948364,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2020,0.000004634834943557447,0.000011157876146301318,0
+Albania,5 to 9,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2021,0.000004816812135705993,0.000011541978507159663,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1990,0.00005602578224685504,0.0001876202506878,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1991,0.00006028719100185292,0.0001891859380096,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1992,0.000057850685143195694,0.00018351799566314805,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1993,0.00005310021546130131,0.000180581200296,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1994,0.0001492541812125,0.0004204862281085,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1995,0.00005580975971996061,0.0001767181365203,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1996,0.00005745294725159936,0.0002028593604595,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1997,0.00005591803351847244,0.0001804628997226,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1998,0.00006377522711571106,0.0002076237749591,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1999,0.000060788753166347447,0.00020748037549081413,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2000,0.000060943134567827316,0.00020383576834307582,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2001,0.000059119279745762,0.00020880288194348912,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2002,0.00006165280840144625,0.00020302495118739613,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2003,0.00008760218339641862,0.0002832265249845164,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2004,0.00011938089780716448,0.0003952854270843253,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2005,0.00024348260514473646,0.0007752463368449798,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2006,0.0004151949892823633,0.0012752851556065777,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2007,0.0004350537971700497,0.0012808909609396827,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2008,0.00038001654036604835,0.0011509954942455986,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2009,0.0003239208388978813,0.0010396681762782352,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2010,0.00028178269419994753,0.0008681739760895185,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2011,0.00026485427239805737,0.0007856577078431972,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2012,0.00022593761842757217,0.0006513807562903711,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2013,0.00018191623059591336,0.0005390415241551571,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2014,0.0001533493383587439,0.00045725841058824027,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2015,0.00013246232800785834,0.0004068155312701127,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2016,0.00012742844636960706,0.0003810289157724374,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2017,0.00012853835764943872,0.00038676556481254945,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2018,0.00012670618717691975,0.0003754774549416444,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2019,0.0001199465631750944,0.0003488855769590018,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2020,0.00006255693549480974,0.0001653970301889643,0
+Albania,5 to 9,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2021,0.00006692285678939106,0.0001782913889780734,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1990,0.0013418336881054,0.0062812337720286,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1991,0.0026022372832788,0.0110950181663648,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1992,0.003613659438210531,0.01563902529262767,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1993,0.0044428753662905,0.0185473146159007,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1994,0.0049022297174687,0.0191533810895181,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1995,0.005180428524488,0.0211095208601834,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1996,0.0053988702321219,0.0213694153375397,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1997,0.0058146259829253,0.023381946231849,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1998,0.0065396496712382,0.0257238600373245,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1999,0.006453944694881998,0.02535920102936018,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2000,0.006290085417566573,0.026336105438759902,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2001,0.005493735131622761,0.02169441089448886,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2002,0.005816892599134127,0.020426418385481246,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2003,0.006556605519207941,0.022681708730356683,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2004,0.007284141223049121,0.024621849111481055,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2005,0.007071510558979547,0.023301081678422673,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2006,0.006587775496361812,0.019958443468943172,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2007,0.00595057730200875,0.017054461862108523,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2008,0.004427713878507414,0.012429960327858047,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2009,0.0036622889348324624,0.010483595989541884,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2010,0.0034188716615337457,0.009667223900603835,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2011,0.003220852257171235,0.009145173802937664,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2012,0.0024216831574964824,0.00666877088096459,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2013,0.0017557510892933059,0.004789337814783445,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2014,0.0012748524374528395,0.003948417910088263,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2015,0.0009461691703102173,0.0029505732390122342,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2016,0.0008689329130114804,0.0029799925868947124,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2017,0.0008914860130990454,0.0032088456799256046,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2018,0.000834876323620706,0.00278600328541349,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2019,0.0006086162266349415,0.0024241647193342444,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2020,0.0003475293043877439,0.001394148515988985,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2021,0.000382227125046193,0.0015518389625208931,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1990,0.0011784682136296,0.0030213005293596,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1991,0.0012473981555476,0.0030419104299457,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1992,0.0012055903870654453,0.0028545481337314896,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1993,0.0011354895400941,0.0027160600484771,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1994,0.0010867802904747,0.0025250384959221,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1995,0.0010587504179202,0.0024853284363141,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1996,0.0008850545076841,0.0021162569922699,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1997,0.0016301778856107,0.0040195840141899,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1998,0.0010468814039816,0.0024336849654251,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1999,0.0010865684027111387,0.0025335865419733802,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2000,0.001110927662352883,0.002561057250049861,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2001,0.0010239908069503518,0.0023501696634415075,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2002,0.0010417793779318894,0.0023465801069757312,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2003,0.0011246523866089615,0.002485476153065487,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2004,0.0012946152432406438,0.0028027187324678967,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2005,0.001303051757984105,0.0027470099668208273,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2006,0.0013096340956714014,0.0027181150417259136,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2007,0.001189286864080891,0.002473574981297951,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2008,0.0009587650501467731,0.002002073013046882,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2009,0.0007788711715183634,0.0016242453444166014,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2010,0.0007008102462909407,0.0014365989838174458,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2011,0.000728974508970278,0.0015034481827485907,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2012,0.0007122796231691793,0.0014309792887975772,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2013,0.0006183260247477405,0.001232556017704358,0.000004096031791123102
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2014,0.0005684726175870895,0.001137852926930396,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2015,0.0004828262965788502,0.0009640950909998547,0.0000015575021578456455
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2016,0.0004805921911733359,0.0009642472611884991,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2017,0.00026229879685930576,0.0005891912526995273,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2018,0.00023820443691640843,0.00052739031648214,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2019,0.00021031947962814277,0.000476971125502181,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2020,0.00010653555441381581,0.00023967133960156134,0
+Albania,5 to 9,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2021,0.0001390186095083027,0.00029334373099531967,0
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1990,0.0557871277854007,0.0784749428254189,0.0330993127453826
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1991,0.0580242235465312,0.081057515857747,0.0349909312353155
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1992,0.052585505234897335,0.07225680926773119,0.03291420120206348
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1993,0.0502801249818469,0.0696259930428737,0.0309342569208202
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1994,0.0473789050414211,0.0652513780133007,0.0295064320695414
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1995,0.0451816810192047,0.0625829684566551,0.0277803935817544
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1996,0.0477552737779137,0.0662766416114707,0.0292339059443566
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1997,0.1083074842244843,0.1688464724035861,0.0477684960453826
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1998,0.0502512060451382,0.0700034410889071,0.0304989710013694
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1999,0.05835254026319961,0.08021974211793739,0.036485338408461826
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2000,0.057208206128879266,0.07873523254690507,0.03568117971085347
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2001,0.041538966482961896,0.05814224637329228,0.02493568659263151
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2002,0.0523786104338982,0.07287657136044057,0.03188064950735583
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2003,0.04916012281591962,0.06735957734779682,0.030960668284042404
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2004,0.05635601497709039,0.07899914038734832,0.03371288956683247
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2005,0.05817299066245149,0.08194607064811171,0.03439991067679127
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2006,0.04899581172599682,0.06961180543229772,0.02837981801969591
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2007,0.04381907104214422,0.06276750142325728,0.024870640661031163
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2008,0.03245885702086995,0.047280192332179845,0.01763752170956006
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2009,0.027418855004258336,0.03929792110359525,0.01553978890492142
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2010,0.03456193595879142,0.04804098800895706,0.02108288390862579
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2011,0.03444342398907407,0.047902500906827426,0.02098434707132072
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2012,0.03143476187928353,0.044327336683155014,0.018542187075412057
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2013,0.02788570702428179,0.03896492629980363,0.016806487748759952
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2014,0.02420335079513353,0.033828199782497195,0.014578501807769866
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2015,0.019042970704060892,0.026211859922276346,0.011874081485845438
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2016,0.01783204554268078,0.024360252653330455,0.011303838432031105
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2017,0.02011958851134387,0.027656266210489527,0.012582910812198216
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2018,0.018245740647918878,0.02519400559697645,0.011297475698861307
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2019,0.017471687228832772,0.024607460268071073,0.01033591418959447
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2020,0.008832818281908069,0.01213728768645234,0.005528348877363798
+Albania,5 to 9,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2021,0.00928212444888164,0.013379066631791187,0.005185182265972092
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1990,0.0595596765055915,0.0938580851768237,0.0252612678343593
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1991,0.0557291096365875,0.0866337964484022,0.0248244228247727
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1992,0.05168883118308613,0.07858496678137136,0.024792695584800895
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1993,0.0487970236760267,0.0759517818790214,0.021642265473032
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1994,0.0450824175309925,0.069286159439033,0.0208786756229519
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1995,0.0465199944922975,0.0722261806109761,0.0208138083736188
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1996,0.0543772019352782,0.0839858440803228,0.0247685597902336
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1997,0.095127722984839,0.157875768270976,0.0323796776987021
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1998,0.0614513071345045,0.094099270033036,0.028803344235973
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1999,0.08556005833424751,0.12779274922240344,0.04332736744609159
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2000,0.0750013987599023,0.11284068268382427,0.037162114835980344
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2001,0.0758133455341397,0.11253710664146593,0.039089584426813456
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2002,0.09303536356811017,0.13471588077173757,0.05135484636448275
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2003,0.09168365128839115,0.13067550622894977,0.052691796347832526
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2004,0.0945291808319495,0.13714420825091567,0.05191415341298333
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2005,0.08742770850448797,0.12696360546338575,0.047891811545590204
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2006,0.06532293433045464,0.09605720145793074,0.034588667202978526
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2007,0.057642348817687206,0.08540111932739577,0.029883578307978633
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2008,0.033666031804606034,0.05131973263004036,0.016012330979171707
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2009,0.02692787729636814,0.04045132959837959,0.013404424994356692
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2010,0.034319837978883425,0.04974352405667663,0.018896151901090216
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2011,0.030570414038363133,0.04472243068737034,0.016418397389355924
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2012,0.024104331291148147,0.0355529798356395,0.012655682746656793
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2013,0.020934951555971276,0.03060901003110017,0.01126089308084238
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2014,0.015700518490983206,0.02317872920045895,0.008222307781507463
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2015,0.013939537665194915,0.020309409032965374,0.007569666297424456
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2016,0.01292485756940488,0.018793110295938636,0.007056604842871125
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2017,0.012732363476434883,0.018689897447927577,0.006774829504942188
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2018,0.010545997529283958,0.015636290767843765,0.005455704290724151
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2019,0.008281724646187063,0.01263661789755121,0.003926831394822917
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2020,0.004318236863306386,0.0064916894447564774,0.0021447842818562947
+Albania,5 to 9,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2021,0.004309072110250294,0.0066227276144599275,0.0019954166060406607
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1990,0.0019036105428537,0.0025569244093292,0.0012502966763782
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1991,0.002029020969203,0.0026651090540215,0.0013929328843844
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1992,0.001949950603966254,0.0025262205227023497,0.0013736806852301582
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1993,0.0018730610298704,0.0024707947397627,0.0012753273199781
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1994,0.0017743228557014,0.0023204117485391,0.0012282339628637
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1995,0.0016703147929174,0.0022130637646797,0.0011275658211551
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1996,0.0015670548262721,0.0020941215488468,0.0010399881036974
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1997,0.0041612231108065,0.006557049861645,0.001765396359968
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1998,0.0017375332782913,0.0023170709004782,0.0011579956561044
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1999,0.0016916293026485655,0.002241758312296494,0.001141500293000637
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2000,0.0015929676267587849,0.002097836042798673,0.0010880992107188967
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2001,0.0013002007356879381,0.0017332562243772896,0.0008671452469985868
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2002,0.001161387280280701,0.0015609258580000672,0.0007618487025613349
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2003,0.0011105460087658602,0.0014511346755797312,0.0007699573419519892
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2004,0.0010485315958026218,0.0013934719817923118,0.0007035912098129317
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2005,0.0009399329851711966,0.0012664627825670848,0.0006134031877753082
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2006,0.000849275542531142,0.0011478250023392391,0.0005507260827230449
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2007,0.0007521002792902378,0.0010143103083031452,0.0004898902502773302
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2008,0.0006018766487165913,0.0008362522010639999,0.00036750109636918266
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2009,0.0004893048645217336,0.0006575888151758085,0.0003210209138676586
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2010,0.00043840029156406426,0.0005902711767866249,0.00028652940634150357
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2011,0.0004321111872562447,0.0005829639975451965,0.0002812583769672929
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2012,0.0003727893045574101,0.0005029409042079187,0.00024263770490690151
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2013,0.0003112977037735696,0.0004197267513422751,0.00020286865620486414
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2014,0.00028557116351728953,0.000386776061003842,0.0001843662660307371
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2015,0.00024208750023257643,0.00032193159328261945,0.00016224340718253342
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2016,0.00023709214066156714,0.00031723335581830103,0.00015695092550483325
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2017,0.00024304902280971173,0.00032559512231847244,0.00016050292330095102
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2018,0.00023082120053441837,0.000308125136696004,0.00015351726437283275
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2019,0.00017150877146678798,0.00023462915145885168,0.00010838839147472427
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2020,0.00008910355569084061,0.00012034173718836389,0.000057865374193317325
+Albania,5 to 9,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2021,0.00009704772092232045,0.00013670602598423782,0.000057389415860403075
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1990,0.0160873379739122,0.0247220413390246,0.0074526346087998
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1991,0.0166854142401368,0.0252340887441642,0.0081367397361093
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1992,0.014609101976453508,0.021709405111355003,0.007508798841552012
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1993,0.0140395538793772,0.0211981904020152,0.0068809173567392
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1994,0.013543991005286,0.0202312168896174,0.0068567651209547
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1995,0.0129565563797716,0.0197183549229294,0.0061947578366137
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1996,0.0129409247164162,0.0196390901646734,0.0062427592681589
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1997,0.0273202857477489,0.044059830043993,0.0105807414515049
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1998,0.0158657379657299,0.0240468871061929,0.0076845888252669
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1999,0.016806453369850767,0.025149662076809104,0.008463244662892432
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2000,0.01661686879638627,0.02507196434598253,0.008161773246790011
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2001,0.014285918605722455,0.021440676079918324,0.007131161131526585
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2002,0.013225998441993923,0.019655103449287538,0.006796893434700309
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2003,0.013987625384916201,0.02088708144674281,0.00708816932308959
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2004,0.012518976693359787,0.018855445529005394,0.0061825078577141795
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2005,0.01185207850709221,0.017654317769469255,0.006049839244715165
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2006,0.010764793588277807,0.015981792239513928,0.005547794937041686
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2007,0.010205786649260248,0.01513624943770579,0.005275323860814707
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2008,0.006548245124904366,0.009899849437820416,0.0031966408119883157
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2009,0.006255506732998805,0.009307033671097429,0.003203979794900181
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2010,0.004623729192969642,0.006802270895841355,0.002445187490097929
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2011,0.004420843975958728,0.006474408967773184,0.0023672789841442713
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2012,0.004011958355707083,0.005895663254652444,0.0021282534567617223
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2013,0.003634590465757229,0.0052714728637126285,0.001997708067801829
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2014,0.0022356653006153143,0.0033328883364670643,0.0011384422647635645
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2015,0.0018368648266256734,0.002709694547316729,0.0009640351059346175
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2016,0.0019906428649881167,0.0029161503689177164,0.001065135361058517
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2017,0.0018937967487632158,0.0027807039238349866,0.0010068895736914448
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2018,0.0019380898739180868,0.002816873178761662,0.0010593065690745118
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2019,0.0016379853418003122,0.0024274152006949867,0.0008485554829056376
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2020,0.000864927614228236,0.0012834347705508926,0.00044642045790557945
+Albania,5 to 9,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2021,0.0009273368720131204,0.0013704250375341934,0.0004842487064920474
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1990,0.0015422083587651,0.0056548888784999,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1991,0.0016814771402631,0.0057949404816275,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1992,0.0015113981019268979,0.0051611809905046085,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1993,0.0015658086258955,0.005471192639554,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1994,0.0014041772744178,0.0047108049023689,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1995,0.0011191711490268,0.0038971275270642,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1996,0.0012615444884317,0.0045452307343724,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1997,0.0023523949992197,0.0087725490750245,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1998,0.0017440750238753,0.0059654798558416,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1999,0.0018220868445677468,0.0062031750499758785,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2000,0.0019010776362661872,0.006319018462510248,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2001,0.0015879501524142482,0.005299324634828024,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2002,0.0015117708879686825,0.005001482857043391,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2003,0.00143041625482859,0.0047064432783928585,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2004,0.0014440165923138078,0.0047263885271426635,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2005,0.0013838263950914562,0.00431759538431779,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2006,0.0011027873078652013,0.0035366927381308474,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2007,0.0011842816378994725,0.003463184869820007,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2008,0.000910845127945579,0.002687763034407159,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2009,0.0008149852697404781,0.0024539076124111972,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2010,0.0005997717538971384,0.0018501747167357372,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2011,0.0005970250072437764,0.0018927330048980335,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2012,0.00041902920157829384,0.001388163128084458,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2013,0.00023194240787650835,0.0008534563964258991,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2014,0.00020277540945749022,0.0007680684239356342,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2015,0.00016710209719941128,0.0006444662309019177,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2016,0.000133602179000607,0.0005680054884175777,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2017,0.00010564005418414313,0.000500650908464488,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2018,0.00008487450501191616,0.00040164361575853317,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2019,0.00003125882194222033,0.00020033166561664236,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2020,0.00001741583812511279,0.00010633059186004351,0
+Albania,5 to 9,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2021,0.000018790120408824683,0.00011096209083633028,0
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1990,0.0213739108381752,0.0294385318773143,0.0133092897990361
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1991,0.0221513877322447,0.0305378677080385,0.0137649077564508
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1992,0.020448266883225423,0.02803092186362272,0.012865611902828127
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1993,0.0191385043425223,0.0264814700262948,0.0117955386587498
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1994,0.0186004319282972,0.0257490260625179,0.0114518377940765
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1995,0.0180510831978879,0.0251774295676358,0.0109247368281401
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1996,0.0183627119060945,0.0255187025920238,0.0112067212201651
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1997,0.0402751668946299,0.0609291901682695,0.0196211436209902
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1998,0.0216877586228392,0.0302992224783493,0.0130762947673291
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1999,0.021616088459472944,0.02988935694660043,0.013342819972345458
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2000,0.0208488896618737,0.028850786871642803,0.0128469924521046
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2001,0.018112865255313866,0.025219216325423715,0.011006514185204017
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2002,0.01549630574525121,0.02165494855075535,0.00933766293974707
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2003,0.01612316703364421,0.02261762714136316,0.009628706925925263
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2004,0.01709393939120357,0.024175354842401752,0.010012523940005385
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2005,0.01636894929029108,0.023047047309467897,0.009690851271114262
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2006,0.015728782882162073,0.022073741747445356,0.009383824016878789
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2007,0.013939348748267407,0.01969712983099154,0.008181567665543276
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2008,0.011088903510596597,0.015651478605776203,0.006526328415416991
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2009,0.0035259925237246283,0.0057885794126876795,0.001263405634761577
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2010,0.003211661295408841,0.0051551810627495824,0.0012681415280680994
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2011,0.003734300312597808,0.005659377517554689,0.001809223107640927
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2012,0.004021132408131978,0.0055707713676334545,0.0024714934486305016
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2013,0.003668058938919648,0.00500683740196492,0.002329280475874376
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2014,0.003124573683334859,0.0042265431731140155,0.0020226041935557026
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2015,0.003236222017332715,0.004383797871728755,0.002088646162936675
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2016,0.003158998628752568,0.00428477820811576,0.002033219049389375
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2017,0.0033227596609075455,0.004497504707331931,0.00214801461448316
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2018,0.0031832388511517304,0.004277342512588165,0.0020891351897152958
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2019,0.0022176197816050143,0.003226630230846677,0.0012086093323633517
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2020,0.0011315277530069467,0.0016110839679650674,0.0006519715380488261
+Albania,5 to 9,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2021,0.0011708003292564915,0.001669494989613015,0.0006721056688999681
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1990,0,0,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1991,0,6.063570937969127e-8,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1992,0,1.1535128176703586e-7,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1993,0.0001115537458921,0.0003712813645986,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1994,0.000168752716303,0.0006000688155477,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1995,0.0002398359256281,0.000955184637751,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1996,0.0003239956851804,0.0012528971145039,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1997,0.0004203720028621,0.001579984602797,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1998,0.0005586808818818,0.0020493890207059,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1999,0.000636538551322092,0.002409944035563583,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2000,0.0007130618166135918,0.002782453116716102,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2001,0.0007003178228455145,0.002518253538227528,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2002,0.000820985659831004,0.0026922684591706198,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2003,0.000996933623857649,0.0032024272306347356,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2004,0.0011728379757170201,0.0036796425387985755,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2005,0.0012008679995530306,0.0037407180569060164,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2006,0.0011737100814791022,0.0032737581869554393,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2007,0.0011165483431226707,0.0029098596444637813,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2008,0.0008856622193325462,0.0022802719885134616,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2009,0.000771171829431247,0.00198373184075756,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2010,0.0007531946544016867,0.0019529676839826014,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2011,0.0007331511855650092,0.0018864994050963929,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2012,0.0005623441165772422,0.001409736729450788,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2013,0.00043048060311842213,0.0010648601506264696,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2014,0.00033632806071192377,0.0009384349045611386,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2015,0.00026353164292482087,0.0007476672900270974,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2016,0.0002502314724284698,0.000747621000127066,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2017,0.00026521352080259727,0.0008416772399602985,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2018,0.00025501007724146324,0.0007627626873695015,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2019,0.00018969164769753712,0.0006307820945533185,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2020,0.00011519730592832091,0.0004051396667873121,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2021,0.00012838114494604773,0.0004583152540469555,0
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1990,0.0032237034841726,0.0045781682775604,0.0018692386907848
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1991,0.003313510499532,0.0047257611463849,0.0019012598526791
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1992,0.0030772957861552918,0.0043730225574202825,0.0017815690148903014
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1993,0.0028918010622838,0.0040545544974058,0.0017290476271619
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1994,0.0028176794880388,0.0039886773544712,0.0016466816216064
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1995,0.0028006074879181,0.0039679330415251,0.0016332819343112
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1996,0.0028420277584244,0.0039727633643944,0.0017112921524545
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1997,0.0055561621252732,0.0091870673738,0.0019252568767464
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1998,0.0033387510426249,0.0047342876747403,0.0019432144105095
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1999,0.0033631069012489993,0.004776365459926641,0.0019498483425713573
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2000,0.0032650487189080576,0.004651468361412683,0.0018786290764034323
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2001,0.0028704292761726866,0.0040700680213045315,0.0016707905310408414
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2002,0.0027673620659863655,0.003983055482793905,0.0015516686491788266
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2003,0.002901174102111027,0.004136253434765348,0.0016660947694567062
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2004,0.0030435880519100386,0.004367151817089249,0.001720024286730828
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2005,0.0031719120655377985,0.004523832408848029,0.0018199917222275677
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2006,0.0032950028037761338,0.004680760212700188,0.0019092453948520792
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2007,0.003064567586999701,0.004367488254384387,0.0017616469196150145
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2008,0.002602769271513854,0.003764546392095722,0.001440992150931986
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2009,0.00187806322558082,0.002741473735242565,0.001014652715919075
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2010,0.00160933781730248,0.0023233130800262487,0.0008953625545787112
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2011,0.0016455452587264847,0.0024158501094385843,0.000875240408014385
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2012,0.0016740079640437892,0.002442391667181941,0.0009056242609056373
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2013,0.0012627028366005654,0.001861687399620944,0.0006637182735801867
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2014,0.0010940957558974835,0.0016049099954042957,0.0005832815163906713
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2015,0.001016873395383066,0.0014725646579315625,0.0005611821328345698
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2016,0.0009854483377010107,0.0014466340053196011,0.0005242626700824203
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2017,0.0009589595789853249,0.0013929336133771495,0.0005249855445935002
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2018,0.000944471952899424,0.0013814581640607072,0.0005074857417381406
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2019,0.0008032241157662264,0.0011645413369868079,0.0004419068945456449
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2020,0.0004343514057444412,0.000614722846630962,0.0002539799648579204
+Albania,5 to 9,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2021,0.0005158671563212556,0.0007632142461863394,0.00026852006645617174
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1990,0.0623523861307293,0.094093984926623,0.0306107873348357
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1991,0.065066677748753,0.0976780126342415,0.0324553428632645
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1992,0.06054566541525248,0.09057904569818659,0.030512285132318365
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1993,0.0569337626568752,0.0849897464403267,0.0288777788734236
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1994,0.0556715989240558,0.0831347782364226,0.028208419611689
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1995,0.0577361706353682,0.0871897281945058,0.0282826130762305
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1996,0.0588705996957759,0.0890207196009412,0.0287204797906106
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1997,0.0907659062835492,0.1370597470943542,0.0444720654727442
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1998,0.0727461218539304,0.1099371036851828,0.0355551400226781
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1999,0.07491355385354886,0.1133384857982968,0.03648862190880093
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2000,0.07349589849618586,0.11145026466014621,0.03554153233222552
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2001,0.06652829687512121,0.10078093510649966,0.03227565864374276
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2002,0.06673052284806036,0.10237910328809383,0.03108194240802689
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2003,0.0691683905450101,0.10599962021258696,0.03233716087743324
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2004,0.07413025373892398,0.11381342999537304,0.03444707748247493
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2005,0.07407783953250113,0.11299215112676073,0.03516352793824155
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2006,0.07277403548180075,0.10987255959536321,0.03567551136823829
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2007,0.066688283258483,0.10076990770739166,0.03260665880957434
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2008,0.05446792736117134,0.08227372607478817,0.02666212864755451
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2009,0.044240196434656466,0.0669526613269431,0.02152773154236984
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2010,0.03812228477299777,0.057246504808504614,0.018998064737490925
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2011,0.03505501573713139,0.05277247810549818,0.017337553368764608
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2012,0.03044818248004262,0.04549912801442459,0.015397236945660649
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2013,0.025177428996546704,0.03758999573870619,0.01276486225438722
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2014,0.020398904198016286,0.030576591503090216,0.010221216892942357
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2015,0.01587344247382063,0.023675392147912977,0.008071492799728285
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2016,0.0152548727423167,0.022774622134429524,0.007735123350203878
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2017,0.014914368739794712,0.022146722217258216,0.007682015262331209
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2018,0.013505087439632385,0.020095498671531105,0.006914676207733664
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2019,0.012126199823152313,0.018014710954547854,0.0062376886917567724
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2020,0.0056433930958141795,0.00831846935034487,0.002968316841283489
+Albania,5 to 9,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2021,0.005292867615324922,0.007870714362348354,0.0027150208683014896
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1990,0.2398346178676313,0.4294756134369948,0.0501936222982679
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1991,0.2502407278156262,0.4352116772062715,0.0652697784249809
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1992,0.23320991870680452,0.40337544668172876,0.06304439073188031
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1993,0.2205230716683192,0.3849007244739932,0.0561454188626452
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1994,0.2213568899885873,0.3785136734724025,0.0642001065047721
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1995,0.2323375675684461,0.3984561602211554,0.0662189749157369
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1996,0.2480401295805142,0.4254575485927593,0.070622710568269
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1997,0.4801315956187534,0.8432637479648308,0.116999443272676
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1998,0.3317973076220566,0.5579390636679421,0.1056555515761711
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1999,0.33622016021019363,0.5700472869285006,0.10239303349188669
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2000,0.33710298460185695,0.5703949855162009,0.1038109836875129
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2001,0.2919437922551731,0.4935174168619494,0.09037016764839678
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2002,0.29158944272379034,0.4931387055536497,0.09004017989393098
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2003,0.3148176937083723,0.5270124884990434,0.1026228989177013
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2004,0.33536736600062905,0.5622198158188024,0.10851491618245565
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2005,0.34157963921675033,0.5673184473391587,0.11584083109434193
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2006,0.31035018750261123,0.5149552822454383,0.10574509275978417
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2007,0.2736797783504105,0.459009131804047,0.08835042489677403
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2008,0.21927467409606652,0.3716650022138727,0.06688434597826032
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2009,0.18099967310589515,0.3077845560983964,0.054214790113393946
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2010,0.17981422268983055,0.2978067382202075,0.06182170715945361
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2011,0.17649924782967688,0.29435140288016426,0.05864709277918953
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2012,0.1491149872652812,0.24806753184661445,0.050162442683947914
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2013,0.124214483176337,0.20674394583143696,0.04168502052123704
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2014,0.1033975613710861,0.17607963515909178,0.03071548758308043
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2015,0.08764292963003455,0.1484996744781178,0.026786184781951307
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2016,0.08416361371351785,0.14266835057577995,0.02565887685125575
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2017,0.08598219781310897,0.14664298315039317,0.02532141247582475
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2018,0.08263137329902216,0.13849877774548727,0.026763968852557045
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2019,0.07056234888313939,0.12164830792736012,0.019476389838918674
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2020,0.036695818498418645,0.06337096639698393,0.010020670599853357
+Albania,5 to 9,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2021,0.037999904689750036,0.06489239715530296,0.01110741222419712
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1990,0.0013418336881054,0.0062812337720286,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1991,0.0026022372832788,0.0110950119405054,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1992,0.003613659438210531,0.015639013862502174,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1993,0.0043313216203984,0.018243004701613,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1994,0.0047334770011657,0.0186130800341399,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1995,0.0049405925988599,0.0202386697563361,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1996,0.0050748745469415,0.0202205079062861,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1997,0.0053942539800631,0.0219256151573983,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1998,0.0059809687893563,0.0238126131871593,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1999,0.005817406143559906,0.02312943322917995,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2000,0.005577023600952981,0.02372492245148025,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2001,0.004793417308777246,0.019328721334073682,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2002,0.004995906939303123,0.01790872854665191,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2003,0.005559671895350291,0.019693634437820788,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2004,0.006111303247332101,0.021189505137050223,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2005,0.005870642559426516,0.01980006778200672,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2006,0.005414065414882711,0.01687988268312936,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2007,0.00483402895888608,0.014322311997763053,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2008,0.0035420516591748675,0.010301046658964573,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2009,0.0028911171054012154,0.008615343233603438,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2010,0.0026656770071320592,0.007824681523070254,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2011,0.002487701071606226,0.007368110031171179,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2012,0.0018593390409192402,0.005333381266861539,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2013,0.0013252704861748837,0.0037763196778162404,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2014,0.0009385243767409158,0.0030565785730532055,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2015,0.0006826375273853965,0.0022422461178091295,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2016,0.0006187014405830105,0.0022634554577046348,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2017,0.0006262724922964482,0.002395872889030982,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2018,0.0005798662463792428,0.0020553957884475284,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2019,0.0004189245789374044,0.0018181015895206753,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2020,0.00023233199845942306,0.0010048511056417878,0
+Albania,5 to 9,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2021,0.0002538459801001452,0.0011094767824610815,0
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1990,0.0085308083219465,0.0175231919503495,0
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1991,0.008676047274446,0.0174149785750408,0
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1992,0.007958980361839223,0.015738203320996135,0.00017975740268231111
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1993,0.0074146286981542,0.0146830254092541,0.0001462319870543
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1994,0.0071936482341185,0.014027442562996,0.0003598539052411
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1995,0.0089079962682361,0.0170050280813791,0.0008109644550932
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1996,0.0071634830719508,0.0137921503686305,0.000534815775271
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1997,0.013758197888961,0.0281801480547464,0
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1998,0.00762276540426,0.0146075629705634,0.0006379678379566
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1999,0.007643042006620773,0.014631034115794724,0.0006550498974468213
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2000,0.007362887160299481,0.014013484008059117,0.0007122903125398455
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2001,0.0064211133526403405,0.012170344607269174,0.0006718820980115073
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2002,0.006103078707838647,0.01158807612496766,0.0006180812907096321
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2003,0.006339904576760716,0.012018252148788489,0.0006615570047329442
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2004,0.006938531982813068,0.013095502397826711,0.0007815615677994256
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2005,0.006542827163253271,0.012267183815560734,0.0008184705109458082
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2006,0.006012700592568514,0.011252264718911427,0.0007731364662256022
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2007,0.005176237527764892,0.009738869346395559,0.0006136057091342241
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2008,0.003989532758462165,0.0075421663503883515,0.0004368991665359783
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2009,0.003018357863870297,0.0057464034369159225,0.00029031229082467167
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2010,0.0026572134189905283,0.004999630641928463,0.00031479619605259386
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2011,0.0031617777277116047,0.005941201084427344,0.0003823543709958661
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2012,0.0026715189631720754,0.0050221946433915594,0.0003208432829525914
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2013,0.00175835969478379,0.0033576557706797624,0.00015906361888781782
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2014,0.0015369725038845861,0.002995410309595308,0.00007853469817386389
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2015,0.0012919623889435716,0.0025099489002137192,0.00007397587767342417
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2016,0.0012948789413324787,0.00252875330831262,0.000061004574352337094
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2017,0.0013620368977030283,0.0026864490517345537,0.000037624743671502625
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2018,0.001340605654308217,0.002576174236278812,0.00010503707233762189
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2019,0.0012576428378974248,0.002475019851440085,0.00004026582435476484
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2020,0.0008190532134517288,0.0015942689748772647,0.000043837452026192756
+Albania,5 to 9,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2021,0.0007064821466802619,0.0013686084244198776,0.00004435586894064626
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1990,0.0126539272816724,0.0173814001978029,0.0079264543655419
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1991,0.0129134187672799,0.0167388568353393,0.0090879806992205
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1992,0.012174572272658493,0.015869438395693408,0.008479706149623577
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1993,0.0105727812758225,0.0139322268789574,0.0072133356726876
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1994,0.0112384136024418,0.0147814462559408,0.0076953809489428
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1995,0.011687446731959,0.0155341889825055,0.0078407044814125
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1996,0.0120093869585105,0.0160535716921571,0.007965202224864
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1997,0.0280142254194947,0.0435495944296179,0.0124788564093715
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1998,0.0147707795549155,0.0194946367469781,0.0100469223628528
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1999,0.015326047609679094,0.02045170419042187,0.010200391028936318
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2000,0.015518127253408481,0.02068028692344137,0.01035596758337559
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2001,0.01361450392772637,0.017793113979730282,0.009435893875722455
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2002,0.012539060109021338,0.016537594940378295,0.008540525277664381
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2003,0.013531842444102835,0.018022778709727127,0.009040906178478542
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2004,0.014046315757885779,0.018773995484358454,0.009318636031413103
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2005,0.014387460791716593,0.019220433687118066,0.009554487896315118
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2006,0.013384905956761999,0.01764918788099637,0.009120624032527627
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2007,0.012890119351784395,0.01704796399290273,0.008732274710666059
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2008,0.010918519975538533,0.014842899186465506,0.006994140764611562
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2009,0.009391169418261158,0.01264557653451598,0.006136762302006335
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2010,0.010685496743155058,0.01401466443491916,0.007356329051390955
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2011,0.010657935742445095,0.01413371910298317,0.0071821523819070214
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2012,0.00945710293289376,0.012454461338046216,0.006459744527741305
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2013,0.0074151821971973775,0.009737112178443289,0.005093252215951466
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2014,0.006997388149211227,0.009279371317647679,0.004715404980774775
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2015,0.005856653266499267,0.007691007045962778,0.0040222994870357555
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2016,0.00598060626206769,0.00790345741704974,0.00405775510708564
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2017,0.006409199567604978,0.008605790683051895,0.00421260845215806
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2018,0.0058469702561429904,0.007654634619101168,0.0040393058931848125
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2019,0.006681143806376164,0.008957135858072094,0.0044051517546802345
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2020,0.0037600301031875142,0.0050275029937706635,0.002492557212604365
+Albania,5 to 9,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2021,0.0043674900136295765,0.00582852986208169,0.0029064501651774634

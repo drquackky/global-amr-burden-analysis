@@ -1,0 +1,737 @@
+Location,Age,Sex,Measure,Metric,Pathogen,Antibiotic class,Counterfactual,Year,Value,Upper,Lower
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1990,1.8178869168023928,2.5675736308277166,1.068200202777069
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1991,1.7238321686812177,2.485518114123168,0.962146223239267
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1992,1.8023594088247488,2.5899512332117456,1.0147675844377528
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1993,1.925198572673145,2.688735613806988,1.1616615315393024
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1994,2.2056216715883266,3.056326345547215,1.354916997629438
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1995,2.3334226466183257,3.233325583848057,1.4335197093885943
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1996,2.377053895063644,3.212739752634961,1.541368037492326
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1997,2.706475742561816,3.665741733427524,1.7472097516961078
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1998,2.8020491867001445,3.7455809856733793,1.8585173877269097
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1999,2.9691104995693807,3.927392045091672,2.0108289540470894
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2000,3.267605661210593,4.327583584362564,2.2076277380586213
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2001,3.4713493674813805,4.578916309332267,2.363782425630494
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2002,3.680577455388333,4.781993645339991,2.579161265436676
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2003,3.9247309622839,5.072314031251307,2.777147893316493
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2004,4.030666995103179,5.233541666244137,2.82779232396222
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2005,4.146875437966872,5.299224401243663,2.994526474690081
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2006,4.520353235669679,5.639728445937576,3.400978025401783
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2007,4.496635151303877,5.71660652479485,3.276663777812905
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2008,4.674165762777365,5.85395792938326,3.4943735961714717
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2009,4.721434622618256,5.839771242338809,3.603098002897703
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2010,4.781460549319523,5.962856444410595,3.600064654228452
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2011,4.88992053262313,6.001842746247137,3.777998318999122
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2012,5.07054872384771,6.253551403163361,3.8875460445320593
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2013,5.280308394077409,6.363341202303267,4.197275585851551
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2014,5.763873051571901,6.976539253468973,4.551206849674829
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2015,5.904494563501782,7.129494902406943,4.6794942245966205
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2016,5.911778652468115,7.123194862395158,4.700362442541072
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2017,5.895666032800797,7.126064775760192,4.6652672898414025
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2018,5.689307137436412,6.988444943344105,4.390169331528719
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2019,5.669112202117452,6.958236383371832,4.379988020863071
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2020,5.528082317581639,6.861489594906215,4.194675040257063
+Algeria,35 to 39,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2021,5.550162059539481,6.998615482386073,4.101708636692889
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1990,0.120561015088309,0.1601449804580346,0.0809770497185835
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1991,0.1249881463371747,0.1697132926808241,0.0802629999935253
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1992,0.12987940522570168,0.1762885909380155,0.08347021951338787
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1993,0.136328446124305,0.1811510031335044,0.0915058891151055
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1994,0.1414104502578305,0.1887925512448576,0.0940283492708033
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1995,0.1464043785480572,0.196045873879362,0.0967628832167523
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1996,0.1439500856100163,0.1892818735657119,0.0986182976543206
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1997,0.1519711613848972,0.2032035610547478,0.1007387617150467
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1998,0.1321055412474753,0.175144839165031,0.0890662433299196
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1999,0.15526733315129185,0.2041780497662175,0.1063566165363662
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2000,0.1815386949925969,0.24293196256830824,0.12014542741688553
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2001,0.19032010994963383,0.25165119232189154,0.12898902757737615
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2002,0.1960169727187556,0.2609018346499473,0.13113211078756382
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2003,0.1755826906779468,0.23363428266110253,0.11753109869479106
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2004,0.1937743220595912,0.26131645007301607,0.12623219404616626
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2005,0.17197919150406069,0.22937018254305516,0.11458820046506624
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2006,0.19156495386612632,0.25175409953156513,0.1313758082006875
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2007,0.1847735672701713,0.24777694142626883,0.1217701931140738
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2008,0.08874016298586648,0.11745559143621932,0.06002473453551365
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2009,0.08446096754922751,0.11135391088431758,0.05756802421413744
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2010,0.07790733957381876,0.10328466760978625,0.05253001153785129
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2011,0.07769153085775934,0.10110708381025642,0.05427597790526227
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2012,0.08719052312423513,0.11430599358426778,0.06007505266420248
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2013,0.08942423728231623,0.11535946659060764,0.0634890079740248
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2014,0.09327317152800432,0.1209410333705272,0.06560530968548142
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2015,0.10050191239035036,0.12999355525596146,0.07101026952473927
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2016,0.09611357580061491,0.1246165306971862,0.06761062090404361
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2017,0.10304203644423388,0.13380520889235528,0.0722788639961125
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2018,0.11652102363537756,0.15174920239915551,0.0812928448715996
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2019,0.11857542948026337,0.15571762899121908,0.08143322996930763
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2020,0.12183241511079908,0.16204561905217058,0.08161921116942761
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2021,0.12363407196882212,0.1647234114522909,0.08254473248535331
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1990,0.1259000105899413,0.2756223839926611,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1991,0.1134365450023437,0.2472303518214918,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1992,0.11982505273221317,0.256641534223248,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1993,0.1460825355017013,0.304526431856676,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1994,0.1413615283768071,0.2944764353506101,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1995,0.1525445234610073,0.3165278789161829,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1996,0.1349159599316863,0.2670919328321224,0.0027399870312503
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1997,0.168117442012054,0.3359665625367198,0.0002683214873882
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1998,0.1488792153423195,0.2953918809209302,0.0023665497637088
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1999,0.15987066052197046,0.31741833081643045,0.002322990227510452
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2000,0.16501903546884458,0.329585990812723,0.0004520801249661699
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2001,0.17198262954488033,0.34446564306385,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2002,0.1755266148070913,0.35184781594509607,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2003,0.17561137572642668,0.3471045946047278,0.004118156848125554
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2004,0.17950469380333997,0.3562269530083163,0.0027824345983636367
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2005,0.19916024459364884,0.3965708169634209,0.0017496722238768136
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2006,0.2022964622342912,0.39705995647630593,0.007532967992276429
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2007,0.2113643593387915,0.4306728299571825,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2008,0.20786874187314056,0.4083051196454522,0.007432364100828953
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2009,0.18724682225776296,0.3687360110255081,0.005757633490017761
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2010,0.22299966183787723,0.44989471565132966,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2011,0.1905853669526858,0.37813515789360985,0.0030355760117617703
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2012,0.2054055214198812,0.4169558919848897,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2013,0.19706100432243373,0.39954744953746274,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2014,0.2192900674523917,0.4484412747330943,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2015,0.2308067942382065,0.4673497186847148,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2016,0.24535377611701847,0.5094916943623584,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2017,0.29237153600334914,0.6026739656443186,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2018,0.3377804146279444,0.69349476260283,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2019,0.3233827667711848,0.6685432495248304,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2020,0.3845791119439744,0.8044789104511145,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2021,0.349634784473361,0.7066619140110346,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1990,0.1930269296315707,0.2518627909795444,0.134191068283597
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1991,0.1968152044526928,0.2649391823328774,0.1286912265725082
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1992,0.19846707164169317,0.26830151051418866,0.12863263276919762
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1993,0.2055021313050374,0.269981815091593,0.1410224475184819
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1994,0.2145118877824891,0.2798098485424705,0.1492139270225078
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1995,0.2108119851711076,0.2825233676610329,0.1391006026811822
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1996,0.2118691111638697,0.2819419221315341,0.1417963001962054
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1997,0.2132581678024386,0.28332117470682,0.1431951608980571
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1998,0.2108115066028492,0.2802175408499753,0.1414054723557232
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1999,0.1935066708497512,0.2560284171877668,0.13098492451173563
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2000,0.2012396348202342,0.26736144571368203,0.1351178239267864
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2001,0.21379676373731157,0.29384990749595175,0.13374361997867135
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2002,0.22072321721728227,0.2958396676421269,0.14560676679243764
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2003,0.252974066950349,0.3350906806598662,0.17085745324083185
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2004,0.2312874714994841,0.316026001019748,0.14654894197922017
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2005,0.2704070998586483,0.3603192725826885,0.1804949271346081
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2006,0.3145581127577681,0.4177681566059821,0.2113480689095542
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2007,0.34910282262099945,0.468132673098857,0.230072972143142
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2008,0.4723591527389196,0.6246820824639476,0.3200362230138916
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2009,0.5480238152101081,0.7146712967693059,0.3813763336509104
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2010,0.3903771536102829,0.5114446602172183,0.2693096470033474
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2011,0.3677991197191156,0.47877811652425,0.25682012291398126
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2012,0.42037530925702826,0.549822253939654,0.2909283645744026
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2013,0.4596358396547406,0.5923124719152713,0.32695920739421
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2014,0.45652869541962193,0.5932307883996534,0.3198266024395905
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2015,0.498391899912181,0.6398489891746982,0.3569348106496638
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2016,0.5194098148743531,0.6721047957447034,0.3667148340040029
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2017,0.5637529650662282,0.7297917118894617,0.3977142182429947
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2018,0.6658613118291579,0.8639911620746868,0.4677314615836289
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2019,0.6985643833152475,0.908469165065806,0.48865960156468913
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2020,0.8392452902211318,1.0979839230230883,0.5805066574191753
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2021,0.8616812320099208,1.1414727921691603,0.581889671850681
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1990,0.8509015349634066,1.3045825304691243,0.3972205394576888
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1991,0.8836930228828579,1.3823452424245963,0.3850408033411194
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1992,0.9338127545968276,1.4581003353725857,0.4095251738210696
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1993,0.8890869288101397,1.3572849666280316,0.4208888909922479
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1994,0.9241794520340828,1.410175808497583,0.4381830955705828
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1995,0.8388903215108953,1.3124624631534063,0.3653181798683841
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1996,0.8879960377782431,1.3524199837407218,0.4235720918157643
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1997,0.9648077586835664,1.4758159610741557,0.4537995562929771
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1998,1.0090001006760925,1.531459976270629,0.4865402250815561
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1999,1.0382109500060823,1.5649781445566195,0.5114437554555451
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2000,1.1290777272003454,1.7188501861478591,0.5393052682528314
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2001,1.198559238325717,1.8246985264556923,0.5724199501957423
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2002,1.2868627298379764,1.932134013402606,0.641591446273347
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2003,1.3185149826408336,1.98322362226444,0.6538063430172273
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2004,1.2405258332611542,1.907503796477508,0.5735478700448001
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2005,1.3905369478572598,2.088622409407649,0.6924514863068705
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2006,1.4411844716143565,2.111962200172938,0.7704067430557753
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2007,1.4869846682643688,2.2343870188091857,0.7395823177195519
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2008,1.8161258416560897,2.6129147310596688,1.0193369522525109
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2009,1.8883902294409207,2.6795905264957947,1.0971899323860477
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2010,1.987406138542679,2.834107833035809,1.1407044440495482
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2011,2.046306771276858,2.846033960502324,1.246579582051392
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2012,1.9812450801105064,2.80819934147774,1.1542908187432728
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2013,2.0671787256616017,2.881561181125406,1.2527962701977975
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2014,2.188911365208191,3.075316827822356,1.3025059025940258
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2015,2.199219366777328,3.046694180968161,1.351744552586495
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2016,2.1648462426254658,3.0402822097334483,1.2894102755174832
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2017,2.353883973114062,3.2927021334026394,1.4150658128254845
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2018,2.7281821396339136,3.8122411958391993,1.6441230834286282
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2019,2.9860934201022453,4.160982685775933,1.8112041544285584
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2020,2.96561670176736,4.21597583709706,1.7152575664376606
+Algeria,35 to 39,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2021,2.9942748507540893,4.3097695005580094,1.678780200950169
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1990,0.019451835978883,0.040779711040545,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1991,0.0198016456762111,0.0416981060540649,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1992,0.0202974732841334,0.042656164333877866,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1993,0.0208025280843974,0.0436167139952812,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1994,0.0214762803228018,0.0449256031393232,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1995,0.0212533939931582,0.0457682403273343,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1996,0.0218405667149837,0.0466365015867004,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1997,0.0228869491356061,0.0487196490928243,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1998,0.0242050713180378,0.0517322360142958,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1999,0.02650826276557065,0.05688737439717619,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2000,0.02748147619878659,0.05805567138238628,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2001,0.029255724125520764,0.062102596032520455,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2002,0.030729756053237432,0.0654478932253876,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2003,0.03212984639384577,0.06846527927592377,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2004,0.032714473036118435,0.06947626635466694,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2005,0.033515264585124924,0.07102894682641846,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2006,0.03524232189184879,0.07440757746635744,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2007,0.035697802013606866,0.07513057032061815,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2008,0.02474342922663647,0.05242214695524189,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2009,0.02537194341748517,0.05418475912452564,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2010,0.026377297926845213,0.057787582052454926,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2011,0.026978335534219387,0.05925829587002243,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2012,0.02755609699498268,0.06022036123191688,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2013,0.029812317169244977,0.06514618059204413,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2014,0.03169003990715871,0.06820104022469191,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2015,0.032399946817406905,0.06811157928139858,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2016,0.0337520069499284,0.0713208790689954,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2017,0.035432199476857426,0.0749785294754441,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2018,0.03618564663019266,0.07642731552946012,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2019,0.03670112652212146,0.0776087866461965,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2020,0.03869538619566335,0.0818248996706456,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2021,0.039632104769145145,0.08510302248888404,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1990,0.011573598300401,0.0249945921839837,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1991,0.0117900175870044,0.0257864268380445,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1992,0.011690295086659894,0.02541218339474689,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1993,0.0113177185922448,0.0247157031004874,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1994,0.0105991946681361,0.0230924941676157,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1995,0.0096615707433514,0.0214639225720487,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1996,0.008701352855482,0.0193301250502055,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1997,0.0079560245222565,0.0176972171657582,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1998,0.0078671258986846,0.0173450787490086,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1999,0.007790642189511317,0.016975356379616738,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2000,0.007688199020110071,0.016885938555462113,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2001,0.00834996892987667,0.01810840722501738,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2002,0.00816325593070695,0.017753620578104787,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2003,0.008189288585646166,0.017882482454970094,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2004,0.008004387843251628,0.01766941181968867,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2005,0.008133894628124224,0.017799443737311654,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2006,0.009256109550279851,0.01995837823001519,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2007,0.010133904450325588,0.02178779616480261,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2008,0.011542930308137368,0.02472077133253576,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2009,0.01346903209899701,0.028849720118809707,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2010,0.015236628111869323,0.03316020139802946,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2011,0.017642174155953594,0.03841232454009852,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2012,0.01682888540433565,0.03635846114172856,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2013,0.015115210098976309,0.0332083580935641,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2014,0.012804271614770744,0.028021536809063156,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2015,0.01125166912338844,0.02507422002107075,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2016,0.012955143189477531,0.02897420581067191,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2017,0.014011851990098478,0.03141971486818825,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2018,0.016860231146874537,0.03809133002526621,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2019,0.02021671935866901,0.04583049513070264,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2020,0.019834968157711894,0.04537366643557106,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2021,0.0190720318364618,0.04360082162396462,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1990,0.0006254342628397,0.0016029955066351,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1991,0.0005972601268563,0.0015023905434694,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1992,0.0005791043532936821,0.0014668211245648026,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1993,0.0005694129235939,0.0014267506523393,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1994,0.0005781799744406,0.0014092093595572,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1995,0.0005871001286982,0.0014230877669772,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1996,0.0005929358475979,0.0014286842765663,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1997,0.0006065481851681,0.0014732239167254,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1998,0.0006356244538294,0.0015142067047862,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1999,0.0006938312395287469,0.0016441683169690618,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2000,0.000739358850612675,0.0017903132569658407,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2001,0.000791096046008307,0.001979292919543868,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2002,0.0008268518158395938,0.0020917917540244054,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2003,0.0008459645801728792,0.002151834446037151,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2004,0.000881524970657899,0.002207568225421575,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2005,0.0009250168955836124,0.0023235584238426687,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2006,0.0010238714012950432,0.002558566472364444,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2007,0.0011265510985547429,0.002793989004991889,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2008,0.001299760992121062,0.003290950974826921,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2009,0.0015401118491359333,0.003937179083559861,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2010,0.002013081774072952,0.005216683567749004,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2011,0.002363232811022458,0.006092592784083896,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2012,0.002869235384902793,0.007293524377138485,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2013,0.0036395176887511296,0.009096831122180276,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2014,0.004801710919002467,0.01160928687942759,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2015,0.004625393134737263,0.010910180988012566,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2016,0.0055666345130983615,0.013080432766261266,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2017,0.006856950731055899,0.015758637493234157,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2018,0.008241182800324025,0.018728605297325163,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2019,0.008648491904070969,0.019565925295475375,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2020,0.0089636117903803,0.020361137000034217,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2021,0.009280722410772874,0.021221891781289946,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1990,0.9525952477544632,2.6572256841548088,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1991,0.981699100156715,2.7014197745995068,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1992,1.038088670309463,2.895643728470485,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1993,1.0962853819999812,3.097328583171765,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1994,1.163085766247264,3.482906884616736,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1995,1.2038195781829506,3.725598812520349,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1996,1.2248017541201686,3.736456307122433,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1997,1.231324894730117,3.758995581750284,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1998,1.217769839116083,3.65555459509106,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1999,1.235074349388799,3.81327854555368,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2000,1.22252607072471,3.628312942230386,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2001,1.1921423754224492,3.4830999631908,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2002,1.1596294020415587,3.299229370437853,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2003,1.0620512213273718,3.03179627164593,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2004,0.996589425831403,2.8719564057588043,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2005,0.9436146927149004,2.759829330202677,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2006,0.902060580690648,2.624210502506681,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2007,0.8621548072091056,2.5381675266814794,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2008,0.828025921737034,2.50489068461758,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2009,0.8087104633877108,2.444359034667471,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2010,0.8081700745253607,2.5276179351910444,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2011,0.8226942125615159,2.6006565405686835,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2012,0.8450130890222552,2.8072530687810606,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2013,0.8918172189786198,3.0101304835048954,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2014,0.9303283619215676,3.295398148741301,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2015,0.9408353695767908,3.7633340105857296,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2016,0.9144066885980288,3.6591096547725375,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2017,0.9199303635962776,3.604608019916976,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2018,0.9485870481528064,3.754053341508925,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2019,0.9472507419981296,3.933929255433716,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2020,0.9642076410429128,4.007629203665703,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2021,1.00263741182751,4.007275662110093,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1990,0.0143478987826954,0.0328670949995924,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1991,0.0129519733509588,0.0299853213795031,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1992,0.012121502442095916,0.02846081124774168,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1993,0.0116961268762921,0.026543741577216,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1994,0.0114080467445823,0.0260270395615826,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1995,0.0105681930287422,0.0241645267226352,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1996,0.0108148349767746,0.0239336576707066,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1997,0.0109282646488756,0.023882240445219,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1998,0.010630003121013,0.0229698160545931,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1999,0.009522677160335632,0.02069156029967145,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2000,0.01013464821894982,0.021904630393736964,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2001,0.01055547670779409,0.023123320049834424,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2002,0.011100329979311038,0.0237458515677716,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2003,0.011471907379464494,0.02410916296835632,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2004,0.011891369575656875,0.025150635803882142,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2005,0.012355184168467304,0.02611670285173955,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2006,0.013009561623042905,0.02680224599836248,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2007,0.014248004994381011,0.030227680114566363,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2008,0.014198368717091674,0.02900964645731631,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2009,0.015618487522876505,0.031943242205361815,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2010,0.01934587232586001,0.03960980971607114,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2011,0.02228541629826568,0.04420268542147853,0.0003681471750528291
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2012,0.02459676354100066,0.04931830892845739,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2013,0.027401563281257355,0.054122220592781385,0.0006809059697333239
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2014,0.02937617804777667,0.057751116879210654,0.0010012392163426878
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2015,0.030290859676133604,0.059006770983178095,0.0015749483690891163
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2016,0.03134601435153579,0.062021230855708334,0.0006707978473632463
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2017,0.03367221527976634,0.06574999289157715,0.0015944376679555353
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2018,0.03669286352606116,0.07076056698401431,0.0026251600681080137
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2019,0.0389863894947821,0.07588438742297592,0.002088391566588285
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2020,0.03999917841827043,0.07907494546496513,0.0009234113715757344
+Algeria,35 to 39,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2021,0.04280847643925233,0.08290686522440782,0.002710087654096839
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1990,0.2635213188779405,0.433035864909513,0.0940067728463681
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1991,0.2682482377659374,0.4507719455596424,0.0857245299722324
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1992,0.26511189089276643,0.4438921646094721,0.08633161717606072
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1993,0.2848764694862611,0.4632006323978587,0.1065523065746636
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1994,0.2422682850639459,0.3956427679267784,0.0888938022011135
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1995,0.2541331369045086,0.4129179527703283,0.095348321038689
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1996,0.2449198791352526,0.3943338433520095,0.0955059149184957
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1997,0.2591544977404418,0.4098163097245754,0.1084926857563083
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1998,0.2698884608361619,0.4233171235690306,0.1164597981032931
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1999,0.2769156804197514,0.4300851182433777,0.12374624259612509
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2000,0.3041372032286864,0.47350803458788193,0.13476637186949095
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2001,0.2892858118654532,0.4540214984049134,0.12455012532599302
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2002,0.31736363054737765,0.48883178231926927,0.14589547877548606
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2003,0.32441459006015505,0.501156816201586,0.1476723639187241
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2004,0.35636623762087966,0.5509074161848198,0.16182505905693953
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2005,0.374344009959967,0.5674888320007121,0.18119918791922185
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2006,0.4039219262536015,0.6113228666391602,0.19652098586804265
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2007,0.45852874673040256,0.6920457197374011,0.22501177372340397
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2008,0.5110760276036223,0.7606927541381605,0.26145930106908405
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2009,0.48703425397786254,0.7258152597301574,0.2482532482255677
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2010,0.5416403705045585,0.80720315799898,0.27607758301013696
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2011,0.5528927971492452,0.8097239336175841,0.29606166068090634
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2012,0.5931900396522318,0.8741907828621436,0.3121892964423201
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2013,0.6774025914921944,0.986645713133942,0.3681594698504468
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2014,0.7780134350133814,1.1306960536753945,0.4253308163513684
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2015,0.8383079818278157,1.2112243559074838,0.46539160774814775
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2016,0.922096228140206,1.3372487702428817,0.5069436860375307
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2017,1.0139673518187102,1.466889553255696,0.5610451503817244
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2018,1.0738067208854134,1.5674490347855414,0.5801644069852853
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2019,1.1784319946487534,1.7066807249947038,0.6501832643028029
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2020,1.29106486784631,1.9123214637967916,0.6698082718958289
+Algeria,35 to 39,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2021,1.5206985105394466,2.2338444530010184,0.8075525680778746
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1990,0.6857811078934037,1.0070933460258225,0.3644688697609851
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1991,0.6842645016688806,1.022063410596277,0.3464655927414844
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1992,0.702558548217904,1.045977122770126,0.359139973665682
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1993,0.723720819216146,1.0653927137616035,0.3820489246706884
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1994,0.7536846788498703,1.105629946520716,0.4017394111790248
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1995,0.7289472375151311,1.0747995848845917,0.3830948901456706
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1996,0.6716186732781613,0.991065020653943,0.3521723259023795
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1997,0.6516188148166457,0.9587391737014036,0.344498455931888
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1998,0.6321295940824344,0.9271179128140732,0.3371412753507957
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1999,0.5883025813894172,0.85626960250904,0.32033556026979426
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2000,0.5719865875801097,0.8395939034604705,0.3043792716997488
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2001,0.5634350596591398,0.8439739309207036,0.2828961883975759
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2002,0.5441563687953841,0.8037377765632501,0.2845749610275181
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2003,0.5118222230917665,0.7617387570665253,0.26190568911700773
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2004,0.50861439061205,0.7661482538041192,0.2510805274199809
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2005,0.49052773849127607,0.7274211203130156,0.2536343566695365
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2006,0.47251419241675,0.7036768762298683,0.2413515086036316
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2007,0.4445763780579184,0.6612403938184512,0.2279123622973855
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2008,0.4081548325650002,0.6066275381674691,0.20968212696253136
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2009,0.385359838317788,0.5686686810624119,0.2020509955731642
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2010,0.41207239049357103,0.6095017203682096,0.21464306061893249
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2011,0.4037379195734873,0.582862813879794,0.22461302526718063
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2012,0.4054843270570832,0.59013139503484,0.2208372590793264
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2013,0.428069685928273,0.613672003465025,0.24246736839152092
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2014,0.4600921102918537,0.6657900143725036,0.2543942062112038
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2015,0.4775353231801856,0.68772344157532,0.26734720478505114
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2016,0.4977135313702192,0.7217848843214401,0.2736421784189983
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2017,0.4935299264397574,0.7119148259551756,0.2751450269243392
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2018,0.5346472331034742,0.7873153423523382,0.28197912385461005
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2019,0.5991172300457854,0.8706682004584188,0.32756625963315206
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2020,0.5747972306247715,0.8622855484189939,0.2873089128305492
+Algeria,35 to 39,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2021,0.5662291779416114,0.8597171680097255,0.27274118787349727
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1990,0.0364991989091393,0.0486006992169267,0.0243976986013519
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1991,0.0352175990440013,0.047218285730823,0.0232169123571796
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1992,0.03449964337919885,0.04581257096744502,0.02318671579095268
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1993,0.0336660571542137,0.0446548080624382,0.0226773062459892
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1994,0.0332782101100356,0.0444083032184919,0.0221481170015792
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1995,0.0315541785110343,0.0417886815969317,0.0213196754251369
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1996,0.0288064024320612,0.038604644081053,0.0190081607830694
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1997,0.0283464007416466,0.0375863651083818,0.0191064363749114
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1998,0.0263735653030056,0.0348316859297391,0.017915444676272
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1999,0.024494789056084647,0.0321660505435575,0.016823527568611794
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2000,0.02485724319336735,0.03276844410545576,0.016946042281278943
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2001,0.02494218550045791,0.033165836970384006,0.016718534030531813
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2002,0.0255242513778859,0.033630287256779655,0.017418215498992147
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2003,0.02581905366895286,0.03436603411107757,0.01727207322682815
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2004,0.024681236996605783,0.03293265023557556,0.016429823757636006
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2005,0.02501878001963149,0.033147512221649245,0.016890047817613735
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2006,0.02529465532189065,0.03423539416773459,0.016353916476046712
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2007,0.025429284608794896,0.03410111067713312,0.016757458540456675
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2008,0.026807599771132454,0.03586022510349275,0.01775497443877216
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2009,0.02726953515126316,0.036104493431504674,0.01843457687102164
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2010,0.02816127792231691,0.03762931235732528,0.018693243487308542
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2011,0.02816399188461811,0.0369636291008934,0.019364354668342812
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2012,0.029048023722460195,0.03816656341324608,0.019929484031674317
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2013,0.030880540620312296,0.04034587494481269,0.021415206295811905
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2014,0.03273656883280808,0.043121348961205605,0.022351788704410555
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2015,0.03320372762135238,0.04364591017883347,0.02276154506387129
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2016,0.034508814603898263,0.04497760943474462,0.024040019773051917
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2017,0.037537016832824496,0.04917658480127314,0.02589744886437585
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2018,0.04112622816427841,0.054658535254143575,0.02759392107441325
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2019,0.04186501356361362,0.05480472922670182,0.02892529790052542
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2020,0.04307358174053936,0.057903634963590425,0.02824352851748829
+Algeria,35 to 39,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2021,0.0433764282691413,0.05878280482791867,0.02797005171036393
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1990,0.0748885883478577,0.115213667199984,0.0345635094957314
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1991,0.0744135581781344,0.1150303391911993,0.0337967771650695
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1992,0.07675891222489473,0.12015537837608384,0.033362446073705615
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1993,0.0800334857379803,0.121990525131112,0.0380764463448485
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1994,0.0838647983339696,0.1275065656038335,0.0402230310641056
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1995,0.0852578677820318,0.1288444372893583,0.0416712982747053
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1996,0.0791334384021076,0.1202314539179293,0.0380354228862858
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1997,0.0854738548841685,0.1280090312434165,0.0429386785249205
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1998,0.0829297936985514,0.1248088222317419,0.041050765165361
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1999,0.08996610166398339,0.13411048660409258,0.04582171672387419
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2000,0.09164544256134136,0.13850843067460367,0.044782454448079066
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2001,0.1028015896442306,0.15572635525159936,0.04987682403686183
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2002,0.10479931857855926,0.157411700146427,0.05218693701069151
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2003,0.10676561057611808,0.1606661226359406,0.05286509851629557
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2004,0.10870916434673487,0.1642169874532795,0.05320134124019025
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2005,0.11005572219940583,0.16523436364629268,0.05487708075251898
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2006,0.112209683189577,0.1659679700881371,0.05845139629101689
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2007,0.11438000872592534,0.17288529543924697,0.0558747220126037
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2008,0.13899524389760975,0.2041539132238756,0.07383657457134389
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2009,0.14165280342688236,0.20757874549127495,0.07572686136248975
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2010,0.13396307931281376,0.19777192894685405,0.07015422967877347
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2011,0.14653097530909298,0.2118155623767073,0.08124638824147866
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2012,0.18043061818822148,0.2537413775711204,0.10711985880532256
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2013,0.1877327004291437,0.26679216458563826,0.10867323627264912
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2014,0.16309245526255658,0.23287294844966944,0.0933119620754437
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2015,0.1644849463802017,0.2360093335887184,0.09296055917168504
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2016,0.1568903709733119,0.2288151772986444,0.08496556464797941
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2017,0.16892043217383385,0.2424578848697574,0.0953829794779103
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2018,0.183306785190547,0.26318190732971253,0.10343166305138146
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2019,0.20770122529129623,0.2959742949897509,0.11942815559284158
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2020,0.16954803780222216,0.2503563370913591,0.08873973851308521
+Algeria,35 to 39,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2021,0.1699272584659267,0.251175196297591,0.08867932063426245
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1990,0.0063682253084905,0.0295232874203012,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1991,0.0053636935732868,0.02687795246149,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1992,0.005235914899160057,0.02663892856591695,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1993,0.0055496824139802,0.0265301021167801,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1994,0.0063023640837055,0.0296279242116296,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1995,0.0063152772539103,0.0295497143836649,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1996,0.0068480904946137,0.0299007218106738,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1997,0.0068156855613268,0.029519044598095,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1998,0.0071926330560941,0.0308257557560604,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1999,0.006748277052238962,0.028778175826978968,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2000,0.0070614502528943655,0.02802110821793479,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2001,0.00635731814271385,0.02574728837356227,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2002,0.006198250128640786,0.02439056844976872,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2003,0.005912851515048952,0.02227331340517184,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2004,0.00546374936563189,0.0206607256003926,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2005,0.0043564474120511626,0.017252601572006865,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2006,0.004425357790957743,0.016806735315723423,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2007,0.003889561893934429,0.01594066544283893,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2008,0.004426962240620991,0.015209163974918135,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2009,0.003607064172598279,0.01283471434046981,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2010,0.002178203043676735,0.01026761500111829,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2011,0.0017351271044144696,0.007686262468277917,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2012,0.0014315435529922132,0.006958475012401133,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2013,0.0015520147427375197,0.010794284657763817,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2014,0.0008117739699984693,0.005920918716563924,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2015,0.0007484327793817603,0.005084710991248197,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2016,0.0006139594735617739,0.004849583210240035,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2017,0.0005938767958889781,0.004531745672344291,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2018,0.0005851846919427985,0.004661484975478466,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2019,0.0005907467823006308,0.0049395485765383485,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2020,0.0006644915802286031,0.005561351524893479,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2021,0.0006741793183741319,0.005050838510539088,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1990,0.0842521109065335,0.1195055226835373,0.0489986991295297
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1991,0.0855230228319609,0.1220424315869602,0.0490036140769616
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1992,0.08936306942970089,0.12726750860001965,0.051458630259382125
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1993,0.0936414899804319,0.1320277223778844,0.0552552575829794
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1994,0.0994604704192841,0.1398366601641806,0.0590842806743875
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1995,0.1047913016579638,0.1476765384177385,0.0619060648981892
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1996,0.1050666404555965,0.1469662638440316,0.0631670170671614
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1997,0.1143791367570434,0.1596728760127381,0.0690853975013487
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1998,0.1173950676107632,0.1666567180862199,0.0681334171353064
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1999,0.11989127224775745,0.16944726552961403,0.07033527896590083
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2000,0.12373357795179411,0.17611994861396968,0.07134720728961857
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2001,0.12318615144638644,0.17665336469617937,0.0697189381965935
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2002,0.12708624092232054,0.18332493467699196,0.07084754716764916
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2003,0.1273041693539812,0.1850959190284404,0.06951241967952199
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2004,0.13200061896790158,0.19261491709557432,0.07138632084022885
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2005,0.1326021169954875,0.1914424078194396,0.07376182617153537
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2006,0.13525823459145797,0.19216609408092303,0.07835037510199289
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2007,0.1389620430082334,0.1993353030717067,0.0785887829447601
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2008,0.11516179652207656,0.15045062665651082,0.07987296638764231
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2009,0.11554069212414886,0.14970566255826606,0.08137572169003165
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2010,0.11809682449248192,0.15571604930888208,0.08047759967608178
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2011,0.1221364996335217,0.15924265783797298,0.08503034142907043
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2012,0.12322235277240216,0.16094691750411377,0.08549778804069055
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2013,0.12621629464370396,0.1665296408558214,0.08590294843158654
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2014,0.12597084275928186,0.1645343745795282,0.0874073109390355
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2015,0.12557038846031027,0.16232328182677525,0.08881749509384529
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2016,0.12618462121334328,0.16540947728726524,0.08695976513942132
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2017,0.13351588897911423,0.17622192161277322,0.09080985634545526
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2018,0.14445334486704878,0.1922723883158008,0.09663430141829676
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2019,0.15252970234125637,0.2010611632556401,0.10399824142687264
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2020,0.1637793688389534,0.22103581500164493,0.10652292267626184
+Algeria,35 to 39,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2021,0.1723315315914998,0.2352244997025276,0.109438563480472
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1990,0,0,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1991,0,0.0000025916627322174664,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1992,0,0.000005028859666261681,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1993,0.0047605628617526,0.0105207585438191,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1994,0.0073414093218986,0.0180746295732983,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1995,0.0101430596802085,0.0267476012123512,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1996,0.0133587526540743,0.0343700536083017,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1997,0.0169729436429236,0.0414733754776174,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1998,0.0203544094752819,0.0494153261929256,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1999,0.02417966204333669,0.060471255121581954,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2000,0.026651270041848675,0.06663275491316994,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2001,0.028321933208557904,0.07082862153464264,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2002,0.03077080232817913,0.07621163010076693,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2003,0.031125696191956705,0.07792602242716835,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2004,0.03199046022648745,0.08227428272084805,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2005,0.0327842916778443,0.08726563170831261,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2006,0.03384765956594306,0.09003815354410269,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2007,0.034831336527270114,0.09551495956692334,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2008,0.03576494247779119,0.10430719034700033,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2009,0.03708787807513647,0.11703523400994456,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2010,0.03844545093064947,0.14586860724080278,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2011,0.04110285994091738,0.15798511269873738,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2012,0.04460472214045511,0.18652188085336735,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2013,0.049580589071094486,0.20660458366472276,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2014,0.054156789546164055,0.23209112170759943,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2015,0.05675087341677658,0.243035970280651,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2016,0.05686443588739755,0.23464661107071105,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2017,0.059501217627811145,0.2317828170566184,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2018,0.06401799443595532,0.2508923994529435,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2019,0.06606256106448197,0.27216328445060406,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2020,0.0692220627689914,0.27462070377923387,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2021,0.07415193471284753,0.2743434145886185,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1990,0.0222618161212296,0.0320664258985679,0.0124572063438913
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1991,0.0223322037482396,0.0323727181502368,0.0122916893462424
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1992,0.023369458290158573,0.033887821577468225,0.01285109500284892
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1993,0.023919918748236,0.0351454723190718,0.0126943651774002
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1994,0.0251581653887981,0.0367014385715549,0.0136148922060413
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1995,0.0265615044875563,0.0388538343345752,0.0142691746405375
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1996,0.0273686740820126,0.0397966424685727,0.0149407056954525
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1997,0.0284264952817392,0.0409563437134461,0.0158966468500324
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1998,0.0287156022034066,0.0410152218470458,0.0164159825597674
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1999,0.02973597356110873,0.04229625051627679,0.017175696605940677
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2000,0.031057591346435504,0.04447600278030402,0.017639179912566985
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2001,0.03187964176373323,0.04509955497966391,0.018659728547802547
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2002,0.03252453840693453,0.04629428150778901,0.01875479530608005
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2003,0.03308953407865758,0.04782711942957111,0.018351948727744045
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2004,0.032837287525457115,0.04739092409073385,0.018283650960180375
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2005,0.0336989903951797,0.0483196154911876,0.019078365299171805
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2006,0.03452046907772096,0.04965948613146787,0.01938145202397405
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2007,0.03501492240646946,0.050351976665152544,0.01967786814778637
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2008,0.03531843015416328,0.051241304399164175,0.019395555909162376
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2009,0.037518430660638,0.0533580398819299,0.0216788214393461
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2010,0.03789062715829908,0.0549332971581562,0.02084795715844196
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2011,0.0400419865863154,0.057550593082651466,0.02253338008997933
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2012,0.04051890854377117,0.05807401437819341,0.02296380270934893
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2013,0.042531853079794985,0.06128462169926094,0.023779084460329027
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2014,0.04377713959161501,0.06270896673066352,0.024845312452566496
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2015,0.04502679614603769,0.06386492558519703,0.026188666706878343
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2016,0.04795303749507467,0.06828518385236151,0.027620891137787835
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2017,0.05209174460407025,0.07537206352405428,0.028811425684086216
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2018,0.05824520367470325,0.08465463043699824,0.03183577691240827
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2019,0.06296654288825092,0.09147360318635596,0.034459482590145855
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2020,0.06526442145899533,0.09653194905615044,0.033996893861840204
+Algeria,35 to 39,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2021,0.06932365907181307,0.10062748276124664,0.03801983538237949
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1990,0.4173745408622796,0.630945665960298,0.2038034157642613
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1991,0.4811946909828959,0.7265253086749996,0.2358640732907922
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1992,0.5375258375609859,0.806912141096193,0.26813953402577884
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1993,0.5930277286922043,0.8894358562588947,0.296619601125514
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1994,0.6328663734949781,0.9436535012304996,0.3220792457594567
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1995,0.7108341707833976,1.0577782403678178,0.3638901011989774
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1996,0.7756548975751664,1.1507898760338722,0.4005199191164604
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1997,0.8043368512513953,1.1826597074807268,0.4260139950220638
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1998,0.883843487901748,1.2952702579555326,0.4724167178479635
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1999,0.8962286172749542,1.3070419327929228,0.48541530175698566
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2000,1.0016477651347542,1.4549046124775824,0.548390917791926
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2001,1.1064577913793738,1.6146928783524612,0.5982227044062864
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2002,1.2335540555657545,1.7938551983487372,0.6732529127827718
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2003,1.2724183858892362,1.844651832110387,0.7001849396680854
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2004,1.369304889843388,1.974249362113342,0.764360417573434
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2005,1.4366239313288052,2.046305319639402,0.8269425430182086
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2006,1.4867185109755354,2.118073686938144,0.855363335012927
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2007,1.5034129169291657,2.1360404575190683,0.8707853763392629
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2008,1.5264745896306915,2.1568211288499617,0.896128050411422
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2009,1.5534851323072885,2.1857298068294484,0.9212404577851286
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2010,1.565751895235841,2.2033734327889944,0.9281303576826871
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2011,1.571099393294567,2.195950492142572,0.946248294446562
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2012,1.547129289646061,2.1674053504810407,0.9268532288110808
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2013,1.540286569807713,2.144831294485701,0.9357418451297248
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2014,1.5637079491467856,2.1791921275844226,0.9482237707091484
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2015,1.544590828839431,2.160633862284082,0.92854779539478
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2016,1.459818745618918,2.0400564802900005,0.8795810109478355
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2017,1.413607863595681,1.998235444461263,0.8289802827300988
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2018,1.3363214258651284,1.8956915826131997,0.7769512691170576
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2019,1.252206301389893,1.7788856253741685,0.7255269774056177
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2020,1.1668368560563884,1.6749651758959492,0.6587085362168278
+Algeria,35 to 39,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2021,1.023922676372044,1.472169597102214,0.5756757556418739
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1990,2.5093274809292425,3.8186963428482272,1.1999586190102578
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1991,2.4643341214711745,3.8227862355922793,1.1058820073500697
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1992,2.7823149838985373,4.235479411834377,1.3291505559626977
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1993,2.9115111485891214,4.293453911340432,1.5295683858378113
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1994,3.07948480269656,4.526920861450782,1.6320487439423372
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1995,3.284672370723025,4.788411747628555,1.780932993817496
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1996,3.2647735688966977,4.724680917915511,1.8048662198778844
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1997,3.301330534941945,4.797650377372075,1.805010692511816
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1998,3.3401428242839244,4.838009068007935,1.8422765805599144
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1999,3.4950743137573497,5.059342120199691,1.9308065073150087
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2000,3.788700265119766,5.446186787373168,2.131213742866364
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2001,3.955009512419163,5.6711126059353845,2.2389064189029417
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2002,4.326620040223805,6.079975844109041,2.573264236338569
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2003,4.508568636050956,6.297602789091623,2.71953448301029
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2004,4.63992091881998,6.467494167540374,2.8123476700995864
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2005,4.88382597880097,6.648542620988424,3.119109336613515
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2006,5.0593087401822014,6.73040040038488,3.388217079979522
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2007,5.414107104251109,7.211405146669502,3.6168090618327136
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2008,5.609856539920642,7.384493608478285,3.835219471363
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2009,5.9807839370677085,7.712750091565387,4.24881778257003
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2010,6.096571554643408,7.918973796221134,4.2741693130656815
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2011,6.4598363473736775,8.25593571397323,4.663736980774125
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2012,6.767930020894543,8.74264414175762,4.793215900031465
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2013,7.239411253023259,9.246036713859976,5.232785792186543
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2014,7.399334370986755,9.546474821803317,5.252193920170194
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2015,7.682595541663325,9.994503389783723,5.370687693542927
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2016,7.914669298138945,10.443496322448082,5.385842273829807
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2017,8.23614017917644,11.015898549119228,5.456381809233653
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2018,9.06059635943352,12.137235735507868,5.983956983359171
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2019,9.881439037318952,13.228185800326042,6.534692274311863
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2020,10.02824598850807,13.829668198536147,6.226823778479993
+Algeria,35 to 39,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2021,10.481695295734156,14.455265130824904,6.508125460643408
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1990,0.9525952477544632,2.6572256841548088,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1991,0.981699100156715,2.7014192016563823,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1992,1.038088670309463,2.895642640347615,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1993,1.0915248191382283,3.0878428519542864,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1994,1.1557443569253656,3.4663814704024705,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1995,1.1936765185027418,3.701088042260481,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1996,1.2114430014660942,3.7048424257701393,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1997,1.2143519510871934,3.7208332110039,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1998,1.197415429640801,3.60997263218252,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1999,1.2108946873454625,3.7573543239785288,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2000,1.1958748006828612,3.5670439256618893,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2001,1.1638204422138911,3.418414784305989,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2002,1.1288585997133795,3.230035277076282,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2003,1.030925525135415,2.9615774865897286,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2004,0.9645989656049156,2.7980298931709697,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2005,0.9108304010370564,2.681342553775472,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2006,0.8682129211247049,2.5431403909969785,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2007,0.8273234706818355,2.4528583300715274,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2008,0.7922609792592428,2.413061574410394,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2009,0.7716225853125743,2.342744230056044,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2010,0.7697246235947113,2.4052884833914314,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2011,0.7815913526205984,2.466767925263733,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2012,0.8004083668818002,2.649834938007956,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2013,0.8422366299075253,2.83468752151854,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2014,0.8761715723754036,3.096981246274657,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2015,0.8840844961600143,3.552435065623506,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2016,0.8575422527106312,3.4544719121092475,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2017,0.8604291459684665,3.399224099851057,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2018,0.8845690537168511,3.530972085269572,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2019,0.8811881809336476,3.688970920394633,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2020,0.8949855782739212,3.7582070073195832,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2021,0.9284854771146624,3.7576003778050753,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1990,0.014334786722155,0.0319213950974724,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1991,0.0142406058399135,0.0315195154085365,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1992,0.0145304170709635,0.03191627971440314,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1993,0.0148263856963944,0.0317070209552651,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1994,0.0154405207528679,0.0326396689001257,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1995,0.0158441811598336,0.033429403836487,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1996,0.0158264881459365,0.0324646635957758,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1997,0.0167047801628886,0.0339576965592788,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1998,0.0169929272969312,0.0341015339203549,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1999,0.0173614555874522,0.03521052276075376,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2000,0.01829298008595664,0.03703519815655427,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2001,0.018775695275721656,0.03835386787320338,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2002,0.019529213072268965,0.039362233343174735,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2003,0.019346758149000547,0.03879376295638714,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2004,0.01968795049689011,0.03953011259859659,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2005,0.019943107176468577,0.03960171089287399,0.00028450346006316657
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2006,0.020114051557217908,0.03954740825359705,0.0006806948608387639
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2007,0.020522231388778213,0.04156143599124938,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2008,0.020061672216285832,0.03941467818007817,0.0007086662524934915
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2009,0.02040117209787624,0.04036756674230464,0.0004347774534478287
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2010,0.020760344904872524,0.0412602657323065,0.00026042407743855425
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2011,0.021142686528383123,0.041767833301281726,0.0005175397554845161
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2012,0.021486639491381986,0.04311818691962732,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2013,0.02253495631839508,0.04476112757822487,0.0003087850585652835
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2014,0.02284007079164248,0.04611563718300683,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2015,0.023313686432645288,0.0464263406196286,0.0002010322456619772
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2016,0.024183229116869903,0.04913439516354204,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2017,0.02558441302887916,0.05215963127867394,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2018,0.027978142426394532,0.055312743180923024,0.0006435416718660429
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2019,0.02902887114169172,0.05803706687425704,0.000020675409126400677
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2020,0.02983568759712807,0.06019777481506608,0
+Algeria,35 to 39,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2021,0.03121534721395099,0.0617658177168542,0.0006648767110477849
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1990,0.1536759681314888,0.204458425580159,0.1028935106828185
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1991,0.1645286075395356,0.2210850373138896,0.1079721777651815
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1992,0.18109803773370772,0.24620581323593105,0.11599026223148444
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1993,0.1841929380191641,0.242911136123176,0.1254747399151522
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1994,0.1950000588160834,0.2581997568074274,0.1318003608247395
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1995,0.1910312951910705,0.2534239183811599,0.1286386720009811
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1996,0.1870606793266396,0.2474681127697149,0.1266532458835644
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1997,0.1903148772218766,0.2500839224998117,0.1305458319439415
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1998,0.2022360963388572,0.2643471099077201,0.1401250827699942
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1999,0.20680592876733872,0.27089390527822754,0.14271795225644987
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2000,0.21779724370378217,0.2902002341831892,0.14539425322437516
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2001,0.2443106117308782,0.3249283691941164,0.16369285426764005
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2002,0.2597742983083441,0.346255575322182,0.17329302129450624
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2003,0.28255609785586566,0.37336586356399926,0.19174633214773207
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2004,0.2846235999270029,0.38359827583027206,0.18564892402373376
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2005,0.317662855085139,0.4251194369383823,0.21020627323189564
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2006,0.3305651217355813,0.4363549267480201,0.22477531672314244
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2007,0.3637081221590396,0.48725310939272126,0.2401631349253579
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2008,0.40140608678713047,0.5288895833529506,0.2739225902213104
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2009,0.4311736071472608,0.5597093917096416,0.30263782258488003
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2010,0.4020447027979891,0.5286697985369981,0.27541960705898
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2011,0.4152658030122544,0.5303792752974382,0.3001523307270705
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2012,0.4395918000153384,0.5611585728304249,0.3180250272002519
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2013,0.5004603016032725,0.6296592079265287,0.3712613952800162
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2014,0.5379958400697163,0.6849169514062947,0.391074728733138
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2015,0.5668513204600035,0.6985577998442034,0.4351448410758037
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2016,0.5626280898305632,0.7136682746637726,0.4115879049973538
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2017,0.6243115144950441,0.7883911415132847,0.4602318874768034
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2018,0.7057696396247295,0.8902140771066233,0.5213252021428357
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2019,0.726009301865691,0.925983328658138,0.5260352750732441
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2020,0.7553530656964045,0.9810879651547232,0.5296181662380858
+Algeria,35 to 39,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2021,0.8031122261903509,1.0474126302257338,0.558811822154968

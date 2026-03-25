@@ -1,0 +1,737 @@
+Location,Age,Sex,Measure,Metric,Pathogen,Antibiotic class,Counterfactual,Year,Value,Upper,Lower
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1990,0.0016370785799036,0.0022231424917337,0.0010510146680736
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1991,0.0017925618403553,0.0023696450126516,0.0012154786680589
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1992,0.0018429138796761536,0.002434513000944611,0.0012513147584076966
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1993,0.0019159488782419,0.002540239747608,0.0012916580088759
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1994,0.0020676453405866,0.0027455296815154,0.0013897609996578
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1995,0.0025014806431655,0.0032268977321495,0.0017760635541815
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1996,0.0028213759025461,0.0036347299918729,0.0020080218132192
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1997,0.0027869663778516,0.0036671773672574,0.0019067553884459
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1998,0.0030222308784607,0.0038818860629599,0.0021625756939614
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1999,0.003066336928065012,0.00404933030624499,0.002083343549885033
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2000,0.0030312918486575992,0.003960623921457898,0.002101959775857301
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2001,0.003170432972639616,0.004105282144666673,0.002235583800612559
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2002,0.003221969631582342,0.00422670400980648,0.002217235253358204
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2003,0.003323636090352213,0.00431024072637576,0.0023370314543286665
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2004,0.003588934188439272,0.004649659037387994,0.0025282093394905494
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2005,0.004071223072402147,0.00524378092373866,0.0028986652210656345
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2006,0.004392047965659228,0.005744729006128023,0.0030393669251904338
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2007,0.004868215067546209,0.006143680500277799,0.0035927496348146185
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2008,0.005342629446289755,0.006823301888893383,0.003861957003686127
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2009,0.005699521432073534,0.007276186098537754,0.004122856765609314
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2010,0.006285572682078355,0.007920327367509807,0.004650817996646904
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2011,0.006287224466418407,0.007953968263956113,0.0046204806688807
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2012,0.006625100765345796,0.008434405603587693,0.004815795927103898
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2013,0.007051358243286049,0.009045789797837284,0.005056926688734813
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2014,0.007516784323212351,0.009433387453706085,0.00560018119271862
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2015,0.00783953097714904,0.00989639849129774,0.005782663463000341
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2016,0.008175814391827695,0.01021654308370134,0.00613508569995405
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2017,0.008349673088612545,0.01039594357403053,0.006303402603194561
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2018,0.00850557393399523,0.010496697656708512,0.00651445021128195
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2019,0.008465975910928045,0.010643320367440765,0.006288631454415328
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2020,0.009186751347996848,0.011460269608594458,0.0069132330873992376
+American Samoa,95 plus,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2021,0.008573759138124009,0.010843512666036757,0.006304005610211263
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1990,0.0002035464341304,0.0002987076286936,0.0001083852395672
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1991,0.0002066086292054,0.0003012185843024,0.0001119986741083
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1992,0.0002094319724016174,0.00030822422260004355,0.00011063972220319123
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1993,0.0002154984053563,0.0003188665225383,0.0001121302881744
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1994,0.0002265405001333,0.0003328129700323,0.0001202680302342
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1995,0.0002436124132604,0.0003594620897161,0.0001277627368047
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1996,0.0002739978396855,0.0004010187049617,0.0001469769744093
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1997,0.0002916989384534,0.000440272624799,0.0001431252521078
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1998,0.0003108971890946,0.0004650192161218,0.0001567751620674
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1999,0.0003269593208399167,0.0004956274313728722,0.00015829121030696116
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2000,0.0003226811523431469,0.00048331185703383127,0.00016205044765246252
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2001,0.0003325880027033868,0.0005011318096710983,0.00016404419573567524
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2002,0.0003435541834517359,0.0005139901626439709,0.00017311820425950088
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2003,0.0003598784375158612,0.0005378149375171146,0.00018194193751460783
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2004,0.000376796190707765,0.0005702842189129179,0.0001833081625026121
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2005,0.0004178356165213127,0.0006326135705018738,0.0002030576625407516
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2006,0.00045023642505147407,0.0006784497406512674,0.00022202310945168067
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2007,0.00046743415978442367,0.0006943861238897446,0.0002404821956791028
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2008,0.0004954306842758627,0.0007451067639066165,0.0002457546046451089
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2009,0.0005378219349235205,0.0008179900662495715,0.00025765380359746954
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2010,0.0005943334674424791,0.000897711699428575,0.0002909552354563832
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2011,0.0006552776066154724,0.000974861403978486,0.00033569380925245885
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2012,0.000685135383061007,0.0010283837144042247,0.0003418870517177893
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2013,0.00070290195633456,0.0010507236162610562,0.00035508029640806364
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2014,0.0006949097642163511,0.0010690969775539552,0.0003207225508787469
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2015,0.0007482626831315381,0.001147090633965509,0.00034943473229756723
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2016,0.0007935672572589221,0.0011929860703977116,0.00039414844412013263
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2017,0.0008571282801245125,0.0012713175822522333,0.0004429389779967918
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2018,0.000906684686172464,0.0013430048132281472,0.00047036455911678095
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2019,0.000960143413270565,0.0014251629089687668,0.0004951239175723632
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2020,0.0010638447127136468,0.0015823462028293329,0.0005453432225979607
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2021,0.001033783700168617,0.0015326855034159131,0.0005348818969213209
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1990,0.0001551453070901,0.0003100855473173,2.050668630542937e-7
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1991,0.0001545386609991,0.0002973562353178,0.000011721086680498816
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1992,0.00015805037936886544,0.00030275416609434067,0.00001334659264339019
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1993,0.0001544352826769,0.000286212940238,0.00002265762511592182
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1994,0.0001654318167368,0.0003037573555106,0.000027106277962983703
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1995,0.0001904971833119,0.0003526194822915,0.00002837488433231317
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1996,0.0002064423834946,0.000375723186844,0.00003716158014538759
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1997,0.0002424635431517,0.0004477684335449,0.00003715865275858289
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1998,0.0002126753665438,0.0003838264933334,0.0000415242397541574
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1999,0.00025765146875112214,0.0004800306474621915,0.00003527229004005275
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2000,0.0002290348364932068,0.0004242081174944042,0.00003386155549200932
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2001,0.0002439066587361416,0.0004579419965018868,0.000029871320970396365
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2002,0.0002457999193134403,0.000458036917082597,0.00003356292154428362
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2003,0.0002413605164183317,0.0004406641507006316,0.00004205688213603184
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2004,0.000255608732705882,0.0004851987743933828,0.00002601869101838124
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2005,0.0002901980409543733,0.0005366366948289488,0.00004375938707979783
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2006,0.00030148212937460554,0.0005563857020869586,0.0000465785566622524
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2007,0.0003179696147666528,0.000582504163919103,0.00005343506561420266
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2008,0.0003454045193362875,0.0006433865224929363,0.000047422516179638726
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2009,0.0003665200884688381,0.0006860350357447061,0.000047005141192970105
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2010,0.0004287321654937584,0.0008263626091773728,0.000031101721810144
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2011,0.00041300193620318976,0.0007981446943067989,0.00002785917809958069
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2012,0.0004354289847877842,0.0008509728861904355,0.00001988508338513303
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2013,0.0004757886044010384,0.0009354803417473816,0.000016096867054695026
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2014,0.0005014536886765275,0.0009846642960084971,0.000018243081344557807
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2015,0.00053073412019651,0.0010579624469147552,0.000003505793478264757
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2016,0.0005760209956363444,0.0011492900460177446,0.0000027519452549441435
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2017,0.0006104722786745161,0.0012173819836937506,0.000003562573655281512
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2018,0.0006406671835205391,0.0012901673677316108,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2019,0.000681456196350003,0.0013879314745962115,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2020,0.000755737103478403,0.0015263879955817936,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2021,0.0007991427277499074,0.001643363630650699,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1990,0.0003722171920489,0.0004850498848499,0.000259384499248
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1991,0.0003823021864551,0.0004944008369304,0.0002702035359798
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1992,0.0004014276897619245,0.000520072274594315,0.000282783104929534
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1993,0.0003702230420447,0.000480869283283,0.0002595768008064
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1994,0.000392265938538,0.0005081239004254,0.0002764079766506
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1995,0.0012113935987615,0.0015223386295569,0.0009004485679661
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1996,0.0014655056067325,0.001849348856385,0.0010816623570801
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1997,0.0007474356682319,0.0009730710779626,0.0005218002585012
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1998,0.0008011375978965,0.001024649618172,0.000577625577621
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1999,0.0007656314489148209,0.001000451332804113,0.0005308115650255293
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2000,0.0007498992501285468,0.0009725597481048402,0.0005272387521522534
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2001,0.0007313379012794071,0.0009447833090067438,0.0005178924935520704
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2002,0.0007484070836026995,0.0009738500498736616,0.0005229641173317374
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2003,0.0007791653090678839,0.0010076266491709169,0.0005507039689648508
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2004,0.0008759312046259804,0.001140765407082318,0.0006110970021696428
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2005,0.0010186860083008058,0.0013197877130136806,0.0007175843035879309
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2006,0.0013878094378491938,0.0018036226925413736,0.0009719961831570138
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2007,0.0023371475420617136,0.0029246207845724874,0.0017496742995509395
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2008,0.0024824073812269995,0.0031371045517739854,0.0018277102106800136
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2009,0.0026066144147607545,0.003288774783565935,0.001924454045955574
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2010,0.003139047642072064,0.003919411062680659,0.0023586842214634697
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2011,0.003303061622131539,0.004128712793706177,0.002477410450556901
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2012,0.0032729691626555467,0.004111967649530115,0.002433970675780978
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2013,0.003423368779812473,0.004343156815587066,0.00250358074403788
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2014,0.0037114413463082176,0.004645090433665792,0.0027777922589506438
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2015,0.004045127078078803,0.005106086897689415,0.0029841672584681907
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2016,0.004322061949685072,0.005395610569712263,0.003248513329657881
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2017,0.0046299634864646125,0.00579813546610643,0.003461791506822795
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2018,0.0049385091552046735,0.006149826823377586,0.0037271914870317608
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2019,0.005211567977813171,0.006545938015103496,0.0038771979405228456
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2020,0.005773989798296631,0.007274340254566936,0.004273639342026327
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2021,0.005653184462524578,0.00712662794248326,0.004179740982565896
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1990,0.0005988097451486,0.0008947718308468,0.0003028476594504
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1991,0.000592625389087,0.0008721347707314,0.0003131160074425
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1992,0.0004868969214879656,0.0007329850820943105,0.00024080876088162077
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1993,0.000493514813532,0.0007516169319428,0.0002354126951212
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1994,0.0005318555092481,0.0008107335949828,0.0002529774235135
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1995,0.0006103901357523,0.0009127442574272,0.0003080360140774
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1996,0.000711778231793,0.0010594454239971,0.0003641110395889
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1997,0.0007700472853687,0.0011578307025219,0.0003822638682156
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1998,0.0008388055988446,0.0012211021461739,0.0004565090515152
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1999,0.000931634829758406,0.001393308498300766,0.0004699611612160462
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2000,0.0008931757880350526,0.0013194638797265734,0.0004668876963435319
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2001,0.0008546650998900755,0.0012651729200980513,0.0004441572796820997
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2002,0.0009081653057725552,0.0013543864264793952,0.000461944185065715
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2003,0.0008689084188615875,0.0012946918376852878,0.0004431250000378872
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2004,0.0008650611445924159,0.001312553229261153,0.0004175690599236789
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2005,0.0010206263235812048,0.0015370226644775072,0.0005042299826849022
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2006,0.0012161284207720911,0.0018409750415002,0.0005912818000439826
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2007,0.0013203192140758685,0.0019202366535532808,0.0007204017745984563
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2008,0.0014443108008705345,0.002147882929288324,0.0007407386724527448
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2009,0.0016439179411320728,0.002439506594096045,0.0008483292881681006
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2010,0.002020461540589452,0.002918270181731103,0.001122652899447801
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2011,0.0022829880436771974,0.0032801011827096388,0.0012858749046447558
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2012,0.002402453596470565,0.003486416034835123,0.0013184911581060068
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2013,0.002271601977121904,0.0033526623694036424,0.001190541584840165
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2014,0.002459515174310774,0.003563247841927464,0.0013557825066940843
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2015,0.0026156932605645718,0.0038219559333995713,0.001409430587729571
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2016,0.0027625216801747026,0.003971472079661967,0.001553571280687439
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2017,0.002991675058589058,0.004303232037315709,0.001680118079862407
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2018,0.0032712498227922045,0.004632744299363712,0.0019097553462206973
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2019,0.003592739426875333,0.005153141294314167,0.0020323375594364984
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2020,0.004054779821873617,0.005870677772858416,0.002238881870888817
+American Samoa,95 plus,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2021,0.003733410327523219,0.0054213917499131015,0.002045428905133336
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1990,0.000005955868288720942,0.00002032126360420257,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1991,0.000006054800634006648,0.000020496207608911767,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1992,0.000005918505847347527,0.00001995956530934127,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1993,0.00000602442390425158,0.00002022549082904441,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1994,0.000006135794718712432,0.000020570717518655485,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1995,0.000006436151830187504,0.00002157863589365541,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1996,0.000007201092858799957,0.000024130194773587207,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1997,0.000007589836193326019,0.00002526484082277874,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1998,0.000007942591496655996,0.00002649327181894713,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1999,0.00000817277645462767,0.000027647499975962563,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2000,0.000007816218845941429,0.000026627648378501386,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2001,0.000008021509997345753,0.000027475681969372345,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2002,0.000007936329250117821,0.000027368417540018063,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2003,0.00000800621397445365,0.000027807725540603345,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2004,0.000008169105324975218,0.00002883530446770078,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2005,0.000009061618792521763,0.000031849812026453754,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2006,0.000009646259587740984,0.00003389599125716088,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2007,0.000009929278447826736,0.00003500371932381781,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2008,0.000010410012311500135,0.0000369653577425384,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2009,0.000011320040397858715,0.00004013529675597066,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2010,0.00001473490075686112,0.000051478810660943854,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2011,0.00001504048603084717,0.000052020093317519246,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2012,0.00001581891173620548,0.00005402794128688282,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2013,0.00001660145253613526,0.00005633132956034032,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2014,0.00001185941450780726,0.00004039295923885067,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2015,0.000013059779583433732,0.00004454677846160321,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2016,0.00001478606553560508,0.00005045724854928941,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2017,0.00001471603913195051,0.00005006732560540204,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2018,0.000015612241160023665,0.00005267892812581531,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2019,0.000016476786704597726,0.000055183463153472975,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2020,0.00001911995890350478,0.00006371590612950831,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2021,0.000018472338191234157,0.00006144679053382401,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1990,2.5015999098172727e-8,5.9281843190589044e-8,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1991,3.7506818497020624e-8,8.92876062204643e-8,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1992,3.3410924181462895e-8,7.93591565716142e-8,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1993,3.917398085478278e-8,9.350197621464445e-8,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1994,3.028383675637056e-8,7.261251210755114e-8,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1995,2.797465019024406e-8,6.62177026442481e-8,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1996,3.3562635665955204e-8,7.964265868321448e-8,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1997,5.253645610354914e-8,1.2475324752976953e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1998,6.276942005532745e-8,1.4912607206382346e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1999,6.37678762979601e-8,1.514652030949745e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2000,6.605065936233312e-8,1.5675282759214168e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2001,7.428055935174863e-8,1.7732963689777257e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2002,7.427386299131787e-8,1.756134077500443e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2003,8.618219847521698e-8,2.030018140857935e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2004,5.7444616119204216e-8,1.3625919658144418e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2005,5.971171507440857e-8,1.427859230956907e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2006,6.824935054552104e-8,1.630387576528877e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2007,5.451284599860266e-8,1.3078373044152692e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2008,5.3546807564414016e-8,1.286115838063516e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2009,5.987008572064774e-8,1.437079096580325e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2010,1.0665080464306768e-7,2.540423955756769e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2011,1.1288966519586365e-7,2.676039246553733e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2012,1.197416730581692e-7,2.846599135643903e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2013,1.1888738315350937e-7,2.814926373354357e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2014,1.2230064869041806e-7,2.8979192902729226e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2015,1.263945441413149e-7,2.9920957371016484e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2016,1.3266958482782574e-7,3.137949611699002e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2017,1.470238092465598e-7,3.490700445721556e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2018,1.594296130203389e-7,3.787283721812828e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2019,1.707269493852261e-7,4.044744254781915e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2020,1.8051122203009427e-7,4.271776878551255e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2021,1.7575366299362073e-7,4.145950025518243e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1990,0.000014446250284858878,0.00003697764009660222,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1991,0.000016255325105953442,0.000040588392622987695,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1992,0.000016114617815130254,0.00003969892818915063,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1993,0.000016673948994338168,0.00004077725092018359,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1994,0.000016375028096388766,0.00003994505475636055,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1995,0.00001753093657286215,0.00004219169477624906,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1996,0.00001975756807559966,0.0000473152026140957,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1997,0.0000216502126710548,0.00005063820802132544,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1998,0.00002265802151172282,0.00005247513971394223,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1999,0.000022673146695472967,0.00005236162834868677,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2000,0.00002195872605093494,0.00005077306770977354,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2001,0.00002203841868289196,0.00005160659691854628,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2002,0.00002178433276059769,0.000051261092937987366,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2003,0.000021609205867279708,0.00005149145668549131,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2004,0.000023129407386542467,0.00005524094300855744,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2005,0.00002491922207083252,0.00005998927232770533,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2006,0.000026157499312121702,0.00006389941290587776,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2007,0.00002805864982463549,0.00006932645822119083,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2008,0.00002808932761126361,0.00007078467205681985,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2009,0.000027997210247919934,0.00007193593543527286,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2010,0.00002462012747679554,0.00006392106713583267,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2011,0.00002461342355603939,0.0000635207681704111,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2012,0.000026154575422451303,0.00006700398207754154,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2013,0.000027132456635451928,0.00006854587840624695,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2014,0.000029381750082641946,0.0000734872551014344,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2015,0.00003227566499400394,0.00008008990302257555,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2016,0.000035677368276655635,0.0000874571139438867,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2017,0.000038043285891970425,0.00009346318746631046,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2018,0.00003961300127038476,0.00009725653252103345,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2019,0.00004069107659496899,0.00010028922106556328,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2020,0.00004453456315958334,0.0001094635803721457,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2021,0.00004386422582296807,0.00010891156313615506,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1990,9.15403480577928e-7,0.0000033985869908402097,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1991,0.0000018375480680820568,0.000006227754765444808,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1992,0.000002698482858774457,0.000009269725656126522,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1993,0.0000035186469192425137,0.000012042071115931025,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1994,0.000004201794794722745,0.000014117797534861385,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1995,0.000004735241794249641,0.000016138172500357575,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1996,0.000005341761613457471,0.00001763888589910451,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1997,0.000005844362688183771,0.000018953751930128527,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1998,0.000005869166774588294,0.000018449408026722407,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1999,0.000005492846964206123,0.00001715504703294224,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2000,0.000005203151224130428,0.000015531667605602766,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2001,0.000005131305738639394,0.000014769750215532763,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2002,0.000004773377514696555,0.000013502642733064942,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2003,0.000004726529593247232,0.000014231342506101736,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2004,0.000006736433525101176,0.000020290664899627968,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2005,0.00000723184892558696,0.00002327000701194385,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2006,0.0000069693834874879296,0.000022103283674734664,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2007,0.0000062223894577791484,0.00001880642084060908,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2008,0.000005643529084917766,0.00001752283929282116,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2009,0.000005049570071280612,0.000015630839617346777,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2010,0.000004943931888390483,0.00001576409567215376,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2011,0.000004094439737303926,0.000012530182177086668,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2012,0.000004480073845598047,0.000013258413257738149,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2013,0.000004958672366465863,0.000013730156261241775,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2014,0.000005449255473959534,0.000015532919823090775,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2015,0.000005760706961110098,0.000017031406601007414,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2016,0.000006113725172502301,0.00001791415713626508,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2017,0.000006379100076415773,0.00001931379292534862,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2018,0.000006735966648265872,0.000020752900834031645,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2019,0.000007042549999523357,0.000023536611094253257,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2020,0.000007369995775646588,0.000023868577912804836,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2021,0.000007617366128301801,0.000022493219194009043,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1990,0.000004593903181705909,0.000010887610743654253,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1991,0.000004203745556930491,0.000010018771454718622,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1992,0.000004128440088772934,0.000010015102615242568,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1993,0.0000045399099011979175,0.00001055013384040471,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1994,0.000005182551525865177,0.000011949692717809336,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1995,0.000005825855784716098,0.000013130607729313108,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1996,0.000006861043730295207,0.000014893788171147691,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1997,0.000007741732878748475,0.000016797580686305778,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1998,0.000008382907487263199,0.000017896234607214887,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1999,0.00000893414262715233,0.00001908677970792365,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2000,0.000009068979584143589,0.000019224898111864308,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2001,0.000009631931240592165,0.00002010922849700017,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2002,0.000010157616715133711,0.000021146846484899625,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2003,0.000011383246534214565,0.000022797953379289576,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2004,0.00001339295714644078,0.00002665320616455068,1.3270812833087676e-7
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2005,0.000014759472148430505,0.000028995809245963625,5.231350508973857e-7
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2006,0.000015199267417808144,0.0000298156098202196,5.829250153966881e-7
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2007,0.00001604049190528629,0.00003095369643629298,0.0000011272873742795983
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2008,0.000017231207408051642,0.0000333378703567681,0.0000011245444593351824
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2009,0.000018447522402458973,0.000035952642000972306,9.424028039456368e-7
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2010,0.000019655372542313243,0.00003913425893384041,1.7648615078607693e-7
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2011,0.00002197803067712825,0.00004300591253924713,9.501488150093734e-7
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2012,0.00002440951538558598,0.000048136218985134,6.828117860379655e-7
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2013,0.000026325824911534262,0.00005105566241501517,0.0000015959874080533526
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2014,0.00002779248095494508,0.00005345627763749616,0.000002128684272394
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2015,0.000034294582317859,0.0000654461747379933,0.0000031429898977246946
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2016,0.000041402637274035376,0.00007557823681595817,0.00000722703773211257
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2017,0.00004944356575477949,0.00008803806226238454,0.000010849069247174446
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2018,0.00005408886554332808,0.00009815211463819938,0.000010025616448456774
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2019,0.00006169935327520337,0.00011119989961219248,0.000012198806938214268
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2020,0.00006930293138899403,0.00012553391169047278,0.00001307195108751528
+American Samoa,95 plus,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2021,0.00006984245507252021,0.00012459616362666393,0.000015088746518376482
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1990,0.0006471212313163,0.001064419699493,0.0002298227631396
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1991,0.0006785170137851,0.001103491580436,0.0002535424471342
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1992,0.0007244153992157171,0.0011583022333419089,0.0002905285650895256
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1993,0.0007633575076249,0.0012052614101243,0.0003214536051255
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1994,0.0008494012371196,0.00131860980128,0.0003801926729592
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1995,0.0011202878564971,0.0016886855331947,0.0005518901797995
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1996,0.0012043679979507,0.0018356459404493,0.0005730900554521
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1997,0.0012032826978242,0.0018589576931577,0.0005476077024907
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1998,0.0012589198709506,0.0019136235818933,0.000604216160008
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1999,0.001267701752066118,0.00193885269586602,0.0005965508082662165
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2000,0.0012856369751003684,0.001919756410020899,0.0006515175401798379
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2001,0.001312114839147926,0.0019537684472543176,0.0006704612310415342
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2002,0.0013525127139082346,0.001999670779369685,0.0007053546484467841
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2003,0.0013956141612765489,0.0020606204647958906,0.000730607857757207
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2004,0.0015829165441300654,0.0023103421579499807,0.0008554909303101501
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2005,0.001789531736778912,0.002599789969967093,0.0009792735035907302
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2006,0.0019044703400407357,0.002767326111989778,0.001041614568091692
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2007,0.00223249942502805,0.003167270639568484,0.0012977282104876158
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2008,0.0024841811968914973,0.003518518539743237,0.0014498438540397577
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2009,0.002698912079050334,0.003836834351816621,0.0015609898062840463
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2010,0.002860825419924216,0.004067585767451707,0.001654065072396726
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2011,0.00318642854336693,0.004584290900408523,0.0017885661863253364
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2012,0.003449622364789078,0.004930822062102717,0.001968422667475439
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2013,0.003745459372210053,0.005305996401422198,0.0021849223429979085
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2014,0.003666350202019337,0.005244315671314773,0.002088384732723901
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2015,0.0037336721668183386,0.005372596491070446,0.0020947478425662317
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2016,0.003867802831753868,0.005524620342527625,0.002210985320980111
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2017,0.004263297291865878,0.006059385161092818,0.002467209422638937
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2018,0.00460612839762083,0.006586533056609726,0.0026257237386319333
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2019,0.004924627435174296,0.0070692014041131065,0.0027800534662354858
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2020,0.005731980589267835,0.008114300953185886,0.0033496602253497844
+American Samoa,95 plus,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2021,0.005676925186367539,0.008046528796598618,0.0033073215761364595
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1990,0.0005152589563957,0.0007440450796473,0.0002864728331441
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1991,0.0004476043830946,0.0006575685243089,0.0002376402418802
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1992,0.0004356253477935057,0.0006328534290433387,0.0002383972665436728
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1993,0.000483731922253,0.0006962670483166,0.0002711967961893
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1994,0.0004575909002356,0.0006714844341756,0.0002436973662956
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1995,0.0005219468227463,0.0007374526291478,0.0003064410163447
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1996,0.0005123539604539,0.0007320092442217,0.000292698676686
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1997,0.0004185548544322,0.000617291313017,0.0002198183958474
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1998,0.0004271237959377,0.0006232058388727,0.0002310417530027
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1999,0.0004374157835663183,0.0006432984196012695,0.00023153314753136716
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2000,0.0005135678310727537,0.0007372335921133808,0.00028990207003212667
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2001,0.0005144014586858702,0.0007266698106806629,0.0003021331066910774
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2002,0.0006151832469278988,0.0008806064103292321,0.00034976008352656545
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2003,0.0007568521447848163,0.0010503571942107233,0.0004633470953589093
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2004,0.0008064575163878796,0.0011292314637114725,0.00048368356906428674
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2005,0.0008649579702704952,0.0012073795059319636,0.0005225364346090268
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2006,0.000758579314956674,0.001072321060290625,0.0004448375696227232
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2007,0.0006686078256004236,0.0009363103695708948,0.0004009052816299525
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2008,0.0007432425462746597,0.001040740304562333,0.000445744787986986
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2009,0.0007983785683302691,0.0011170680424554577,0.00047968909420508063
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2010,0.0008619244858378129,0.0011986543492518522,0.0005251946224237735
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2011,0.000901167201014995,0.0012655448344604872,0.0005367895675695029
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2012,0.0009617476566621208,0.00134982429451537,0.0005736710188088713
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2013,0.000991368296576502,0.0014025510421757765,0.0005801855509772276
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2014,0.000969228114989766,0.00137884824489477,0.0005596079850847616
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2015,0.001015922722059844,0.0014409667029449816,0.0005908787411747064
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2016,0.0010327099466563643,0.0014533623884729575,0.0006120575048397712
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2017,0.0012472952649407296,0.0017408867344126098,0.0007537037954688492
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2018,0.001287611634245984,0.001826353720243495,0.000748869548248473
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2019,0.001326588831831818,0.0018790185324822856,0.00077415913118135
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2020,0.001435420141512695,0.002051167972982452,0.0008196723100429382
+American Samoa,95 plus,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2021,0.0013948017999723806,0.001982222820053832,0.0008073807798909294
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1990,0.000014630158403319232,0.000019655913828647167,0.000009604402977991296
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1991,0.000014954542964316125,0.000020272136421949165,0.000009636949506683084
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1992,0.00001504322263147318,0.00002000856775540691,0.00001007787750753945
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1993,0.00001526011152608235,0.000020278193104114585,0.000010242029948050116
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1994,0.0000158046978388258,0.000021466515430517007,0.000010142880247134594
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1995,0.000017101905645768554,0.00002298202190564364,0.000011221789385893469
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1996,0.000018983927660614416,0.00002541912877502693,0.000012548726546201903
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1997,0.00002071260405145741,0.00002784927341847239,0.00001357593468444244
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1998,0.00002181065478753569,0.000029052705294345136,0.000014568604280726249
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1999,0.0000221900782444793,0.000029585528248553985,0.000014794628240404612
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2000,0.000016893766007569484,0.000022246362037082825,0.000011541169978056145
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2001,0.000017034265793978163,0.00002241613360173172,0.000011652397986224603
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2002,0.00001719797677969161,0.000023175775113529517,0.000011220178445853708
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2003,0.00001786478719342167,0.00002371499215602101,0.000012014582230822332
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2004,0.00001859259059176237,0.00002481160247570473,0.000012373578707820004
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2005,0.00002041847017459593,0.00002744176458930305,0.0000133951757598888
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2006,0.000022221033595737716,0.000029697602454119476,0.00001474446473735595
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2007,0.000023314920051444066,0.000030950412407002544,0.00001567942769588558
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2008,0.000024540119620481945,0.000032912046248006976,0.000016168192992956907
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2009,0.00002627917230861345,0.00003575627364047639,0.00001680207097675051
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2010,0.00002886935430001232,0.000038924738209947024,0.000018813970390077616
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2011,0.0000308819909370726,0.00004177608060125779,0.000019987901272887414
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2012,0.000032140392326703264,0.000042724332967150406,0.00002155645168625612
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2013,0.000033253433346775003,0.00004486626094534126,0.00002164060574820874
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2014,0.000035945375984888184,0.00004887189889829282,0.000023018853071483545
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2015,0.00003907672833147601,0.00005280804268551949,0.000025345413977432536
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2016,0.00004169911615453421,0.00005573998946823825,0.00002765824284083017
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2017,0.00004601213773574716,0.00006089189800390582,0.000031132377467588496
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2018,0.00004919689632409382,0.0000660534154061784,0.00003234037724200924
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2019,0.00005171373073219811,0.00006985119372431547,0.00003357626774008075
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2020,0.000056784600394841866,0.00007676473415301103,0.0000368044666366727
+American Samoa,95 plus,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2021,0.00005467366125429028,0.00007400800410873183,0.00003533931839984874
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1990,0.000033840632314946227,0.000054895748620318624,0.000012785516009573827
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1991,0.00003444775501036248,0.00005537750001531162,0.000013518010005413344
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1992,0.0000373343394286669,0.00006000898205692227,0.000014659696800411527
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1993,0.000038118757032931497,0.00006129898012698364,0.000014938533938879362
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1994,0.00004115798773274938,0.00006513333998645831,0.000017182635479040455
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1995,0.00004575553832602694,0.00007236797032047544,0.00001914310633157845
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1996,0.00005363245043341152,0.00008419523216348561,0.00002306966870333742
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1997,0.00006517986777155322,0.0001020655029942,0.00002829423254885397
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1998,0.0000678971985115777,0.0001046414465662,0.00003115295045688704
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1999,0.00006917025583265274,0.00010835803214757535,0.00002998247951773012
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2000,0.00006328189944251578,0.00009826025085589211,0.00002830354802913944
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2001,0.00006439364050123448,0.00010051126983989242,0.000028276011162576544
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2002,0.00006603386220861249,0.00010265944956815596,0.00002940827484906902
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2003,0.00006862720503501116,0.00010584749420682972,0.00003140691586319259
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2004,0.00007202396311202494,0.00011195135607341462,0.000032096570150635274
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2005,0.00008177973773325692,0.00012656420369236697,0.000036995271774146896
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2006,0.00008990878403196395,0.0001376726931385924,0.00004214487492533551
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2007,0.0000942719418543818,0.0001421270514169161,0.00004641683229184751
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2008,0.00009898817684616104,0.00014988494721403302,0.00004809140647828904
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2009,0.00009957696550753804,0.00015364288787934966,0.000045511043135726414
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2010,0.0001124391362041195,0.00017234564296106627,0.00005253262944717273
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2011,0.00012106150121022314,0.00018582594891651536,0.00005629705350393091
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2012,0.00014219707102449777,0.00021920587251757887,0.00006518826953141662
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2013,0.00014732729001237774,0.00022363264677067893,0.00007102193325407654
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2014,0.0001494050917790655,0.00022769336061781797,0.00007111682294031305
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2015,0.00017590479732948507,0.00027962632239772207,0.0000721832722612481
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2016,0.00018916297838091328,0.0002857436322800915,0.00009258232448173508
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2017,0.00020160211096064312,0.0003055762179346042,0.00009762800398668209
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2018,0.0002008477097837354,0.0003043202272395286,0.00009737519232794224
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2019,0.00016281519135895558,0.0002513071305058504,0.00007432325221206082
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2020,0.0001942903455720764,0.0002966869955525335,0.00009189369559161936
+American Samoa,95 plus,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2021,0.0001965604062532897,0.0003008838988377464,0.000092236913668833
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1990,0.000003874144690760195,0.00001565879053981916,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1991,0.000004180654924139162,0.00001585816595691261,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1992,0.000004431384685125387,0.00001626098608858766,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1993,0.000004514138671804614,0.000016433239672267462,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1994,0.000005037115815949837,0.00001822537134799004,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1995,0.0000057809519529415885,0.0000197839347497306,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1996,0.000006579999503340839,0.000021648122762186914,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1997,0.000005871949272065154,0.000021177177497242863,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1998,0.000005891937096379483,0.000021502120283852846,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1999,0.0000068949924928512,0.000023653788170638407,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2000,0.000006857864255612616,0.000024118583100975275,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2001,0.000006859899892666799,0.000024498886405377915,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2002,0.000006995353995022318,0.000024753437505199917,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2003,0.00000767887779198621,0.00002570071826464233,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2004,0.000007072014071645392,0.000025974375541243877,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2005,0.000009181782585846076,0.00002860766144769031,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2006,0.000008655037317555512,0.00002910774225536094,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2007,0.000008787156869341687,0.000028975940437443384,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2008,0.000009170021945553624,0.000030283966001239803,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2009,0.000008832469726037454,0.00003081674491989665,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2010,0.000009545156336461208,0.00003597975016349973,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2011,0.000009136362774349764,0.00003619588583560255,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2012,0.000009380244373388251,0.000038995443365278,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2013,0.00000857037342371378,0.00003650126398528349,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2014,0.000008954486817964873,0.00003839154912199312,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2015,0.000008377988269947012,0.00004072640068623955,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2016,0.000007929565558364543,0.00003923671870356711,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2017,0.000008204275257214436,0.00004070767004216288,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2018,0.000007564401550925663,0.000042353714664244686,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2019,0.00000819133341144506,0.00004513358378337306,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2020,0.000009770912677782972,0.000050107379204819455,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2021,0.00000946612951302126,0.00004807380287992405,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1990,0.00005789766516890035,0.00008080921836750563,0.00003498611197029508
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1991,0.00006161061216637303,0.00008546040199349817,0.00003776082233924789
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1992,0.00006318053786517582,0.00008827632719198249,0.00003808474853836916
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1993,0.00006595390195569755,0.00009286387510930367,0.0000390439288020914
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1994,0.00006899984829318625,0.00009713762118034558,0.00004086207540602691
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1995,0.00007417115464917033,0.0001025287805981,0.00004581352870017616
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1996,0.00008479349764181472,0.0001178089907749,0.00005177800450868879
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1997,0.00009282618374151518,0.0001291571537298,0.00005649521375319328
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1998,0.00009785413165249612,0.0001348726877171,0.00006083557558786232
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1999,0.00009908862820758207,0.00013880440997155515,0.00005937284644360901
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2000,0.00009824869019468467,0.00013743766348481003,0.00005905971690455932
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2001,0.00010022155015189694,0.000139008849220954,0.00006143425108283986
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2002,0.00010081002301123076,0.0001403955208286697,0.00006122452519379183
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2003,0.00010327957022000636,0.00014237734890974296,0.00006418179153026978
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2004,0.00010381020985516438,0.00014471176351683144,0.00006290865619349733
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2005,0.00011568084076326172,0.00016120831051801034,0.0000701533710085131
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2006,0.00011894030065025386,0.00016790658199821172,0.00006997401930229601
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2007,0.00012552376308326012,0.0001740168363341971,0.00007703068983232314
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2008,0.0001338407576374058,0.00018504707649247347,0.00008263443878233815
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2009,0.00014610559934892777,0.0002032064208682461,0.0000890047778296095
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2010,0.0001715714771001487,0.0002367561355177852,0.0001063868186825122
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2011,0.00019006394507847563,0.00026248877125062083,0.0001176391189063304
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2012,0.0002216535339166085,0.00030747053271300994,0.00013583653512020706
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2013,0.0002314814762325808,0.000319748279675853,0.00014321467278930857
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2014,0.00023476588959256824,0.0003070125146828676,0.00016251926450226885
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2015,0.0002612533795617752,0.00034617701670758023,0.0001763297424159701
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2016,0.00027874646731379103,0.0003685474865722807,0.00018894544805530132
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2017,0.0003017252426443054,0.000398168819540388,0.0002052816657482228
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2018,0.00032489662893426754,0.0004291283615930474,0.0002206648962754876
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2019,0.00034260354939396497,0.0004588177671322488,0.0002263893316556812
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2020,0.0003791974198028885,0.0005094692955230609,0.00024892554408271605
+American Samoa,95 plus,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2021,0.0003744785578572366,0.0005019767979574043,0.00024698031775706897
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1990,0,0,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1991,0,1.9386279619697773e-11,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1992,0,3.2492938691262817e-11,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1993,4.051725367397728e-8,9.804499071647468e-8,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1994,6.77820548738958e-8,1.947342956114221e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1995,1.0585609741974532e-7,3.155136996790416e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1996,1.593075597405261e-7,4.619575198374176e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1997,2.1897079533779505e-7,6.230581542211431e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1998,2.579968339433885e-7,7.318657802767055e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1999,2.735502697220617e-7,7.637922019981687e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2000,2.847512101222263e-7,8.024481287700644e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2001,3.075061154749472e-7,8.579221221762669e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2002,3.091826997685392e-7,8.558607813226087e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2003,3.403835316638851e-7,9.979847551441543e-7,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2004,5.179897968247217e-7,0.0000015309203081239436,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2005,5.985766971089261e-7,0.0000018805631614168164,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2006,5.93227745389537e-7,0.000001805975893925094,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2007,5.592308629449978e-7,0.0000015450385683711704,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2008,5.635385208750666e-7,0.000001586508926042422,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2009,5.760505340829215e-7,0.0000016251700026355449,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2010,6.138843229566833e-7,0.0000017947696917150068,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2011,5.065437084723006e-7,0.0000014332854652520463,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2012,5.814912808157408e-7,0.0000015409427824637314,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2013,6.884128652312663e-7,0.0000018280907693346729,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2014,8.184475621155249e-7,0.0000022066038535061586,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2015,8.882739391035462e-7,0.0000025015279630210924,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2016,9.89530426864681e-7,0.000002693268584958265,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2017,0.0000010751762227599995,0.0000029657366627641834,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2018,0.000001183278945460985,0.0000032627582188869733,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2019,0.0000012800278066491062,0.00000365547213646146,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2020,0.0000013577044706658594,0.0000037315115277617,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2021,0.0000014212565568368544,0.000003855171882631552,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1990,0.00003253208821879993,0.00004718633751278651,0.000017877838924813348
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1991,0.00003472882796242808,0.00005058772932532059,0.00001886992659953557
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1992,0.000035412244420533644,0.00005079491327799154,0.00002002957556307575
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1993,0.00003682222605624106,0.00005355833072108704,0.00002008612139139508
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1994,0.00003979877754912608,0.00005722770155390555,0.000022369853544346607
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1995,0.00004401499247664784,0.00006388860875728857,0.000024141376196007103
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1996,0.000050412809788596914,0.0000734774897964157,0.00002734812978077813
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1997,0.0000551376034982941,0.00007943223083815687,0.000030842976158431337
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1998,0.00005816613899989062,0.00008464081843154022,0.000031691459568241025
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1999,0.00006000466003201145,0.00008744005803888663,0.00003256926202513627
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2000,0.00005991230956681784,0.00008720467029636881,0.00003261994883726686
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2001,0.00006274106812138595,0.00009150039698070036,0.000033981739262071554
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2002,0.00006509785310092625,0.0000954565901726272,0.00003473911602922532
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2003,0.00006670554761142305,0.00009763005437236852,0.00003578104085047758
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2004,0.00007037275344581152,0.0001070576493683575,0.00003368785752326553
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2005,0.00007704583181861272,0.00011156407039651891,0.00004252759324070653
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2006,0.00007988921357716592,0.0001159384098097444,0.00004384001734458744
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2007,0.00008177002845568049,0.00011659349911670032,0.000046946557794660654
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2008,0.00008502366760438279,0.00012586127589505155,0.00004418605931371403
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2009,0.00009217428702575978,0.00013703981710378767,0.0000473087569477319
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2010,0.00010337109921487568,0.00015050120798105787,0.00005624099044869349
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2011,0.00011329677156025752,0.0001644909825811615,0.00006210256053935358
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2012,0.00012440287053332275,0.00018075069525891205,0.00006805504580773343
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2013,0.0001339230875043542,0.00019118647159113933,0.00007665970341756905
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2014,0.00014390477102322534,0.00021281453387982427,0.00007499500816662639
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2015,0.00016007487443685554,0.00023087228260444255,0.0000892774662692685
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2016,0.00017372331936029936,0.0002521344294721922,0.00009531220924840652
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2017,0.0001847910619584393,0.000269884213216272,0.00009969791070060662
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2018,0.00019462037856724372,0.00028294837300626914,0.00010629238412821836
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2019,0.0002047695949747285,0.0003008844753464768,0.00010865471460298014
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2020,0.00024572504696511184,0.0003806434198824627,0.000110806674047761
+American Samoa,95 plus,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2021,0.0002279085897952753,0.000335347266347595,0.0001204699132429556
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1990,0.0009592714086478,0.0013758477215069,0.0005426950957887
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1991,0.0009678736479753,0.0013878689377592,0.0005478783581914
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1992,0.0009636591467019872,0.0013703940896656452,0.000556924203738329
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1993,0.0009584000344098,0.0013724643846967,0.000544335684123
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1994,0.0009677510244478,0.0013790413131672,0.0005564607357284
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1995,0.0010216168396949,0.0014568461353944,0.0005863875439954
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1996,0.0010532236661016,0.0015024942268121,0.0006039531053912
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1997,0.0010037173850202,0.0014479518461995,0.0005594829238408
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1998,0.0009562163375721,0.0013722101506569,0.0005402225244872
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1999,0.0008464707305803,0.0012177600158111688,0.0004751814453494313
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2000,0.000707428462125097,0.001022624414927823,0.0003922325093223712
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2001,0.0006585112207476099,0.0009524653162482834,0.00036455712524693647
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2002,0.0006300459639388074,0.0009114805242071836,0.00034861140367043126
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2003,0.0006113442411241267,0.000883862101239689,0.0003388263810085645
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2004,0.0006203700930245518,0.0009022320148217188,0.00033850817122738465
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2005,0.000658233377282056,0.0009524830667058374,0.0003639836878582746
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2006,0.0006737125057620498,0.0009775783660445868,0.00036984664547951273
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2007,0.0006816598302953826,0.0009804590345435184,0.0003828606260472469
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2008,0.0007006292658953538,0.0010171158669603482,0.0003841426648303595
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2009,0.0007264637219880108,0.0010526979676860806,0.00040022947628994113
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2010,0.0007756619233834352,0.0011104756399295636,0.0004408482068373068
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2011,0.0008001268869211701,0.0011538438194890971,0.0004464099543532432
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2012,0.000831603636460895,0.0012030016019631204,0.0004602056709586696
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2013,0.0008630933932914505,0.0012321049235833118,0.0004940818629995893
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2014,0.000870031557388052,0.0012530897755301145,0.0004869733392459896
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2015,0.0008861564239734973,0.001272264392006863,0.0005000484559401317
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2016,0.000890800053363914,0.0012774402861582624,0.0005041598205695655
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2017,0.000890066949791151,0.0012889266791906678,0.0004912072203916343
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2018,0.000896768958045986,0.001295646452985715,0.000497891463106257
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2019,0.0008856654427760416,0.0012770118734697583,0.0004943190120823247
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2020,0.000919919011960579,0.0013188315306306168,0.0005210064932905411
+American Samoa,95 plus,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2021,0.0008550407804884162,0.0012374985550193363,0.0004725830059574959
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1990,0.0007798040793442,0.0014193467397001,0.0001402614189883
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1991,0.0008371527343596,0.0014707422343843,0.000203563234335
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1992,0.0008863252952213311,0.001571162137914327,0.0002014884525283352
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1993,0.0009577237357231,0.0016730874238362,0.0002423600476101
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1994,0.0010182400957658,0.001768421508893,0.0002680586826386
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1995,0.0011639882979848,0.0019936266907576,0.000334349905212
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1996,0.0013427325578469,0.0022577898756665,0.0004276752400274
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1997,0.0014668206963422,0.0024800999508678,0.0004535414418166
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1998,0.0015866450851036,0.0026610597634858,0.0005122304067215
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1999,0.0016484544902151642,0.0027963277547203977,0.0005005812257099309
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2000,0.0016338761624308455,0.0027698153410974187,0.0004979369837642721
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2001,0.0017139877497804202,0.0028994668090001124,0.0005285086905607282
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2002,0.001772833991237533,0.002976362848936737,0.0005693051335383284
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2003,0.0019145889570030992,0.0031756631149441757,0.0006535147990620229
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2004,0.0019877978472162784,0.003350828557876133,0.0006247671365564244
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2005,0.002211592816041065,0.00366594287152849,0.0007572427605536409
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2006,0.0024566207446797914,0.0040160798913202594,0.0008971615980393234
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2007,0.002592863538284149,0.004228287195690091,0.0009574398808782072
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2008,0.0028134898669624256,0.004578324901735948,0.001048654832188903
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2009,0.003068608479657496,0.005000653173679105,0.001136563785635886
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2010,0.003837971985216162,0.006155500533580821,0.0015204434368515022
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2011,0.004132866783829258,0.006590287611070479,0.0016754459565880369
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2012,0.004359040346233282,0.007064275008808615,0.0016538056836579492
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2013,0.004412843034348794,0.00705968054138644,0.001766005527311149
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2014,0.004738668677612726,0.007574969441913997,0.001902367913311455
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2015,0.005085667228834116,0.008214340328445206,0.001956994129223026
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2016,0.0053614776091336245,0.008562278053553255,0.0021606771647139944
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2017,0.005736101098594616,0.009159438898261424,0.002312763298927807
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2018,0.0060732210085347,0.009808687296190182,0.0023377547208792183
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2019,0.006419536464993595,0.010448483373037512,0.0023905895569496776
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2020,0.007139005870605801,0.01163293423965608,0.002645077501555522
+American Samoa,95 plus,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2021,0.007155296588986515,0.011662556537502975,0.0026480366404700523
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1990,9.15403480577928e-7,0.0000033985869908402097,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1991,0.0000018375480680820568,0.00000622775326730454,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1992,0.000002698482858774457,0.00000926972319387152,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1993,0.0000034781296655685363,0.000011959236649357222,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1994,0.000004134012739848849,0.000013948564777685612,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1995,0.000004629385696829896,0.00001587351979423493,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1996,0.000005182454053716945,0.000017249605169234796,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1997,0.000005625391892845976,0.00001842289646390597,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1998,0.000005611169940644905,0.00001781769516747167,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1999,0.000005219296694484062,0.000016491244753093496,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2000,0.0000049184000140082014,0.000014833359109257578,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2001,0.000004823799623164448,0.000014013765923803386,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2002,0.000004464194814928016,0.000012749868271446194,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2003,0.000004386146061583347,0.000013316095297940875,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2004,0.000006218443728276454,0.00001887362612392401,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2005,0.000006633272228478034,0.000021517314812243928,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2006,0.000006376155742098393,0.0000204196520589608,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2007,0.000005663158594834151,0.00001739156720920217,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2008,0.000005079990564042699,0.00001608863848059748,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2009,0.00000447351953719769,0.000014168256180214348,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2010,0.000004330047565433799,0.000014149723305801988,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2011,0.000003587896028831626,0.00001124486654062763,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2012,0.000003898582564782306,0.000011921596492547143,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2013,0.000004270259501234596,0.00001209163946321647,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2014,0.000004630807911844009,0.00001354869651066023,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2015,0.0000048724330220065525,0.000014775117364048432,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2016,0.000005124194745637621,0.00001545974609323092,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2017,0.000005303923853655774,0.000016591803761372296,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2018,0.000005552687702804888,0.000017740792912478327,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2019,0.00000576252219287425,0.00002013900746719289,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2020,0.000006012291304980728,0.00002045169290334357,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2021,0.0000061961095714649465,0.000019104499325613977,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1990,0.00002677230862119218,0.00005437987394655055,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1991,0.00002067449670339769,0.0000416154584461092,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1992,0.00002430970433160363,0.00004858761041782557,3.1798245381687174e-8
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1993,0.00002394709516550174,0.000047461887269180814,4.32303061822669e-7
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1994,0.00002790411228591856,0.00005430640434917059,0.000001501820222666535
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1995,0.0000270413399600552,0.0000523964079786906,0.000001686271941419792
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1996,0.000031392557062756126,0.00005974992528478355,0.0000030351888407286994
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1997,0.000032951893138571744,0.00006346384569051002,0.000002439940586633467
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1998,0.000041719093827694974,0.0000787296194334147,0.000004708568221975247
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1999,0.00003835588577704172,0.00007348409440880246,0.000003227677145280977
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2000,0.000029780154706541817,0.00005763504015023824,0.000001925269262845398
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2001,0.00003103556821038374,0.000059520864390791975,0.0000025502720299754982
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2002,0.00003132535514019597,0.00006035980101630931,0.0000022909092640826265
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2003,0.000039098823401674,0.00007405858395687542,0.000004139062846472583
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2004,0.000038824452800599234,0.00007489368671180927,0.0000027552188893891885
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2005,0.00004188759130036398,0.00008024284265832748,0.000003532339942400468
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2006,0.00005511603286949296,0.0001049854789984933,0.000005246586740492615
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2007,0.00004184404858729697,0.00008002328565540108,0.0000036648115191928457
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2008,0.000051067073531212,0.00009763535708828992,0.000004498789974134071
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2009,0.00005274856632746134,0.00010198245060141996,0.000003514682053502734
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2010,0.00006379529871785469,0.0001243694152815091,0.0000032211821542002945
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2011,0.00005389017763362902,0.00010747709470470884,3.032605625492052e-7
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2012,0.00006961174795406153,0.00014003668946695633,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2013,0.00006607843444124453,0.0001327652832498843,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2014,0.0000688058510206789,0.00013832999216356666,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2015,0.00008230402368852616,0.00016745209990770793,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2016,0.00008653424848752202,0.00017501249048253975,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2017,0.00010400326400211557,0.0002103831626543164,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2018,0.00008144911237296911,0.00016909798055923705,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2019,0.00011633019515027946,0.00024035822815052205,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2020,0.00011664853757394558,0.0002418994434416022,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2021,0.0001299143291889824,0.0002670747757838555,0
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1990,0.00008877117909634975,0.0001216742328138,0.00005586812537887113
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1991,0.0000974485634227018,0.0001303501041045,0.00006454702274089736
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1992,0.00010246586856714823,0.00013832742061637023,0.00006660431651792628
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1993,0.0001050171254754,0.0001413358598967,0.00006869839105411377
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1994,0.0001167961194148,0.0001555031097825,0.0000780891290472419
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1995,0.0001314574075631,0.000177038821856,0.00008587599327032421
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1996,0.0001557986199985,0.0002065784865978,0.0001050187533993
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1997,0.0001829131065729,0.0002456995668916,0.0001201266462543
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1998,0.0001998617010755,0.0002614901138186,0.0001382332883324
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1999,0.00021035359373358076,0.0002816785314974733,0.00013902865596968815
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2000,0.00020975893855341456,0.00027874961047184865,0.0001407682666349805
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2001,0.00021709418447392648,0.00029386048095314207,0.0001403278879947109
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2002,0.00022594036588416695,0.0003022304087258049,0.0001496503230425291
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2003,0.00024085767635141403,0.00031873012029436966,0.00016298523240845838
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2004,0.00026292684202363064,0.0003561760202373954,0.00016967766380986588
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2005,0.00029387078132636564,0.0003947759900705144,0.0001929655725822169
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2006,0.0003279176225659996,0.0004396430708319328,0.00021619217430006636
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2007,0.00035854250315310284,0.0004740864113655157,0.00024299859494068991
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2008,0.0003905018494207204,0.0005217607283040744,0.0002592429705373664
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2009,0.0004474739433539334,0.0005951322689602681,0.0002998156177475988
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2010,0.0004990634733062449,0.0006596842531179003,0.0003384426934945894
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2011,0.000550749486112789,0.00073225172386162,0.0003692472483639581
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2012,0.0005911698932978009,0.0007880293018216528,0.0003943104847739489
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2013,0.0005899622433883803,0.0007750164501572431,0.0004049080366195175
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2014,0.000622507266228452,0.0008102060325130106,0.0004348084999438936
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2015,0.0005645241429232625,0.0007621154145846723,0.00036693287126185264
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2016,0.00059031955506421,0.0007847672309627819,0.00039587187916563824
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2017,0.0006385697962913307,0.0008418111723536999,0.0004353284202289615
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2018,0.0006815088520019369,0.000898386270831688,0.000464631433172186
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2019,0.000729604377192664,0.0009715456980228424,0.0004876630563624853
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2020,0.0008375626444801863,0.0011202111045765066,0.0005549141843838659
+American Samoa,95 plus,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2021,0.0008268609803319154,0.0011148388984128393,0.0005388830622509915

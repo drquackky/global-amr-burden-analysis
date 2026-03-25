@@ -1,0 +1,737 @@
+Location,Age,Sex,Measure,Metric,Pathogen,Antibiotic class,Counterfactual,Year,Value,Upper,Lower
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1990,2.172760729799964,3.445397019249385,0.9001244403505424
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1991,2.836765885850401,4.517925333965415,1.1556064377353863
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1992,3.652275299321639,5.898004070996498,1.4065465276467797
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1993,4.185490552727654,6.6748361258121225,1.6961449796431851
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1994,7.061105409288146,11.32786661689736,2.794344201678932
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1995,5.926659151430652,9.123017732405506,2.7303005704557983
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1996,5.185320602791547,7.782142499588279,2.588498705994816
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1997,6.682148448789995,10.727104898403391,2.637191999176596
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1998,8.98471808850713,15.658911672179665,2.3105245048345973
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,1999,5.774303701783314,8.70819917386556,2.8404082297010667
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2000,5.681785172314308,9.022483160539569,2.3410871840890497
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2001,5.446953353563223,8.917609908652476,1.9762967984739688
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2002,3.352752529111393,4.680653927000927,2.02485113122186
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2003,2.913944760103501,3.9761517838154856,1.851737736391516
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2004,3.429120883650444,4.718022831769386,2.140218935531501
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2005,3.9513666006500983,5.794369375917238,2.108363825382959
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2006,5.806360908334311,9.11744974470814,2.495272071960482
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2007,7.189225137665348,11.988318927375952,2.3901313479547426
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2008,6.921992742526966,10.911905056872907,2.9320804281810244
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2009,7.548045143550389,11.732729663312764,3.363360623788015
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2010,8.36421375294718,13.612756769667886,3.1156707362264724
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2011,8.588152139959861,13.109936358846134,4.066367921073589
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2012,9.877154002367275,16.63514607402206,3.1191619307124947
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2013,11.135008600882166,18.505429430853624,3.7645877709107074
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2014,15.911667568158787,26.685416557217625,5.137918579099949
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2015,19.75148919616545,38.13594878042591,1.3670296119049965
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2016,21.59245959103577,39.95626134363998,3.228657838431559
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2017,19.53991522002467,33.411278006801595,5.668552433247747
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2018,25.145804801409977,45.2387708695623,5.052838733257651
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2019,21.91803131993676,38.457962605798215,5.378100034075303
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2020,16.415650700801734,27.29070874804995,5.540592653553516
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Acinetobacter baumannii,Carbapenems,Attributable,2021,23.447335699807542,41.21247104525783,5.682200354357256
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1990,0.4348841223042204,0.600015267437249,0.2697529771711919
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1991,0.4984006059856855,0.7107328729691265,0.2860683390022444
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1992,0.5765827687313817,0.8331736827042953,0.3199918547584682
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1993,0.690087116946004,0.9697717808121806,0.4104024530798273
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1994,1.0198743499159066,1.478566928782725,0.5611817710490883
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1995,0.9715459247062224,1.3413673496161242,0.6017244997963205
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1996,0.9004728506519573,1.200799782383008,0.6001459189209065
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1997,1.018085006803108,1.4225323099198244,0.6136377036863916
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1998,1.185594807029354,1.774511665211879,0.596677948846829
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,1999,0.8720128159184917,1.1976243579424817,0.5464012738945019
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2000,0.8445265730452232,1.1668502252261448,0.5222029208643015
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2001,0.7512485523810808,1.0854966568082338,0.4170004479539278
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2002,0.6215810510236899,0.8110948643216556,0.43206723772572414
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2003,0.5478957757460053,0.7125098966519021,0.38328165484010857
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2004,0.6276672219327437,0.8234320540848086,0.4319023897806788
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2005,0.7053533269702692,0.9311068716541596,0.4795997822863789
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2006,0.8858767156540186,1.2285515875931745,0.5432018437148629
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2007,1.0213557001272773,1.469417488468661,0.5732939117858935
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2008,0.966878499817847,1.3507273656754988,0.5830296339601952
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2009,1.0315267407952278,1.4275012669240772,0.6355522146663783
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2010,1.0916104412266925,1.6055321069927655,0.5776887754606193
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2011,1.1845154085800345,1.6737899814514978,0.6952408357085711
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2012,1.35815908359266,2.0739858761013004,0.6423322910840199
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2013,1.4714771287627988,2.232064006376971,0.7108902511486264
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2014,1.8498050060381777,2.803040181798808,0.8965698302775472
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2015,2.200406047422313,3.702037546670845,0.6987745481737802
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2016,2.402101378649248,4.067153541562588,0.7370492157359074
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2017,2.3159449756979607,3.6464466389841137,0.9854433124118076
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2018,2.910911412810571,4.80297889370096,1.0188439319201823
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2019,2.717259767502357,4.511965608853972,0.922553926150742
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2020,2.233151416397103,3.3960713496668724,1.0702314831273332
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterobacter spp.,Carbapenems,Attributable,2021,3.0468046414118564,4.837406465025449,1.256202817798264
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1990,0.0918678321504609,0.1908305982608524,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1991,0.0945143433517124,0.1796649189730888,0.009363767730336
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1992,0.09524022580369992,0.19632198822755972,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1993,0.0982929005166488,0.187109531267812,0.0094762697654856
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1994,0.1375382504560833,0.2521527560583864,0.0229237448537802
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1995,0.1182638880387231,0.2133050497312729,0.0232227263461734
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1996,0.0983625783372671,0.1725899390438997,0.0241352176306345
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1997,0.1003311617080941,0.1776811747419486,0.0229811486742397
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1998,0.1089570336099998,0.2005482955183978,0.0173657717016017
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,1999,0.07366320118355815,0.12503876165043668,0.02228764071667963
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2000,0.06312291546260021,0.11296062202635627,0.013285208898844145
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2001,0.05704431580168935,0.0987516604760776,0.015336971127301084
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2002,0.034740340914840004,0.05858043456982996,0.010900247259850051
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2003,0.03081065838872844,0.04864025872933805,0.012981058048118829
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2004,0.030702462253521988,0.05251111474523781,0.008893809761806162
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2005,0.029137768583426024,0.05193540824675368,0.006340128920098373
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2006,0.04918525634323911,0.08513222880414628,0.013238283882331931
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2007,0.05393616244289271,0.09213102578330176,0.015741299102483668
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2008,0.07827077289675506,0.12764245044453282,0.02889909534897732
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2009,0.16884362132657932,0.30370692105305686,0.03398032160010178
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2010,0.18668589950174375,0.3247400035849073,0.04863179541858026
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2011,0.10266452424595376,0.17526281353991746,0.030066234951990026
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2012,0.18755972120415323,0.3423302407410037,0.03278920166730273
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2013,0.2659731729553925,0.4933466226163148,0.038599723294470256
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2014,0.43196592462047045,0.8721483927419289,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2015,0.6552560260587178,1.571001408795833,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2016,0.7281315984197135,1.577423662870029,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2017,0.7860016317193458,1.6239114697531136,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2018,1.0147476040036616,2.13856941295838,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2019,0.9953765573105656,2.4481962244655744,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2020,0.5297406824982932,1.0733438874735788,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Carbapenems,Attributable,2021,1.3294119386809318,2.9132270768617845,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1990,0.570733009256647,0.817240096063963,0.3242259224493311
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1991,0.6747851369872728,0.97552139418171,0.3740488797928357
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1992,0.7778987698053893,1.1512527047832457,0.4045448348275332
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1993,0.8534036995614106,1.233822294540676,0.4729851045821451
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1994,1.4210062020242384,2.115469005557305,0.7265433984911722
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1995,1.16154701654972,1.6526391547639494,0.6704548783354904
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1996,1.2010308264987657,1.666039195606757,0.7360224573907743
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1997,1.4434713601511413,2.115732486572208,0.7712102337300752
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1998,1.717895684377939,2.73792427953088,0.6978670892249985
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,1999,1.3038507324196518,1.8431872994388203,0.7645141654004831
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2000,1.2369303514921162,1.800380503534068,0.6734801994501642
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2001,1.1206017456401132,1.6821448600032056,0.5590586312770207
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2002,0.7660147979188228,1.0293234926046948,0.5027061032329507
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2003,0.7062131912497207,0.9415808269342898,0.4708455555651517
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2004,0.8171828449938143,1.10624283572468,0.5281228542629488
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2005,1.1812274790590016,1.645634950282013,0.7168200078359905
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2006,1.702771581042609,2.4776325274168736,0.9279106346683446
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2007,2.1454885296780346,3.238458496407433,1.052518562948636
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2008,2.278317737509901,3.325480802538525,1.2311546724812776
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2009,2.561073155775687,3.728242390159873,1.3939039213915008
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2010,2.621474656254674,3.968559933529352,1.2743893789799965
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2011,3.0109650835454387,4.327397150918322,1.6945330161725554
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2012,3.4409884636848758,5.420115417241633,1.4618615101281172
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2013,3.959543417884964,6.0927125514279,1.826374284342028
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2014,5.880814971042913,9.38812876670372,2.373501175382105
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2015,7.690449056343857,13.945088507472969,1.4358096052147475
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2016,8.673464415854,15.340680213677198,2.006248618030801
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2017,8.59514094554793,13.8929229006515,3.297358990444361
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2018,11.283922789203135,19.220847518245293,3.346998060160977
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2019,10.538900559730854,17.875494384855635,3.2023067346060703
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2020,8.641005782989804,13.60058866732058,3.6814228986590303
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Carbapenems,Attributable,2021,12.119062961681465,20.38848902072936,3.84963690263357
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1990,1.0953421734159074,1.825672979648816,0.3650113671829991
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1991,1.3506799760220516,2.294187742952014,0.4071722090920889
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1992,1.6416495778516895,2.830637469500216,0.4526616862031636
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1993,2.009785226936997,3.375761349306136,0.643809104567858
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1994,3.2052603490695644,5.569804229810908,0.8407164683282207
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1995,3.133967122980305,5.083836344491141,1.1840979014694697
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1996,2.897272755130468,4.491001622597008,1.3035438876639271
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1997,3.5440088971538533,5.913693781959164,1.174324012348542
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1998,4.364415230074785,8.13905518877826,0.5897752713713103
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,1999,3.170891358430353,5.064704514776345,1.2770782020843614
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2000,3.1918489856345955,5.223106286670609,1.1605916845985829
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2001,2.948233442138445,5.0753156077015245,0.8211512765753657
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2002,2.339773528747317,3.3897930099993,1.289754047495334
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2003,2.149720850012048,3.086646166240718,1.2127955337833782
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2004,2.5197078932611,3.680550557622969,1.358865228899231
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2005,2.9150720365186107,4.363065798824296,1.4670782742129254
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2006,3.920261102259868,6.2746126149043775,1.5659095896153588
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2007,4.702154776778146,7.987845643864504,1.416463909691788
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2008,4.369080260194345,7.156232307347468,1.5819282130412216
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2009,5.2330946692634175,8.386670227284576,2.0795191112422584
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2010,5.8214968302917045,10.124318412914548,1.5186752476688623
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2011,6.565821208602184,10.574299215861554,2.557343201342814
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2012,7.633633125770452,13.700128926917069,1.5671373246238387
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2013,8.510922952565526,15.205255301460598,1.8165906036704536
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2014,11.017007428221664,20.0077336846622,2.0262811717811307
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2015,13.965622732173872,29.50042736400937,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2016,16.324354549888724,33.74606210043824,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2017,16.237653189591633,30.370523096124675,2.104783283058591
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2018,21.569584554906783,43.95663119738472,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2019,21.0844506343474,41.14831154263218,1.020589726062617
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2020,16.490337077043215,29.6968769692994,3.28379718478703
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Pseudomonas aeruginosa,Carbapenems,Attributable,2021,25.47216012307012,49.65408880761629,1.2902314385239535
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1990,0.1337112771875967,0.2663789115308345,0.001043642844359
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1991,0.1308503972429051,0.2612479266086768,0.0004528678771335
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1992,0.1480797182665014,0.2954182990550025,0.0007411374780002811
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1993,0.201547228105204,0.4030114538579777,0.00008300235243030585
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1994,0.2570626357418227,0.5125447637822054,0.00158050770144
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1995,0.2985994860592157,0.5978063428742997,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1996,0.3070327637645859,0.6143508346564296,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1997,0.3014775099453374,0.6052838616981016,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1998,0.2978747617987827,0.5951205697554307,0.0006289538421346
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,1999,0.28595002021200006,0.570925621482798,0.0009744189412020932
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2000,0.2667047340937976,0.5313113421315994,0.002098126055995797
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2001,0.23226714412862587,0.4637946939886013,0.0007395942686504453
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2002,0.19849426732709727,0.4003932660423318,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2003,0.2245392715824176,0.447263430315356,0.001815112849479189
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2004,0.25880035008251434,0.5152781035616718,0.002322596603356819
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2005,0.2664046812882078,0.5260519354774533,0.006757427098962265
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2006,0.2930275134180687,0.5798334066568486,0.006221620179288845
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2007,0.3004775700863711,0.5930957541542845,0.007859386018457704
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2008,0.3028742393710048,0.5958267325896238,0.009921746152385724
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2009,0.29454456943648755,0.5783108336256788,0.010778305247296229
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2010,0.31815959783848047,0.6289608295553849,0.007358366121576032
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2011,0.333250202882968,0.6626122326734609,0.0038881730924750224
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2012,0.3651769652299983,0.725588787760947,0.0047651426990495405
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2013,0.4025124221795466,0.8002673419224042,0.004757502436689043
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2014,0.4360831378964244,0.8676428811337362,0.004523394659112556
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2015,0.471240415842808,0.9349115768032422,0.00756925488237381
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2016,0.4908689002248153,0.9746785642763433,0.007059236173287575
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2017,0.49193993720835016,0.9736537532039784,0.01022612121272204
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2018,0.5452221168477287,1.0844726851349744,0.0059715485604829865
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2019,0.5588949508815507,1.1079229244615223,0.009866977301578927
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2020,0.5914975917909734,1.171793373982042,0.0112018095999048
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Non-typhoidal Salmonella,Fluoroquinolones,Attributable,2021,0.6216211625843353,1.2302873143070094,0.012955010861661176
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1990,0.1172129276426479,0.2620385756135591,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1991,0.09637552092359,0.2150673947078666,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1992,0.0850623029574927,0.1906055899093245,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1993,0.1017323264448772,0.2272578898459569,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1994,0.1470296325067299,0.3297978462949547,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1995,0.1791501091795823,0.4087965309179763,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1996,0.1860544430817816,0.4249819756595814,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1997,0.1905535715901811,0.4343161391628125,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1998,0.2181145742731303,0.4963802789299273,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,1999,0.23292537223154888,0.5297796020194501,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2000,0.2415906702636636,0.5494718178497116,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2001,0.20184884951637735,0.4608449995922091,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2002,0.1592519249055515,0.36196675619095214,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2003,0.17928508526102352,0.40573866433965466,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2004,0.17666386644378196,0.4020477886080016,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2005,0.18139241820282048,0.41248397950476734,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2006,0.21415232514041235,0.4887688284718528,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2007,0.2083733918888797,0.4745915835640192,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2008,0.20273075417760936,0.46088877281235846,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2009,0.18190997128822065,0.4139056082928901,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2010,0.1821158670071159,0.41252004464694514,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2011,0.15315649786401048,0.3460539928169472,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2012,0.19657687856423173,0.4430854774043458,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2013,0.1808361076995459,0.4082126375075754,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2014,0.148442543340295,0.335588343706903,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2015,0.14295486215356776,0.32937110244383005,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2016,0.13373438942548344,0.3067990488364133,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2017,0.13652926963162249,0.31362279386235026,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2018,0.12362895001106894,0.2822621432951692,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2019,0.1286410707686867,0.2906117331717192,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2020,0.12967537281717867,0.29189829256357613,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Salmonella enterica serovar Typhi,Fluoroquinolones,Attributable,2021,0.13092668545628877,0.2939788434948789,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1990,0.0161180991967672,0.0457041238643187,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1991,0.0168710847084421,0.0483882851510855,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1992,0.02052915366176174,0.057978760894739606,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1993,0.0377096974566015,0.0983200790401595,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1994,0.0425527031196019,0.1167082587154419,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1995,0.0564770651685289,0.1485473596404334,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1996,0.0511330804260487,0.1351850854285211,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1997,0.050673204415845,0.1291032830002705,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1998,0.0505966997553203,0.1236603486420573,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,1999,0.04824306786041345,0.11376991072705486,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2000,0.04415056965383,0.10289140649154496,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2001,0.04013836676575861,0.09390144109872546,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2002,0.03462045679526379,0.08582843724767775,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2003,0.03988693025009775,0.09983338791193992,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2004,0.04360950125168972,0.10998972209424784,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2005,0.04556155227199621,0.11593827423889902,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2006,0.04995029553151831,0.13031928225191164,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2007,0.05111391130739124,0.13912587385228767,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2008,0.05092098283972255,0.14185593588587928,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2009,0.0497932663764884,0.15028333190502496,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2010,0.05006472986562455,0.1517442555018706,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2011,0.04900872408785618,0.15150044454330988,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2012,0.05326253066818197,0.15715450243120355,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2013,0.05468568663542293,0.15913992209207722,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2014,0.052807203646242265,0.15278112540987432,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2015,0.05381672865991849,0.1557386571766412,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2016,0.053943108361276505,0.15823541874998084,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2017,0.05308098228277645,0.15800928625770672,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2018,0.05469020724550711,0.1619370541252933,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2019,0.055019758169179714,0.16221428543470556,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2020,0.056330330298160175,0.16348901432860696,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Shigella spp.,Fluoroquinolones,Attributable,2021,0.05685688925089155,0.16703099466110255,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1990,0.3941147196348127,1.6332536967505489,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1991,0.825985105586206,3.303731773916644,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1992,1.8080578266076623,6.615329451912292,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1993,3.4887016215660163,12.382458593928174,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1994,5.670976406983799,20.44661911650475,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1995,8.069287939850032,29.5776512411734,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1996,10.44373824788086,36.98821864013308,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1997,12.304263987750158,46.94790141654244,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1998,13.126329160861593,49.67231387403384,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,1999,13.222417754520832,48.0914495441472,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2000,13.22809546166242,47.362519656083215,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2001,13.77299368197276,46.90132618729807,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2002,13.855532369992895,47.08977777021392,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2003,15.878151424196329,52.5347540766177,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2004,17.389784928364765,54.929941886441256,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2005,17.938358437446443,55.08256610292415,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2006,18.541748310687343,53.1122618110595,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2007,19.33185282651825,52.7548817123195,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2008,20.479125292279125,53.447049139693846,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2009,21.297914519462807,55.25123195770119,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2010,22.3927523517184,58.09870200564252,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2011,22.315018737661006,57.38211411758588,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2012,21.993676832541823,57.05085893328972,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2013,21.030192539405583,54.85427639035,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2014,19.369972767419984,52.86987963076889,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2015,18.284056926212017,52.08170424283696,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2016,17.393420430039022,50.25407349913917,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2017,16.534812577589378,49.774622511240366,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2018,15.77834185124074,49.65096201095156,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2019,15.103000619582083,51.830629055450544,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2020,14.255609642969636,50.8021908508036,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Resistance to one or more antibiotics,Attributable,2021,13.622748053244704,46.61027373467834,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1990,0.0570731800529934,0.1000550190310322,0.0140913410749546
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1991,0.0654767615597743,0.1111068286841008,0.0198466944354478
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1992,0.0760203845264455,0.13272151283775174,0.019319256215139254
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1993,0.0941070223891456,0.1592255586273501,0.0289884861509411
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1994,0.143396130923079,0.2365409249498343,0.0502513368963237
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1995,0.1429459711200076,0.2374256748200505,0.0484662674199646
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1996,0.1383982207677295,0.2229975456735421,0.0537988958619169
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1997,0.1585141901923873,0.2516383763376898,0.0653900040470849
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1998,0.1847722943983945,0.3039176458707535,0.0656269429260354
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,1999,0.14082256586949035,0.22048540884581208,0.06115972289316862
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2000,0.13823044772888465,0.21441008259521363,0.06205081286255562
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2001,0.122929032811968,0.20044407710936407,0.04541398851457194
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2002,0.10239203079126502,0.15612538474800383,0.04865867683452622
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2003,0.09027995460267844,0.13767369122494005,0.04288621798041684
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2004,0.09971857811407306,0.1517696100486137,0.04766754617953242
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2005,0.10741901672175938,0.16771133029564592,0.04712670314787285
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2006,0.12663493890237534,0.21088307122388655,0.042386806580864106
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2007,0.14015551267808535,0.24017936117866684,0.04013166417750387
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2008,0.12630734609484273,0.20652452899945556,0.04609016319022993
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2009,0.1251301566336159,0.2124793591585024,0.03778095410872945
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2010,0.13429432670564417,0.2196980825627133,0.04889057084857501
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2011,0.14017896304549438,0.22938416573137,0.05097376035961879
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2012,0.1388535006491458,0.2504684733923356,0.027238527905956045
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2013,0.1376248916573901,0.252739640979133,0.02251014233564723
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2014,0.14681749827800006,0.2708535505876035,0.022781445968396624
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2015,0.16974378232958393,0.3725766958067849,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2016,0.18163895332674185,0.3858724174584032,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2017,0.17516496862876274,0.35789286295182365,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2018,0.1990357681656837,0.3818007373770282,0.016270798954339166
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2019,0.19232289480547105,0.4131240189577924,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2020,0.1777952946629987,0.3391519477925079,0.01643864153348948
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Citrobacter spp.,Third-generation cephalosporins,Attributable,2021,0.2135949864200793,0.4158246097166355,0.01136536312352318
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1990,0.8152985016377606,1.261059248487911,0.3695377547876101
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1991,0.9598832806505728,1.517056782559831,0.4027097787413145
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1992,1.150720125659821,1.8100444275305951,0.4913958237890468
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1993,1.402611720330096,2.222557316044325,0.5826661246158672
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1994,2.135245383488963,3.3526217162408667,0.9178690507370592
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1995,1.9507126424260488,2.9961966691220008,0.9052286157300982
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1996,1.8901812934033608,2.8361208003263254,0.944241786480396
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1997,2.226416543868324,3.3690355184784506,1.0837975692581976
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1998,2.7786365351240767,4.4522230076006215,1.105050062647532
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,1999,1.978357623238096,3.032984154720306,0.9237310917558864
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2000,2.0163789012326427,3.053224804313701,0.9795329981515845
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2001,1.8462180999625808,2.955771268605462,0.7366649313197005
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2002,1.336486033654492,1.9299663052495863,0.7430057620593973
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2003,1.2557140930061212,1.7910793503668154,0.7203488356454271
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2004,1.4862826711555523,2.0928401946099555,0.8797251477011494
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2005,1.6987604942548673,2.454409225957181,0.9431117625525536
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2006,2.245271371223076,3.500510777571385,0.9900319648747664
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2007,2.358307939491339,3.931038651855658,0.7855772271270198
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2008,2.1826579095264127,3.247959931706799,1.1173558873460263
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2009,2.315307070348872,3.5662942059826728,1.0643199347150711
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2010,2.435980272663932,4.045003845789315,0.8269566995385476
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2011,2.682477816023189,3.995068737637424,1.3698868944089546
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2012,3.141724777151925,5.179127666758795,1.1043218875450544
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2013,3.7484439465209,6.279738999064342,1.2171488939774575
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2014,4.657847689387708,7.734580383552805,1.5811149952226118
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2015,5.801476560415172,11.22220619115572,0.38074692967462553
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2016,6.589908587651333,12.319838059251987,0.8599791160506793
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2017,6.526989420147398,11.55460888323509,1.499369957059705
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2018,8.039769453612717,14.71541163571208,1.364127271513353
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2019,7.576547696748955,12.82798583304929,2.3251095604486203
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2020,6.306802424394773,10.231134183038684,2.3824706657508603
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Escherichia coli,Third-generation cephalosporins,Attributable,2021,8.815154062028203,15.689224393779142,1.9410837302772643
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1990,0.4532367868415928,0.7592220317550966,0.1472515419280891
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1991,0.5401553798414828,0.925229417150702,0.1550813425322635
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1992,0.6139354390516317,1.0605189239026722,0.1673519542005913
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1993,0.7331437040079587,1.2577865613654715,0.2085008466504457
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1994,1.1179668434243375,1.925607279125487,0.3103264077231878
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1995,1.0055103251815862,1.6882956096067143,0.3227250407564581
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1996,0.944159270428642,1.546083821834546,0.3422347190227379
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1997,1.1027409010042688,1.841387960418324,0.3640938415902136
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1998,1.336423848194756,2.3765185506935893,0.2963291456959227
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,1999,0.9298251708535964,1.5456505825697644,0.3139997591374284
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2000,0.9163982306548905,1.5210414979190303,0.31175496339075026
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2001,0.8389902580520786,1.475229270155246,0.20275124594891125
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2002,0.6513045533800127,1.0143131073153928,0.2882959994446325
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2003,0.5885156364480548,0.9086751572262696,0.2683561156698402
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2004,0.7041924654150588,1.0731127415375177,0.33527218929259983
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2005,0.7684479528421972,1.2186979585733897,0.31819794711100496
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2006,0.9777007723217122,1.7047048634087156,0.2506966812347088
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2007,1.2235497007772778,2.289700582797685,0.15739881875687045
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2008,1.1426118397314051,1.8448331127004696,0.4403905667623411
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2009,1.2174691029129103,2.062066559881287,0.3728716459445337
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2010,1.2700279311316414,2.2695250116661847,0.270530850597098
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2011,1.258784345291846,2.012757464081305,0.5048112265023873
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2012,1.4577548377871137,2.6415855939142974,0.2739240816599293
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2013,1.334663908503932,2.464993452385757,0.20433436462210677
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2014,1.5051786492834038,2.736645594614863,0.2737117039519448
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2015,1.906409782786424,4.2814957342454925,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2016,2.247994596979188,4.740140144004152,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2017,2.175982538219139,4.265105238598132,0.08685983784014661
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2018,2.8287060293919355,5.535130937048974,0.12228112173489736
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2019,2.6192956728989096,4.9822988161267485,0.25629252967107075
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2020,1.9882454471042492,3.600751730375546,0.3757391638329528
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Klebsiella pneumoniae,Third-generation cephalosporins,Attributable,2021,2.8167775835465507,5.524266348956245,0.10928881813685631
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1990,0.0909942287284838,0.1276761355496837,0.0543123219072839
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1991,0.1103602359221125,0.1606446064028851,0.0600758654413398
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1992,0.12914276741585762,0.18710135126853197,0.07118418356318328
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1993,0.1525489670429712,0.2245022326505337,0.0805957014354087
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1994,0.2418283623218947,0.3658867280622117,0.1177699965815778
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1995,0.2217507957807661,0.313836321106144,0.1296652704553882
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1996,0.2032270731717474,0.2867188172639021,0.1197353290795928
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1997,0.2431399594903376,0.3527509414473517,0.1335289775333235
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1998,0.3010317036212896,0.4673425117978284,0.1347208954447508
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,1999,0.20716846156607965,0.3007985886925521,0.1135383344396072
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2000,0.20144923874667567,0.28682894223964006,0.1160695352537114
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2001,0.1822390107179767,0.2808558195539592,0.0836222018819942
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2002,0.12693467332246777,0.17248481874612606,0.08138452789880948
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2003,0.1145984090279418,0.15447912702778324,0.07471769102810036
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2004,0.1263195964457239,0.17191686289646635,0.08072232999498148
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2005,0.13842494444293485,0.1944949232695324,0.08235496561633729
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2006,0.17474038846570938,0.25983255468714883,0.08964822224426996
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2007,0.1966814092814325,0.30925742610922147,0.08410539245364348
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2008,0.1738530499485315,0.2563081578118606,0.09139794208520242
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2009,0.18119994685672375,0.2707610653146942,0.09163882839875336
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2010,0.1792046893360171,0.29407293704695014,0.06433644162508408
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2011,0.17556025565017397,0.256054632212224,0.09506587908812392
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2012,0.18869398739866988,0.2970707624921999,0.08031721230513987
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2013,0.1911570300317917,0.3075822901421871,0.07473176992139643
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2014,0.24093618176230372,0.3835183458249103,0.0983540176996972
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2015,0.3000126875112209,0.5440723333250316,0.055953041697410194
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2016,0.33339944211847067,0.5921604624513479,0.07463842178559349
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2017,0.3200557904133733,0.5419152090254742,0.09819637180127232
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2018,0.3829184079081355,0.6472190545634471,0.11861776125282404
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2019,0.3432727318779895,0.5621948592542167,0.12435060450176232
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2020,0.254202988594399,0.3966209785712581,0.11178499861753988
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Morganella spp.,Third-generation cephalosporins,Attributable,2021,0.3465345451685394,0.5857192214276719,0.10734986890940693
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1990,0.1047854229457982,0.1671309606366934,0.042439885254903
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1991,0.121329620254902,0.1866055278432853,0.0560537126665187
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1992,0.13905619876932057,0.22539526254809025,0.0527171349905509
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1993,0.1631235743691819,0.2636051898017428,0.0626419589366211
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1994,0.3064012941737033,0.481453300646308,0.1313492877010987
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1995,0.2786034797858367,0.434151115314964,0.1230558442567094
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1996,0.2476190708430456,0.3797170766957602,0.1155210649903309
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1997,0.2746179614405115,0.4210935852390196,0.1281423376420035
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1998,0.3276023805753488,0.539346110958675,0.1158586501920227
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,1999,0.23010151734982187,0.35417038906010834,0.10603264563953542
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2000,0.21966502216496067,0.3320671000749964,0.10726294425492491
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2001,0.19435997958160228,0.315519861913288,0.07320009724991658
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2002,0.14650219593439523,0.2160078001921449,0.07699659167664555
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2003,0.1330697231864583,0.196947732636608,0.06919171373630859
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2004,0.1443222708888365,0.2121791497864744,0.0764653919911986
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2005,0.15642594268957738,0.23442224414376228,0.07842964123539249
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2006,0.20356490916962483,0.3274260248089292,0.07970379353032049
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2007,0.22869014248848188,0.37955566788645245,0.07782461709051133
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2008,0.21906133324076144,0.3365124616937003,0.10161020478782264
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2009,0.21926065300686912,0.33811573359337177,0.10040557242036648
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2010,0.24992990690931957,0.39687186133619634,0.10298795248244276
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2011,0.27340383051133965,0.4204760882600301,0.12633157276264914
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2012,0.3383330693594644,0.5656766759445497,0.11098946277437904
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2013,0.32979945810712374,0.5529352329601769,0.10666368325407063
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2014,0.4238967946407005,0.7189884412876135,0.12880514799378745
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2015,0.5379545755663651,0.996209758579538,0.07969939255319225
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2016,0.6353414038959808,1.1482345291014573,0.12244827869050424
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2017,0.6172986758433506,1.0733389960951982,0.1612583555915031
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2018,0.8096916576421498,1.3745474544195662,0.2448358608647334
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2019,0.7447019724333583,1.3696677281714775,0.11973621669523926
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2020,0.564951982493995,0.9559867032146612,0.1739172617733289
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Proteus spp.,Third-generation cephalosporins,Attributable,2021,0.8914586489740886,1.488857110867527,0.29406018708065
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1990,0.0276618135352892,0.0839756101021582,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1991,0.0330839524075399,0.094427286542384,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1992,0.04026817622610729,0.11673890622244504,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1993,0.0506491133682417,0.1417191879701682,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1994,0.0764938952456744,0.2028165052653355,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1995,0.0757285406879026,0.2021256737070443,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1996,0.0747823678858883,0.1910502620135741,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1997,0.0280809612665049,0.0820228304048595,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1998,0.0293087740415446,0.0876003258715147,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,1999,0.02357046471776359,0.0672548567054709,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2000,0.02488871884707638,0.06750564841247998,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2001,0.022903277508652585,0.06307628399397981,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2002,0.021709786173793183,0.05488634624643548,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2003,0.02412050930689644,0.056589607297722944,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2004,0.032057550091576334,0.07217291184234319,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2005,0.03784856245175105,0.0839148292555596,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2006,0.05214798925136668,0.12101744525490445,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2007,0.06390720414562301,0.14923255977532085,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2008,0.0646519454309782,0.13832400895950697,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2009,0.06885530452064831,0.15175881080671766,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2010,0.06326476856325058,0.135909591609069,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2011,0.07025675820037029,0.14963204820454165,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2012,0.08401219797955031,0.185577715754324,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2013,0.09459382353003803,0.2113258037886966,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2014,0.1679658968321711,0.342590786407362,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2015,0.1960767836847904,0.4979782548863778,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2016,0.2230638325087747,0.5125757956148781,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2017,0.2210656335472187,0.49195369745116296,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2018,0.2619283255528932,0.5503638247361682,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2019,0.16951937007031992,0.4212902082549329,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2020,0.13150255823891183,0.2948872360486746,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Serratia spp.,Third-generation cephalosporins,Attributable,2021,0.190068708329231,0.445384980919737,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1990,0.1270486936160484,0.2021994435342309,0.0518979436978658
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1991,0.1466300503013623,0.2395144293654716,0.0537456712372529
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1992,0.16496266887498234,0.27369437559002774,0.056230962159936976
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1993,0.1867186139209971,0.3132281922606482,0.0602090355813461
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1994,0.2633323331517614,0.4711877500089902,0.0554769162945325
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1995,0.2271075873452143,0.3858338029710052,0.0683813717194235
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1996,0.1969942883595198,0.3323581261212217,0.0616304505978179
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1997,0.2184621423505864,0.3986381008844452,0.0382861838167277
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1998,0.2489183224655277,0.45691339786984,0.0409232470612155
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,1999,0.17429349795962568,0.3215302406441372,0.027056755275114225
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2000,0.1673367351349644,0.2956649700792674,0.039008500190661405
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2001,0.1504221660562271,0.2900308191599563,0.010813512952497911
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2002,0.12178719205087836,0.21606594291977155,0.0275084411819852
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2003,0.12007614406983562,0.208927209427137,0.031225078712534257
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2004,0.1471181107534109,0.24809216736886164,0.04614405413796019
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2005,0.18972815617741545,0.29978031867484334,0.07967599367998751
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2006,0.2724521716636558,0.4204110508409864,0.12449329248632524
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2007,0.37512643881935054,0.5733625748126266,0.17689030282607446
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2008,0.39193465539685945,0.5818479927284401,0.20202131806527884
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2009,0.3743833698998695,0.559984241647994,0.188782498151745
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2010,0.39229042940726433,0.6219561157209635,0.16262474309356514
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2011,0.3838163291163367,0.5587005341346838,0.2089321240979895
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2012,0.4466298467231092,0.7027229898714047,0.19053670357481367
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2013,0.47103802640794457,0.7143366756628735,0.22773937715301565
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2014,0.5892663485828326,0.9273317070699024,0.25120099009576274
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2015,0.7433691645683145,1.3829582102066196,0.10378011893000938
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2016,0.8335031973617647,1.491940686627117,0.17506570809641253
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2017,0.7261104724928202,1.1913109320480622,0.2609100129375784
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2018,0.9157013883030302,1.5836963860717228,0.24770639053433752
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2019,0.8440567370361274,1.4965046162278228,0.19160885784443196
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2020,0.677693054351747,1.0978171120296234,0.25756899667387056
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Haemophilus influenzae,Aminopenicillin,Attributable,2021,0.9711636043581576,1.613711766212526,0.32861544250378927
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1990,0,0,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1991,0,0.0000017135558241313226,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1992,0,0.000006571399268155212,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1993,0.0193102950025976,0.0481833551166256,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1994,0.0564568391327448,0.1475013183148417,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1995,0.1193796906822116,0.3318205975791642,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1996,0.2067422714112929,0.5603373118027656,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1997,0.3003212261483756,0.7823184182329515,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1998,0.376739610503315,1.013164672320998,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,1999,0.4324414179035611,1.1455269125527112,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2000,0.490069551690716,1.3052873139005383,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2001,0.5766874961175864,1.470733240311419,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2002,0.6496305339847913,1.7031233625242708,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2003,0.8242438052168796,2.124795129877442,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2004,0.9614183712812204,2.324127163448793,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2005,1.0546619922992106,2.521027502009461,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2006,1.1574833647250018,2.660411437975972,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2007,1.2589360691131644,2.7136517177037813,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2008,1.386499359162984,2.890355831525391,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2009,1.4783244611124653,3.06414640519508,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2010,1.5941796259836123,3.3548081979013213,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2011,1.5932004527812738,3.3699260272705684,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2012,1.6321342485604382,3.4684167196690696,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2013,1.652939994708713,3.546189050779498,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2014,1.6401301474023713,3.654019070903378,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2015,1.6492199738767432,3.851829712656553,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2016,1.6238801599899713,3.868790518394417,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2017,1.588514762025505,3.947473390322072,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2018,1.551625217681177,4.047306883820553,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2019,1.5213780746398609,4.27715377502947,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2020,1.4443377382825675,4.086803087084755,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Extensive drug resistance in TB,Attributable,2021,1.401586310216893,3.933725504304156,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1990,0.0490636202554961,0.0721536566699507,0.0259735838410414
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1991,0.0566700046586849,0.0864295251187146,0.0269104841986552
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1992,0.06550661748832717,0.10259637627038812,0.02841685870626623
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1993,0.0786497240930358,0.1207835042180234,0.0365159439680482
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1994,0.1171849692833788,0.1780395996814357,0.056330338885322
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1995,0.111194323643138,0.1610591526255559,0.06132949466072
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1996,0.1039659820080815,0.1512173922368498,0.0567145717793131
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1997,0.1174526718076543,0.1819277842983186,0.0529775593169899
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1998,0.1368408787743364,0.2071720314509382,0.0665097260977347
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,1999,0.10093492538226648,0.15038242398402504,0.05148742678050793
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2000,0.09785979319686088,0.14368525051679645,0.05203433587692537
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2001,0.08685666137411031,0.1302180673648198,0.04349525538340082
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2002,0.07285024831615192,0.1025185203605416,0.04318197627176222
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2003,0.06430466831123499,0.0928282681152639,0.03578106850720608
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2004,0.07387101470240183,0.10469188044259677,0.04305014896220691
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2005,0.0829823196136714,0.12117993207426062,0.04478470715308219
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2006,0.10052479671299266,0.14857033964386476,0.052479253782120566
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2007,0.1168997922164243,0.1824621967057174,0.05133738772713119
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2008,0.1112345483844712,0.16395760267366516,0.05851149409527726
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2009,0.11646500488320616,0.17685376257699584,0.05607624718941648
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2010,0.12494189135081513,0.19875035802558744,0.05113342467604283
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2011,0.13384006520097558,0.2009582135602711,0.06672191684168005
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2012,0.15307681697754738,0.2557802159099084,0.05037341804518636
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2013,0.16312322730754214,0.28793389526998187,0.0383125593451024
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2014,0.206801533564749,0.33614529202572974,0.07745777510376825
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2015,0.2514225146435941,0.41029397454437205,0.09255105474281616
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2016,0.288901641057863,0.5218563017231046,0.055946980392621415
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2017,0.28946261948242014,0.519003033478032,0.05992220548680829
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2018,0.3710493826717848,0.6750069992102319,0.06709176613333784
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2019,0.35249445040394234,0.5975672533175809,0.10742164749030378
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2020,0.29941847340322403,0.49876868636360006,0.100068260442848
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group A Streptococcus,Macrolides,Attributable,2021,0.4146286117500403,0.7477738939626017,0.08148332953747878
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1990,0.3253232997565087,0.5131480418938251,0.1374985576191922
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1991,0.3769422986403327,0.5939102181125999,0.1599743791680654
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1992,0.4423574445103775,0.7238004591877141,0.16091442983304094
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1993,0.5548756099356992,0.8924163494449515,0.2173348704264469
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1994,0.8708179056112945,1.3723191423295318,0.369316668893057
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1995,0.8406334230500911,1.2874353921322834,0.3938314539678988
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1996,0.8041132226516691,1.259497697765346,0.348728747537992
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1997,0.9758129453940854,1.564778319347818,0.3868475714403527
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1998,1.258298336687728,1.9780328662372424,0.538563807138214
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,1999,0.9610754950266333,1.501842921731291,0.42030806832197554
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2000,1.014982858107908,1.6094440984006295,0.4205216178151864
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2001,0.9887532054259894,1.5058619873397894,0.4716444235121894
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2002,0.7611324088974455,1.1203721467143248,0.4018926710805661
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2003,0.8615635862286134,1.2799999285302417,0.4431272439269851
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2004,1.1266721901093582,1.630762194456414,0.6225821857623023
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2005,1.3927377054975585,2.087717864305173,0.697757546689944
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2006,1.97476870697251,3.024464989302463,0.9250724246425566
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2007,2.3997059378429637,3.799931191035709,0.999480684650218
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2008,2.2624869510479533,3.376005726475768,1.1489681756201384
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2009,2.2130739561602506,3.4477782049315877,0.978369707388914
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2010,2.4164900887904417,3.702049843469674,1.130930334111209
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2011,2.735313265590629,4.018815335219636,1.451811195961622
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2012,2.974951044225341,4.842242020088295,1.1076600683623878
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2013,3.2263305387324,5.533334220638253,0.9193268568265464
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2014,3.7938660003741966,6.133502710800027,1.4542292899483664
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2015,4.370033184903274,7.305282244645274,1.4347841251612747
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2016,4.779535078177313,8.502338026988042,1.0567321293665837
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2017,3.947478360357772,6.85414911264552,1.0408076080700246
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2018,4.60812686159563,8.488814210698965,0.7274395124922952
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2019,3.153405842114357,5.264126963454716,1.0426847207739982
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2020,1.9044118660909315,3.113332177172011,0.6954915550098513
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Streptococcus pneumoniae,Macrolides,Attributable,2021,2.7826014799729317,4.906633970171496,0.6585689897743663
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1990,1.9979808897688227,3.2588205614922687,0.7371412180453765
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1991,2.1910243504899416,3.5479256482549992,0.834123052724884
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1992,2.737945805324059,4.449984201428187,1.0259074092199307
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1993,3.2136089997584154,5.23498256458857,1.192235434928261
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1994,4.868719649930185,7.606246180504311,2.13119311935606
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1995,4.5214069158878045,7.24547428520156,1.7973395465740492
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1996,4.563974385232354,6.963534999649486,2.1644137708152225
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1997,5.231858792001884,8.061501676246378,2.402215907757389
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1998,6.209775041039947,10.09793613795791,2.321613944121984
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,1999,4.45524840090032,6.7099240045085775,2.200572797292063
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2000,4.570358096082201,6.815822564415319,2.324893627749082
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2001,3.988505217944229,6.2127616485202655,1.7642487873681918
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2002,3.31879633215479,4.746867188574794,1.890725475734788
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2003,3.149250726869496,4.39845462221462,1.9000468315243717
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2004,3.5166684624090907,4.847959451628146,2.1853774731900355
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2005,3.764494511587789,5.36901322707541,2.159975796100168
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2006,4.860236380645495,7.379062506707431,2.341410254583559
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2007,5.517318386659202,8.651394314500264,2.3832424588181405
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2008,5.260918062012394,7.72456349128635,2.7972726327384367
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2009,5.611042199333104,8.381110490510192,2.840973908156017
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2010,6.176432273378626,8.874124145712036,3.4787404010452154
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2011,6.889302280500242,9.846647854657745,3.9319567063427407
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2012,8.242411226519863,12.842683465631085,3.642138987408641
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2013,8.858233167706892,13.772037322697503,3.94442901271628
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2014,11.7632300194595,17.988851505756163,5.537608533162835
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2015,13.937406583676932,24.62199105531014,3.252822112043725
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2016,16.23848878672779,27.92428603681457,4.552691536641008
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2017,15.537707443206362,25.43845198878742,5.636962897625304
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2018,19.986023428568657,33.12608011694576,6.845966740191559
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2019,18.0207319080531,31.1834689054253,4.857994910680899
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2020,15.117850836024957,23.41693216195397,6.818769510095944
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Staphylococcus aureus,Methicillin,Attributable,2021,21.83470222877421,34.68697545328852,8.982429004259908
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1990,0.3941147196348127,1.6332536967505489,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1991,0.825985105586206,3.30373164336088,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1992,1.8080578266076623,6.615328895748782,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1993,3.4693913265634184,12.337113925441418,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1994,5.614519567851055,20.30655550178748,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1995,7.9499082491678195,29.26414324158843,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1996,10.236995976469569,36.46159313630747,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1997,12.003942761601785,46.23323203414238,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1998,12.749589550358278,48.70923173787838,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,1999,12.789976336617272,47.00085038127944,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2000,12.738025909971704,46.11345449331419,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2001,13.196306185855176,45.50741512813471,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2002,13.205901836008104,45.47923364229951,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2003,15.053907618979448,50.55621624807381,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2004,16.428366557083546,52.82136435057981,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2005,16.883696445147233,52.84035582889816,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2006,17.384264945962343,50.78843030184947,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2007,18.07291675740509,50.38841776613532,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2008,19.092625933116143,50.88981358593138,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2009,19.819590058350343,52.53949034586667,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2010,20.79857272573479,55.12739399977963,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2011,20.72181828487973,54.3731900821844,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2012,20.361542583981382,53.9206524739479,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2013,19.377252544696876,51.62404326447368,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2014,17.729842620017614,49.52437816259038,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2015,16.634836952335274,48.54908510507829,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2016,15.769540270049053,46.6900677699353,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2017,14.946297815563874,46.14751781227521,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2018,14.226716633559562,45.88757465844675,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2019,13.581622544942224,47.81574768111601,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2020,12.811271904687068,46.94664849884117,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Mycobacterium tuberculosis,Multi-drug resistance excluding extensive drug resistance in TB,Attributable,2021,12.22116174302781,42.90670292160954,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1990,0.0850207245354108,0.183261820361427,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1991,0.0970679748853316,0.202777379341577,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1992,0.11104354449645724,0.24245552678512025,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1993,0.1322174937554841,0.2786037000282563,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1994,0.1965759454714487,0.3911411349371192,0.0020107560057782
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1995,0.1855724496631345,0.3754271119465172,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1996,0.1723726371014174,0.3450999297841355,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1997,0.2081815968552853,0.4137491896452873,0.0026140040652833
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1998,0.2243708142175868,0.4565637580912798,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,1999,0.1643475266998592,0.31619664824020044,0.012498405159517917
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2000,0.15908625809619178,0.3109404175981383,0.007232098594245312
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2001,0.14315556537620497,0.2800061136053069,0.0063050171471029925
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2002,0.11012393204160983,0.2072374294273855,0.013010434655834194
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2003,0.10319922922763848,0.1921906637260581,0.014207794729218876
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2004,0.13243894558130156,0.24289394085353863,0.021983950309064484
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2005,0.14162750536735708,0.26624191768998984,0.01701309304472433
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2006,0.17682172466597051,0.355993674118396,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2007,0.1979673248099376,0.4079433980520104,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2008,0.18547780908651745,0.3652516125755856,0.005704005597449241
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2009,0.19037220136778543,0.380503760337507,0.00024064239806384505
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2010,0.19870120716169967,0.3659623365625757,0.03144007776082369
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2011,0.24209328983644385,0.4584607817178484,0.02572579795503932
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2012,0.2586222647950249,0.5148493963372307,0.002395133252819204
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2013,0.23266626729197767,0.4612841638722705,0.0040483707116848455
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2014,0.29146116299559655,0.5869912335987738,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2015,0.3560763993534679,0.8649569779196422,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2016,0.3966389992408996,0.8754796800077609,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2017,0.3855403808116808,0.8123682123047751,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2018,0.5316251293866086,1.1026676774482709,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2019,0.4865580003511991,1.1815414900075163,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2020,0.4086922055096903,0.8592511963612299,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Group B Streptococcus,Penicillin,Attributable,2021,0.5435103499304367,1.129239434206833,0
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1990,0.0854457258100108,0.121718106439117,0.0491733451809046
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1991,0.0960497404356039,0.1356193855114792,0.0564800953597287
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1992,0.10848502616732962,0.15814728120261434,0.058822771132044885
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1993,0.1320769980967763,0.1893373320381118,0.0748166641554407
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1994,0.1905605467244521,0.272181642866862,0.1089394505820423
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1995,0.186767937006007,0.2662227021624906,0.1073131718495235
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1996,0.1786837591332934,0.2461349518122821,0.1112325664543046
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1997,0.1970728945608593,0.2749471947878975,0.1191985943338212
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1998,0.2218931524730995,0.3259959959700388,0.1177903089761602
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,1999,0.169638945769447,0.23121523884009731,0.10806265269879664
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2000,0.16314725688595677,0.2217902088184648,0.10450430495344876
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2001,0.14581088544495469,0.2149784076896313,0.07664336320027802
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2002,0.12483088068879776,0.1649657996652449,0.08469596171235064
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2003,0.12476742167865608,0.16614059514250745,0.08339424821480469
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2004,0.14102180219910934,0.18493105307945884,0.09711255131875984
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2005,0.15773035965264504,0.20977943491632195,0.10568128438896812
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2006,0.19619937514229213,0.28127596638554625,0.11112278389903804
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2007,0.3690885658701581,0.531834464342398,0.206342667397918
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2008,0.3935706940838427,0.5602733977212575,0.22686799044642791
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2009,0.4056093695426081,0.5740682707566365,0.23715046832857967
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2010,0.4396752917434794,0.6246138335665368,0.25473674992042217
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2011,0.4921908827048308,0.6963868342693098,0.2879949311403518
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2012,0.577525371469952,0.8707816836727825,0.2842690592671214
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2013,0.652829601847071,0.9728139464672816,0.3328452572268604
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2014,0.8607580816870234,1.290851727422122,0.4306644359519247
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2015,1.138356611971394,1.9491797135786653,0.3275335103641225
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2016,1.2971806251208229,2.2653173518861007,0.3290438983555446
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2017,1.2324502839691966,2.021736239535949,0.4431643284024444
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2018,1.529889209517756,2.5053661186689107,0.5544123003666013
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2019,1.4959590376023195,2.6482756708024766,0.3436424044021624
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2020,1.2922298290640757,1.9977099975227657,0.5867496606053857
+Afghanistan,20 to 24,Both sexes,Deaths,Number,Enterococcus faecium,Vancomycin,Attributable,2021,1.7747043624855072,2.8245815115822768,0.7248272133887377
